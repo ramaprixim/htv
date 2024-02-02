@@ -10219,7 +10219,7 @@ blockquote p {
   z-index: 1;
 }
 .footer-top {
-  padding: 120px 0 70px;
+  padding: 50px 0 0px;
 }
 @media (max-width: 767.98px) {
   .footer-top {
