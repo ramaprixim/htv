@@ -1328,7 +1328,7 @@ textarea {
   }
 }
 .tgmenu__nav .logo img {
-  max-height: 34px;
+  max-height: 60px;
 }
 .tgmenu__navbar-wrap {
   display: flex;
@@ -10787,7 +10787,7 @@ blockquote p {
 }
 
 .fw-logo img {
-  max-height: 34px;
+  max-height: 100px;
 }
 
 .fw-title {
