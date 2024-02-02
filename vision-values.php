@@ -1,4 +1,5 @@
 ﻿<?php include("includes/header.php"); ?>
+<<<<<<< HEAD
     <main class="fix">
         <!-- breadcrumb-area -->
         <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
@@ -414,4 +415,6 @@
     </main>
     <!-- main-area-end -->
     <!-- footer-area -->
+=======
+>>>>>>> 9254d3256e1ec5c92d90e1789760900b2ebdea9a
 <?php include("includes/footer.php"); ?>
