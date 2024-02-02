@@ -1,5 +1,5 @@
 <!-- footer area -->
-
+</main>
 <footer>
     <div class="footer-area">
         <div class="footer-top">
