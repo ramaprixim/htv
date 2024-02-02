@@ -135,24 +135,24 @@
                                           
                                             </ul>
                                             
-                                        </li> <li class="menu-item-has-children"><a href="#">Our Clients</a>
+                                        </li> <li class="menu-item-has-children"><a href="our-clients.php">Our Clients</a>
                                           
                                         </li>
-                                        </li> <li class="menu-item-has-children"><a href="#">Work With Us</a>
+                                        </li> <li class="menu-item-has-children"><a href="work-with-us.php">Work With Us</a>
                                             <ul class="sub-menu">
-                                                <li><a href="team.html">Join Us</a></li>
-                                                <li><a href="team-2.html">Channel Partners</a></li>
+                                                <li><a href="join-us.php">Join Us</a></li>
+                                                <li><a href="channel-partners.php">Channel Partners</a></li>
                                                 
                                             </ul>
                                         </li>
-                                        </li> <li class="menu-item-has-children"><a href="#">Current Openings</a>
-                                            <ul class="sub-menu">
+                                        </li> <li class="menu-item-has-children"><a href="current-openings.php">Current Openings</a>
+                                            <!-- <ul class="sub-menu">
                                                 <li><a href="team.html">Join Us</a></li>
                                                 <li><a href="team-2.html">Channel Partners</a></li>
                                                 
-                                            </ul>
+                                            </ul> -->
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">Blog</a>
+                                        <li class="menu-item-has-children"><a href="blog.php">Blog</a>
                                            
                                         </li>
                                         <li><a href="contact.html">contacts</a></li>
