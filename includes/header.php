@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -77,7 +78,7 @@
                         <div class="tgmenu__wrap">
                             <nav class="tgmenu__nav">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/1 humantroop iso black.png" alt="Logo"></a>
+                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt="Logo"></a>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                     <ul class="navigation">
@@ -86,21 +87,21 @@
                                         </li> 
                                         <li class="menu-item-has-children"><a href="#">Who We Are</a>
                                             <ul class="sub-menu">
-                                                <li><a href="vision-values">Vision & Values</a></li>
-                                                <li><a href="code-of-conduct">Code Of Conduct</a></li>
-                                                <li><a href="our-approach">Our Approach</a></li>
+                                                <li><a href="about.html">Vision & Values</a></li>
+                                                <li><a href="about-2.html">Code Of Conduct</a></li>
+                                                <li><a href="about-5.html">Our Approach</a></li>
                                                
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children"><a href="#">Our Services</a>
                                             <ul class="sub-menu">
-                                                <li><a href="staffing.php">Staffing</a></li>
-                                                <li><a href="payroll.php">Payroll</a></li>
-                                                <li><a href="compliance.php">Compliance</a></li>
-                                                <li><a href="trading.php">Training</a></li>
-                                                <li><a href="outsourcing.php">Outsourcing</a></li>
-                                                <li><a href="bgv-screening.php">BGV Screening</a></li>
-                                                <li><a href="posh-traning.php">POSH Traning</a></li>
+                                                <li><a href="services.html">Staffing</a></li>
+                                                <li><a href="services-2.html">Payroll</a></li>
+                                                <li><a href="services-3.html">Compliance</a></li>
+                                                <li><a href="services-4.html">Training</a></li>
+                                                <li><a href="services-5.html">Outsourcing</a></li>
+                                                <li><a href="services-details.html">BGV Screening</a></li>
+                                                <li><a href="services-details-2.html">POSH Traning</a></li>
                                                 
                                             </ul>
                                         </li>
@@ -108,51 +109,51 @@
                                             <ul class="sub-menu sub-sub-menu" style="min-width: max-content;">
                                               
                                                     <li><a href="automotive.php">Automotive</a></li>
-                                                <li><a href="aviation-airline">Aviation & Airline</a></li>
-                                                <li><a href="banking-finance.php">Banking & Finance</a></li>
-                                                <li><a href="bpo-kpo.php">BPO/ KPO</a></li>
-                                                <li><a href="construction-engineering.php">Construction & Engineering</a></li>
-                                                <li><a href="events-management.php">Events Management</a></li>
-                                                <li><a href="export-import.php">Export/ Import</a></li>
+                                                <li><a href="team-2.html">Aviation & Airline</a></li>
+                                                <li><a href="team-3.html">Banking & Finance</a></li>
+                                                <li><a href="team-4.html">BPO/ KPO</a></li>
+                                                <li><a href="team-details.html">Construction & Engineering</a></li>
+                                                <li><a href="project-details.html">Events Management</a></li>
+                                                <li><a href="error.html">Export/ Import</a></li>
                                                     
                                                     
-                                                    <li><a href="fmcg.php">FMCG</a></li>
-                                                <li><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
-                                                <li><a href="hospitality-tourism.php">Hospitality Tourism</a></li>
-                                                <li><a href="information-technology.php">Information Technology</a></li>
-                                                <li><a href="life-science-pharmaceuticals.php">Life Science Pharmaceuticals</a></li>
-                                                <li><a href="manufacturing.php">Manufacturing</a></li>
-                                                <li><a href="metals-mining.php">Metals & Mining</a></li>
+                                                    <li><a href="team.html">FMCG</a></li>
+                                                <li><a href="team-2.html">Healthcare & Wellness</a></li>
+                                                <li><a href="team-3.html">Hospitality Tourism</a></li>
+                                                <li><a href="team-4.html">Information Technology</a></li>
+                                                <li><a href="team-details.html">Life Science Pharmaceuticals</a></li>
+                                                <li><a href="project-details.html">Manufacturing</a></li>
+                                                <li><a href="error.html">Metals & Mining</a></li>
                                                  
                                                  
-                                                    <li><a href="oil-gas.php">Oil & Gas</a></li>
-                                                <li><a href="power-renewable-energy.php">Power and Renewable</a></li>
-                                                <li><a href="retails.php">Retails</a></li>
-                                                <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
-                                                <li><a href="telecommunications.php">Telecommunications</a></li>
-                                                <li><a href="ptours-travels.php">Tours And Travels</a></li>
+                                                    <li><a href="team.html">Oil & Gas</a></li>
+                                                <li><a href="team-2.html">Power and Renewable</a></li>
+                                                <li><a href="team-3.html">Retails</a></li>
+                                                <li><a href="team-4.html">Shipping & Logistics</a></li>
+                                                <li><a href="team-details.html">Telecommunications</a></li>
+                                                <li><a href="project-details.html">Tours And Travels</a></li>
                                     
                                           
                                             </ul>
                                             
-                                        </li> <li class="menu-item-has-children"><a href="our-clients.php">Our Clients</a>
+                                        </li> <li class="menu-item-has-children"><a href="#">Our Clients</a>
                                           
                                         </li>
-                                        </li> <li class="menu-item-has-children"><a href="work-with-us.php">Work With Us</a>
+                                        </li> <li class="menu-item-has-children"><a href="#">Work With Us</a>
                                             <ul class="sub-menu">
-                                                <li><a href="join-us.php">Join Us</a></li>
-                                                <li><a href="channel-partners.php">Channel Partners</a></li>
-                                                
-                                            </ul>
-                                        </li>
-                                        </li> <li class="menu-item-has-children"><a href="current-openings.php">Current Openings</a>
-                                            <!-- <ul class="sub-menu">
                                                 <li><a href="team.html">Join Us</a></li>
                                                 <li><a href="team-2.html">Channel Partners</a></li>
                                                 
-                                            </ul> -->
+                                            </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="blog.php">Blog</a>
+                                        </li> <li class="menu-item-has-children"><a href="#">Current Openings</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="team.html">Join Us</a></li>
+                                                <li><a href="team-2.html">Channel Partners</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children"><a href="#">Blog</a>
                                            
                                         </li>
                                         <li><a href="contact.html">contacts</a></li>
@@ -315,4 +316,4 @@
         <!-- offCanvas-menu-end -->
 
     </header>
-    <!-- header-area-end -->
+    <main class="fix">
