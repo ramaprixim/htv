@@ -156,7 +156,7 @@
                                         <li class="menu-item-has-children"><a href="#">Blog</a>
                                            
                                         </li>
-                                        <li><a href="contact.html">contacts</a></li>
+                                        <li><a href="contact-us.php">contacts</a></li>
                                     </ul>
                                 </div>
                                 <div class="tgmenu__action d-none d-md-block">
