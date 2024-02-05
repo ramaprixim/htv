@@ -88,7 +88,7 @@
                                                 <li><a href="staffing.php">Staffing</a></li>
                                                 <li><a href="payroll.php">Payroll</a></li>
                                                 <li><a href="compliance.php">Compliance</a></li>
-                                                <li><a href="trading.php">Training</a></li>
+                                                <li><a href="training.php">Training</a></li>
                                                 <li><a href="outsourcing.php">Outsourcing</a></li>
                                                 <li><a href="bgv-screening.php">BGV Screening</a></li>
                                                 <li><a href="posh-traning.php">POSH Traning</a></li>
