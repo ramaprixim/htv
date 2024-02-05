@@ -1,6 +1,6 @@
-
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -22,9 +22,20 @@
     <link rel="stylesheet" href="assets/css/main.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 </head>
+<style>
+    .footer-social-header .list-wrap li a {
+    width: 30px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 16px;
+    color: #ffffff;
+}
+</style>
 <body>
     <!--Preloader-->
     <div id="preloader">
@@ -48,15 +59,21 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <ul class="tg-header__top-info left-side list-wrap">
-                            <li><i class="flaticon-phone-call"></i><a href="tel:0123456789">+123 9898 500</a></li>
-                            <li><i class="flaticon-pin"></i>256 Avenue, Mark Street, NewYork City</li>
+                            <li><i class="flaticon-mail"></i><a href="tel:0123456789">support@humantroop.in</a></li>
+                            <li><i class="flaticon-phone-call"></i>+919137655589</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
-                        <ul class="tg-header__top-right list-wrap">
-                            <li><i class="flaticon-envelope"></i><a href="mailto:info@apexa.com">info@apexa.com</a></li>
-                            <li><i class="flaticon-time"></i>Mon-Fri: 10:00am - 09:00pm</li>
-                        </ul>
+                        <div class="footer-social-header" style="    display: flex;
+                        justify-content: end;">
+                            <ul class="list-wrap" style="display: flex;">
+                                <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -66,21 +83,22 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="tgmenu__wrap">
-                        <nav class="tgmenu__nav">
+                            <nav class="tgmenu__nav">
                                 <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/1 humantroop iso black.png" alt="Logo"></a>
+                                    <a href="index.html"><img src="assets/img/logo/1 humantroop iso black.png"
+                                            alt="Logo"></a>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                     <ul class="navigation">
-                                       <li class="active"><a href="index.php">Home</a>
-                                          
-                                        </li> 
+                                        <li class="active"><a href="index.php">Home</a>
+
+                                        </li>
                                         <li class="menu-item-has-children"><a href="#">Who We Are</a>
                                             <ul class="sub-menu">
                                                 <li><a href="vision-values.php">Vision & Values</a></li>
                                                 <li><a href="code-of-conduct.php">Code Of Conduct</a></li>
                                                 <li><a href="our-approach.php">Our Approach</a></li>
-                                               
+
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children"><a href="#">Our Services</a>
@@ -92,51 +110,57 @@
                                                 <li><a href="outsourcing.php">Outsourcing</a></li>
                                                 <li><a href="bgv-screening.php">BGV Screening</a></li>
                                                 <li><a href="posh-traning.php">POSH Traning</a></li>
-                                                
+
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children"><a href="#">Industries</a>
                                             <ul class="sub-menu sub-sub-menu" style="min-width: max-content;">
-                                              
-                                                    <li><a href="automotive.php">Automotive</a></li>
+
+                                                <li><a href="automotive.php">Automotive</a></li>
                                                 <li><a href="aviation-airline.php">Aviation & Airline</a></li>
                                                 <li><a href="banking-finance.php">Banking & Finance</a></li>
                                                 <li><a href="bpo-kpo.php">BPO/ KPO</a></li>
-                                                <li><a href="construction-engineering.php">Construction & Engineering</a></li>
+                                                <li><a href="construction-engineering.php">Construction &
+                                                        Engineering</a></li>
                                                 <li><a href="events-management.php">Events Management</a></li>
                                                 <li><a href="export-import.php">Export/ Import</a></li>
-                                                    
-                                                    
-                                                    <li><a href="fmcg.php">FMCG</a></li>
+
+
+                                                <li><a href="fmcg.php">FMCG</a></li>
                                                 <li><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
                                                 <li><a href="hospitality-tourism.php">Hospitality Tourism</a></li>
                                                 <li><a href="information-technology.php">Information Technology</a></li>
-                                                <li><a href="life-science-pharmaceuticals.php">Life Science Pharmaceuticals</a></li>
+                                                <li><a href="life-science-pharmaceuticals.php">Life Science
+                                                        Pharmaceuticals</a></li>
                                                 <li><a href="manufacturing.php">Manufacturing</a></li>
                                                 <li><a href="metals-mining.php">Metals & Mining</a></li>
-                                                 
-                                                 
-                                                    <li><a href="oil-gas.php">Oil & Gas</a></li>
+
+
+                                                <li><a href="oil-gas.php">Oil & Gas</a></li>
                                                 <li><a href="power-renewable-energy.php">Power and Renewable</a></li>
                                                 <li><a href="retails.php">Retails</a></li>
                                                 <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
                                                 <li><a href="telecommunications.php">Telecommunications</a></li>
                                                 <li><a href="tours-travels.php">Tours And Travels</a></li>
-                                    
-                                          
+
+
                                             </ul>
-                                            
-                                        </li> <li class=""><a href="our-clients.php">Our Clients</a>
-                                          
+
                                         </li>
-                                        </li> <li class="menu-item-has-children"><a href="work-with-us.php">Work With Us</a>
+                                        <li class=""><a href="our-clients.php">Our Clients</a>
+
+                                        </li>
+                                        </li>
+                                        <li class="menu-item-has-children"><a href="work-with-us.php">Work With Us</a>
                                             <ul class="sub-menu">
                                                 <li><a href="join-our-team.php">Join Us</a></li>
                                                 <li><a href="channel-partners.php">Channel Partners</a></li>
-                                                
+
                                             </ul>
                                         </li>
-                                        </li> <li class="menu-item-has-children"><a href="current-openings.php">Current Openings</a>
+                                        </li>
+                                        <li class="menu-item-has-children"><a href="current-openings.php">Current
+                                                Openings</a>
                                             <!-- <ul class="sub-menu">
                                                 <li><a href="team.html">Join Us</a></li>
                                                 <li><a href="team-2.html">Channel Partners</a></li>
@@ -144,12 +168,12 @@
                                             </ul> -->
                                         </li>
                                         <li class="menu-item-has-children"><a href="blog.php">Blog</a>
-                                           
+
                                         </li>
                                         <li><a href="contact.php">contacts</a></li>
                                     </ul>
                                 </div>
-                                <div class="tgmenu__action d-none d-md-block">
+                                <!-- <div class="tgmenu__action d-none d-md-block">
                                     <ul class="list-wrap">
                                         <li class="header-search">
                                             <a href="javascript:void(0)" class="search-open-btn">
@@ -188,7 +212,7 @@
                                         <path d="M14 9C14 7.89543 14.8954 7 16 7C17.1046 7 18 7.89543 18 9C18 10.1046 17.1046 11 16 11C14.8954 11 14 10.1046 14 9Z" fill="currentcolor"></path>
                                         <path d="M14 16C14 14.8954 14.8954 14 16 14C17.1046 14 18 14.8954 18 16C18 17.1046 17.1046 18 16 18C14.8954 18 14 17.1046 14 16Z" fill="currentcolor"></path>
                                     </svg>
-                                </div>
+                                </div> -->
                             </nav>
                         </div>
                         <!-- Mobile Menu  -->
@@ -240,9 +264,12 @@
                         <div class="search__wrapper">
                             <div class="search__close">
                                 <button type="button" class="search-close-btn">
-                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M17 1L1 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                        <path d="M1 1L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M17 1L1 17" stroke="currentColor" stroke-width="1.5"
+                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M1 1L17 17" stroke="currentColor" stroke-width="1.5"
+                                            stroke-linecap="round" stroke-linejoin="round"></path>
                                     </svg>
                                 </button>
                             </div>
@@ -252,9 +279,15 @@
                                         <input class="search-input-field" type="text" placeholder="Type keywords here">
                                         <span class="search-focus-border"></span>
                                         <button>
-                                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M9.55 18.1C14.272 18.1 18.1 14.272 18.1 9.55C18.1 4.82797 14.272 1 9.55 1C4.82797 1 1 4.82797 1 9.55C1 14.272 4.82797 18.1 9.55 18.1Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M19.0002 19.0002L17.2002 17.2002" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M9.55 18.1C14.272 18.1 18.1 14.272 18.1 9.55C18.1 4.82797 14.272 1 9.55 1C4.82797 1 1 4.82797 1 9.55C1 14.272 4.82797 18.1 9.55 18.1Z"
+                                                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                                                    stroke-linejoin="round"></path>
+                                                <path d="M19.0002 19.0002L17.2002 17.2002" stroke="currentColor"
+                                                    stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                                                </path>
                                             </svg>
                                         </button>
                                     </div>
