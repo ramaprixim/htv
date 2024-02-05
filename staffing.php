@@ -82,9 +82,11 @@
         <div class="services-item-wrap">
             <div class="row justify-content-center">
                 <div class="section-title text-center mb-50">
-                    <span class="sub-title">Our All Services List</span>
-                     <!-- <h2 class="title">We Do World Class Work For You</h2> -->
-                    <h6>We specialize in placing light industrial, skilled trades and construction talent to support your project-based, seasonal, high-volume or niche requirements.</h6>
+                  
+                     <h2 class="title">Our All Services List</h2>
+                     <br>
+                 <span class="sub-title">We specialize in placing light industrial, skilled trades and construction talent to support your project-based, seasonal, high-volume or niche requirements.</span>
+                    
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
 

@@ -187,8 +187,8 @@ p {
   font-size: var(--tg-body-font-size);
   line-height: var(--tg-body-line-height);
   font-weight: var(--tg-fw-regular);
-  color: var(--tg-body-color);
   margin-bottom: 15px;
+  color:black;
 }
 
 hr {
@@ -5284,7 +5284,7 @@ textarea {
     08. Choose
 ===============================*/
 .choose-area {
-  background: #171A7C;
+  background: rgb(241, 241, 241);
   padding: 120px 0;
   position: relative;
   z-index: 1;

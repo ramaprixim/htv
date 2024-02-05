@@ -36,7 +36,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide slider__single swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="0" role="group" aria-label="2 / 4" style="width: 1903px; opacity: 1; transform: translate3d(-1903px, 0px, 0px); transition-duration: 0ms;">
-                        <div class="slider__bg" data-background="assets/img/banner/banner_bg.jpg" style="background-image: url(&quot;assets/img/banner/banner_bg.jpg&quot;);"></div>
+                        <div class="slider__bg" data-background="assets/img/images/executives.jpg" style="background-image: url(&quot;assets/img/images/executives.jpg&quot;);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6">
@@ -57,7 +57,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide slider__single swiper-slide-active" data-swiper-slide-index="1" role="group" aria-label="3 / 4" style="width: 1903px; opacity: 1; transform: translate3d(-3806px, 0px, 0px); transition-duration: 0ms;">
-                        <div class="slider__bg" data-background="assets/img/banner/banner_bg.jpg" style="background-image: url(&quot;assets/img/banner/banner_bg.jpg&quot;);"></div>
+                        <div class="slider__bg" data-background="assets/img/images/consultations.jpg" style="background-image: url(&quot;assets/img/images/consultations.jpg&quot;);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6">
@@ -199,19 +199,19 @@
                     <div class="col-lg-6">
                         <div class="about-img-wrap">
                             <div class="mask-img-wrap">
-                                <img src="assets/img/images/about_img01.jpg" alt="">
+                                <img src="assets/img/images/humantroop 1.png" alt="">
                             </div>
                             <div class="shape">
                                 <img src="assets/img/images/about_shape01.png" alt="">
                             </div>
-                            <div class="experience-year">
+                            <!-- <div class="experience-year">
                                 <div class="icon">
                                     <i class="flaticon-trophy"></i>
                                 </div>
                                 <div class="content">
                                     <h6 class="circle rotateme">Years Of - Experience 25 -</h6>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
