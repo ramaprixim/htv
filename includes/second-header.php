@@ -77,9 +77,9 @@
                                         </li> 
                                         <li class="menu-item-has-children"><a href="#">Who We Are</a>
                                             <ul class="sub-menu">
-                                                <li><a href="vision-values">Vision & Values</a></li>
-                                                <li><a href="code-of-conduct">Code Of Conduct</a></li>
-                                                <li><a href="our-approach">Our Approach</a></li>
+                                                <li><a href="vision-values.php">Vision & Values</a></li>
+                                                <li><a href="code-of-conduct.php">Code Of Conduct</a></li>
+                                                <li><a href="our-approach.php">Our Approach</a></li>
                                                
                                             </ul>
                                         </li>
