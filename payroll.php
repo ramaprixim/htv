@@ -32,15 +32,16 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
                         <div class="section-title text-center mb-40 tg-heading-subheading animation-style3">
-                            <span class="sub-title">Looking For Payroll Outsourcing?</span>
+                            <h2>Looking For Payroll Outsourcing?</h2>
+                            <span class="sub-title">BEST PAYROLL MANAGEMENT FIRM</span>
                             <!-- <h2 class="title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">v</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">d</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> </div><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">B</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div></div></h2> -->
-<p>We specialize in placing light industrial, skilled trades and construction talent to support your project-based, seasonal, high-volume or niche requirements.</p>
+
                         </div>
                     </div>
                 </div>
                 <div class="services-item-wrap">
                     <div class="row justify-content-center">
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a href="services-details.html" class="shine-animate"><img src="assets/img/services/services_img01.jpg" alt=""></a>
@@ -55,7 +56,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a href="services-details.html" class="shine-animate"><img src="assets/img/services/services_img02.jpg" alt=""></a>
@@ -70,7 +71,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a href="services-details.html" class="shine-animate"><img src="assets/img/services/services_img03.jpg" alt=""></a>
@@ -100,9 +101,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-7">
                         <div class="section-title text-center mb-50">
-                            <span class="sub-title">OUR SERVICES</span>
-                            <!-- <h2 class="title">We Do World Class Work For You</h2>
-                            <p>Mauris ut enim sit amet lacus ornare ullamcorper Praesent plaacerat <br> neque eu purus rhoncus vel tincidunt odio ultrices.</p> -->
+                    <h2>Our Services</h2>
                         </div>
                     </div>
                 </div>
