@@ -4,9 +4,9 @@
     <!-- main-area -->
  
 <style>
-    .slider__area{
+    /* .slider__area{
         margin-top:145px;
-    }
+    } */
     .consulting-area{
         margin-top: -80px;
     }
