@@ -4,12 +4,12 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="breadcrumb__content">
-                    <h2 class="title">Payroll</h2>
+                    <h2 class="title">POSH Training</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href='/'>Home</a></li>
                             <li class="breadcrumb-item" aria-current="page"><a href='/'>Our Services</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Payroll</li>
+                            <li class="breadcrumb-item active" aria-current="page">POST Traning</li>
                         </ol>
                     </nav>
                 </div>
@@ -24,4 +24,22 @@
         <img src="assets/img/images/breadcrumb_shape05.png" alt="" class="alltuchtopdown">
     </div>
 </section>
+
+<section class="call-back-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="call-back-content">
+                            <div class="section-title white-title mb-10">
+                                <h2 class="title">Are you a Job Seeker, Looking for Openings ?</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <button type="submit" class="btn btn-dark">Register Now</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 <?php include("includes/footer.php"); ?>
