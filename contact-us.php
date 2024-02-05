@@ -4,12 +4,11 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="breadcrumb__content">
-                    <h2 class="title">Payroll</h2>
+                    <h2 class="title">Contact Us</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href='/'>Home</a></li>
-                            <li class="breadcrumb-item" aria-current="page"><a href='/'>Our Services</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Payroll</li>
+                            <li class="breadcrumb-item" aria-current="page"><a href="contact-us.php">Contact Us</a></li>
                         </ol>
                     </nav>
                 </div>
