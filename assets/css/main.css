@@ -951,6 +951,7 @@ textarea {
   line-height: normal;
   color: var(--tg-theme-primary);
   margin-bottom: 12px;
+  
 }
 .section-title .title {
   margin-bottom: 0;
@@ -5424,6 +5425,7 @@ textarea {
 .choose__content-five {
   position: relative;
   padding-right: 50px;
+  margin-top:50px;
 }
 @media (max-width: 1199.98px) {
   .choose__content-five {
