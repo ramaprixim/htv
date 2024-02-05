@@ -320,7 +320,7 @@
             </div>
         </section>
         <!-- services-area-end -->
-        <section class="choose-area services__area-six services__bg-six" data-background="assets/img/bg/h3_services_bg.jpg">
+        <section class="choose-area services__area-six services__bg-six">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-12">

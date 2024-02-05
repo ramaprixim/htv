@@ -5284,7 +5284,7 @@ textarea {
     08. Choose
 ===============================*/
 .choose-area {
-  background: rgb(241, 241, 241);
+  background: #14176c;
   padding: 120px 0;
   position: relative;
   z-index: 1;
