@@ -72,7 +72,7 @@
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                     <ul class="navigation">
-                                       <li class="active menu-item-has-children"><a href="#">Home</a>
+                                       <li class="active"><a href="index.php">Home</a>
                                           
                                         </li> 
                                         <li class="menu-item-has-children"><a href="#">Who We Are</a>
@@ -121,17 +121,17 @@
                                                 <li><a href="retails.php">Retails</a></li>
                                                 <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
                                                 <li><a href="telecommunications.php">Telecommunications</a></li>
-                                                <li><a href="ptours-travels.php">Tours And Travels</a></li>
+                                                <li><a href="tours-travels.php">Tours And Travels</a></li>
                                     
                                           
                                             </ul>
                                             
-                                        </li> <li class="menu-item-has-children"><a href="our-clients.php">Our Clients</a>
+                                        </li> <li class=""><a href="our-clients.php">Our Clients</a>
                                           
                                         </li>
                                         </li> <li class="menu-item-has-children"><a href="work-with-us.php">Work With Us</a>
                                             <ul class="sub-menu">
-                                                <li><a href="join-us.php">Join Us</a></li>
+                                                <li><a href="join-our-team.php">Join Us</a></li>
                                                 <li><a href="channel-partners.php">Channel Partners</a></li>
                                                 
                                             </ul>
@@ -146,7 +146,7 @@
                                         <li class="menu-item-has-children"><a href="blog.php">Blog</a>
                                            
                                         </li>
-                                        <li><a href="contact-us.php">contacts</a></li>
+                                        <li><a href="contact.php">contacts</a></li>
                                     </ul>
                                 </div>
                                 <div class="tgmenu__action d-none d-md-block">

@@ -9,7 +9,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href='/'>Home</a></li>
                             <li class="breadcrumb-item" aria-current="page"><a href='/'>Our Services</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Posh Training</li>
+                            <li class="breadcrumb-item active" aria-current="page">POST Traning</li>
                         </ol>
                     </nav>
                 </div>
@@ -25,39 +25,21 @@
     </div>
 </section>
 
-<section class="choose__area-five">
-    <div class="container">
-
-        <div class="row align-items-center justify-content-center">
-
-
-            <div class="col-lg-6">
-                <div class="choose__content-five">
-
-                    <div class="section-title mb-30 mt-30  tg-heading-subheading animation-style3">
-
-                        <h2>Anti-Sexual Harassment POSH Training In India (POSH Act)</h2>
+<section class="call-back-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="call-back-content">
+                            <div class="section-title white-title mb-10">
+                                <h2 class="title">Are you a Job Seeker, Looking for Openings ?</h2>
+                            </div>
+                        </div>
                     </div>
-                    <p>Humantroop Ventures Services regularly holds awareness and gender sensitization sessions mandated
-                        by the Sexual Harassment of Women at the Workplace (Prevention, Prohibition and Remediation) Act
-                        2013. These sessions, colloquially called "POSH training or POSH Act training", help employees
-                        gain the necessary clarity between acceptable and unacceptable behavior in the context of the
-                        law.</p>
-                </div>
-
-            </div>
-            <div class="col-lg-6 col-md-9">
-                <div class="choose__img-wrap-five mt-100">
-                    <img src="assets/img/images/h5_choose_img01.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_img02.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
-                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                    <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown">
+                    <div class="col-lg-4">
+                        <button type="submit" class="btn btn-dark">Register Now</button>
+                    </div>
                 </div>
             </div>
-        </div>
-</section>
-
-
+        </section>
 
 <?php include("includes/footer.php"); ?>
