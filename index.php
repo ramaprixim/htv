@@ -573,7 +573,7 @@
                 <img src="assets/img/project/h2_project_shape.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
             </div>
         </section>
-        <section class="services__area-two">
+        <section class="choose__area-two services__area-two" style="background-color: rgb(20 23 108);padding-bottom: 40px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -625,6 +625,154 @@
             <div class="services__shape-wrap">
                 <img src="assets/img/images/h2_services_shape01.png" alt="" data-aos="fade-right" data-aos-delay="400" class="aos-init">
                 <img src="assets/img/images/h2_services_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
+            </div>
+        </section>
+        <section class="testimonial__area-four testimonial__bg testimonial__bg-two" data-background="assets/img/bg/h3_testimonial_bg.jpg" style="background-image: url(&quot;assets/img/bg/h3_testimonial_bg.jpg&quot;);">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-5 col-md-8">
+                        <div class="testimonial__img-wrap-two">
+                            <img src="assets/img/images/inner_testimonial_img.png" alt="">
+                            <div class="testimonial__img-shape-two">
+                                <img src="assets/img/images/h3_testimonial_shape01.png" alt="" class="alltuchtopdown">
+                                <img src="assets/img/images/inner_testimonial_shape.png" alt="" class="rotateme">
+                                <img src="assets/img/images/h3_testimonial_shape03.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="testimonial__item-wrap">
+                            <div class="swiper-container testimonial-active-two swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                                <div class="swiper-wrapper" id="swiper-wrapper-fbc452eaa996af910" aria-live="off" style="transform: translate3d(-1947px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="1 / 4" style="width: 649px;">
+                                        <div class="testimonial__item-three">
+                                            <div class="testimonial__rating testimonial__rating-two">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <p>“Very professional and excellent service throughout the process. A much recommended
+                                                company in BPO recruitment
+                                            
+                                            </p>
+                                            <div class="testimonial__bottom">
+                                                <div class="testimonial__info-three">
+                                                    <h4 class="title">Deepak
+                                                        Patil</h4>
+                                                    <span>Chief Executive Officer</span>
+                                                </div>
+                                                <div class="testimonial__icon">
+                                                    <img src="assets/img/icon/quote02.svg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="2 / 4" style="width: 649px;">
+                                        <div class="testimonial__item-three">
+                                            <div class="testimonial__rating testimonial__rating-two">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <p>“The best part about the Humantroop Ventures team is their superlative support and
+                                                responsiveness in providing solutions to our requirements.
+                                            </p>
+                                            <div class="testimonial__bottom">
+                                                <div class="testimonial__info-three">
+                                                    <h4 class="title">Nikhil Kothare</h4>
+                                                    <span>Think Creative</span>
+                                                </div>
+                                                <div class="testimonial__icon">
+                                                    <img src="assets/img/icon/quote02.svg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="3 / 4" style="width: 649px;">
+                                        <div class="testimonial__item-three">
+                                            <div class="testimonial__rating testimonial__rating-two">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <p>“ Very prompt efficient service, found Humantroop Ventures very helpful and
+                                                professional. You are truly in tune with our organization and our recruitment goals.
+                                            </p>
+                                            <div class="testimonial__bottom">
+                                                <div class="testimonial__info-three">
+                                                    <h4 class="title">Siddharth Shah</h4>
+                                                    <span>Primark Travel house</span>
+                                                </div>
+                                                <div class="testimonial__icon">
+                                                    <img src="assets/img/icon/quote02.svg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testimonial__nav-two">
+                                    <div class="testimonial-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fbc452eaa996af910"><i class="flaticon-right-arrow"></i></div>
+                                    <div class="testimonial-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fbc452eaa996af910"><i class="flaticon-right-arrow"></i></div>
+                                </div>
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="choose-area" style="background: rgb(20 23 108);">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 order-0 order-lg-2">
+                        <div class="">
+                            <div class="consulting-inner-wrap shine-animate-item">
+                                <div class="consulting-content">
+                                    <div class="content-left">
+                                        <h2 class="title">1500+</h2>
+                                        <span>Placed Candidates</span>
+                                    </div>
+                                    <div class="content">
+                                        <p class="text-light">Humantroop Ventures is a well-known search and staffing company in India. With a solid foundation of quality and excellence</p>
+                                        <h5 class="text-light">Staffing</h5>
+                                        <div class="progress">
+                                            <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 80%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                          </div>
+                                          <br>
+                                          <h5 class="text-light">Recruitment</h5>
+                                          <div class="progress">
+
+                                            <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 60%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                          </div>
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                        <br>
+                       
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="choose-content">
+                         
+                            <div class="section-title white-title mb-30 tg-heading-subheading animation-style3">
+                                <span class="sub-title">Staffing Partners</span>
+                                <h2 class="title tg-element-title" style="perspective: 400px;">Expertise with the Spirit of Innovation</h2>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="choose-shape-wrap">
+                <img src="assets/img/images/choose_shape01.png" alt="" data-aos="fade-right" data-aos-delay="400" class="aos-init aos-animate">
+                <img src="assets/img/images/choose_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
             </div>
         </section>
 <?php include("includes/footer.php"); ?>
