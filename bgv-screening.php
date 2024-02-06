@@ -124,7 +124,7 @@
                                 <h2 class="title"><a href="/services-details">Employee Verification</a></h2>
                                 <p>Employers who hire a small or large number of employees.</p>
                                 <!-- <a class="btn" href="/services-details">Read More</a> --> 
-                                <br><br>
+                                
                             </div>
                         </div>
                     </div>
@@ -152,9 +152,7 @@
                             </div>
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Domestic Help Screening</a></h2>
-                                <p>Households that want to have drivers, maids, babysitters, etc. verified
-
-</p>
+                                <p>Households that want to have drivers, maids, babysitters, etc. verified</p>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>
