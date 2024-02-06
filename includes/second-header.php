@@ -10,6 +10,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
     <!-- Place favicon.ico in the root directory -->
     <!-- CSS here -->
+    <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
@@ -20,7 +21,8 @@
     <link rel="stylesheet" href="assets/css/aos.css">
     <link rel="stylesheet" href="assets/css/default.css">
     <link rel="stylesheet" href="assets/css/main.css">
-
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
@@ -68,7 +70,7 @@
                         justify-content: end;">
                             <ul class="list-wrap" style="display: flex;">
                                 <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="javascript:void(0)"><i class="fab fa-x-twitter"></i></a></li>
                                 <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
