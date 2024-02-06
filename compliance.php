@@ -37,14 +37,14 @@
                             <div class="shape">
                                 <img src="assets/img/images/about_shape01.png" alt="">
                             </div>
-                            <div class="experience-year">
+                            <!-- <div class="experience-year">
                                 <div class="icon">
                                     <i class="flaticon-trophy"></i>
                                 </div>
                                 <div class="content">
                                     <h6 class="circle rotateme"><span style="transform: rotate(0deg);">Y</span><span style="transform: rotate(17deg);">e</span><span style="transform: rotate(34deg);">a</span><span style="transform: rotate(51deg);">r</span><span style="transform: rotate(68deg);">s</span> <span style="transform: rotate(85deg);">O</span><span style="transform: rotate(102deg);">f</span> <span style="transform: rotate(119deg);">-</span> <span style="transform: rotate(136deg);">E</span><span style="transform: rotate(153deg);">x</span><span style="transform: rotate(170deg);">p</span><span style="transform: rotate(187deg);">e</span><span style="transform: rotate(204deg);">r</span><span style="transform: rotate(221deg);">i</span><span style="transform: rotate(238deg);">e</span><span style="transform: rotate(255deg);">n</span><span style="transform: rotate(272deg);">c</span><span style="transform: rotate(289deg);">e</span> <span style="transform: rotate(306deg);">2</span><span style="transform: rotate(323deg);">5</span> <span style="transform: rotate(340deg);">-</span></h6>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -107,7 +107,7 @@
                     <div class="col-lg-6 order-0 order-lg-2">
                         <div class="choose-img-wrap">
                             <img src="assets/img/images/choose_img01.jpg" alt="">
-                            <img src="assets/img/images/choose_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 50 }" style="transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                            <!-- <img src="assets/img/images/choose_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 50 }" style="transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                             <img src="assets/img/images/choose_img_shape.png" alt="" class="alltuchtopdown">
                         </div>
                     </div>
@@ -159,8 +159,8 @@
                         <div class="choose__img-wrap-five">
                             <img src="assets/img/images/h5_choose_img01.jpg" alt="">
                             <img src="assets/img/images/h5_choose_img02.jpg" alt="">
-                            <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown">
+                            <!-- <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
+                            <!-- <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -273,6 +273,7 @@
                             <div class="services__content-five">
                                 <!-- <h2 class="title">Payroll Services for Expatriate</h2> -->
                                 <p>Uploading data to respective websites and creating Challans</p>
+                                <br>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>
@@ -302,6 +303,7 @@
                             <div class="services__content-five">
                                 <!-- <h2 class="title">Compliance Management</h2> -->
                                 <p>Completion of transfer and withdrawal forms for PF</p>
+                                <br>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>

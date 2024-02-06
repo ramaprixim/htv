@@ -78,14 +78,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="operating__box">
+                            <!-- <div class="operating__box">
                                 <div class="icon">
                                     <i class="fas fa-globe"></i>
                                 </div>
                                 <div class="content">
                                     <p>Since 1991 operating <br> in the world</p>
-                                </div>
-                            </div>
+                                </div> 
+                            </div> -->
                         </div>
                     </div>
                 </div>
