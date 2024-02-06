@@ -33,9 +33,9 @@
                         <div class="choose__img-wrap-three">
                             <div class="main-img">
                                 <img src="assets/img/images/h3_choose_img01.jpg" alt="">
-                                <a href="#" class="play-btn"><i class="fas fa-play"></i></a>
+                                <!-- <a href="#" class="play-btn"><i class="fas fa-play"></i></a> -->
                             </div>
-                            <img src="assets/img/images/h3_choose_img02.jpg" alt="" data-parallax="{&quot;y&quot; : 80 }" style="transform:translate3d(0px, 42.743px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.743px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                            <!-- <img src="assets/img/images/h3_choose_img02.jpg" alt="" data-parallax="{&quot;y&quot; : 80 }" style="transform:translate3d(0px, 42.743px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.743px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                             <div class="shape">
                                 <img src="assets/img/images/h3_choose_img_shape.jpg" alt="" class="alltuchtopdown">
                             </div>
@@ -123,8 +123,9 @@
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Employee Verification</a></h2>
                                 <p>Employers who hire a small or large number of employees.</p>
+                                <br>
                                 <!-- <a class="btn" href="/services-details">Read More</a> --> 
-                                <br><br>
+                                
                             </div>
                         </div>
                     </div>
@@ -152,9 +153,7 @@
                             </div>
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Domestic Help Screening</a></h2>
-                                <p>Households that want to have drivers, maids, babysitters, etc. verified
-
-</p>
+                                <p>Households that want to have drivers, maids, babysitters, etc. verified</p>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>
@@ -188,7 +187,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
+                    </div>
+                    <div class="row justify-content-center gutter-24">
+                    <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-target"></i>
@@ -213,11 +214,12 @@
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Fraud Control Unit (FCU)</a></h2>
                                 <p>Banks, NBFCs, MFIs and HFCs requiring FCU, FI and background services</p>
+                                <br><br>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-budget"></i>
@@ -246,7 +248,7 @@
                             </div>
                         </div>
                     </div>
-                 
+                    </div>
                 </div>
             </div>
         </section>

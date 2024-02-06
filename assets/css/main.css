@@ -4044,7 +4044,7 @@ textarea {
   }
 }
 .services__area-two {
-  background: var(--tg-heading-color);
+  background: rgb(241, 239, 239);
   padding: 120px 0 90px;
   position: relative;
   z-index: 1;
@@ -5284,7 +5284,7 @@ textarea {
     08. Choose
 ===============================*/
 .choose-area {
-  background: #14176c;
+  background:rgb(240, 240, 240);
   padding: 120px 0;
   position: relative;
   z-index: 1;
