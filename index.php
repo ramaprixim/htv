@@ -1,8 +1,4 @@
 ﻿<?php include("includes/second-header.php"); ?>
-    <!-- header-area-end -->
-
-    <!-- main-area -->
- 
 <style>
     /* .slider__area{
         margin-top:145px;
@@ -84,45 +80,119 @@
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
         </section>
         <!-- banner-area-end -->
+<style>
+    .client_text{
+        font-size: 25px;
+    margin-top: 29px;
+    color: #354364;
+    }
+    .client_text>span{
+        font-size: 28px;
+    margin-top: 29px;
+    color: #354364;
+    font-weight: 600;
+    }
+    .ribbon {
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+.text-2 {
+    display: inline-block;
+    padding: .5em 1em;
+    min-width: 20em;
+    line-height: 1.2em;
+    background: #354364;
+    position: relative
+}
+
+.bold:before,
+.ribbon:after,
+.ribbon:before,
+.text-2:after,
+.text-2:before {
+    content: '';
+    position: absolute;
+    border-style: solid
+}
+
+.ribbon:before {
+    top: .3em;
+    left: .2em;
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: #ebeced;
+    z-index: -2
+}
+
+.text-2:before {
+    bottom: 100%;
+    left: 0;
+    border-width: .5em .7em 0 0;
+    border-color: transparent #949995 transparent transparent
+}
+
+.text-2:after {
+    top: 100%;
+    right: 0;
+    border-width: .5em 2em 0 0;
+    border-color: #435168  transparent transparent transparent
+}
+
+.bold:before,
+.ribbon:after {
+    top: .5em;
+    right: -2em;
+    border-width: 1.1em 1em 1.1em 3em;
+    border-color: #354364 transparent #27334d #424f6d;
+    z-index: -1
+}
+
+.bold:before {
+    border-color: #ebeced transparent #ebeced #ebeced;
+    top: .7em;
+    right: -2.3em
+}
+
+ .ssp{
+    margin: 0px 85px;
+} 
+/* .swiper-container>.swiper-wrapper>.swiper-slide{
+    width: 48% !important;
+} */
+</style>
 
         <!-- brand-area -->
         <div class="brand-area">
             <div class="container">
+                <p class="ribbon">
+                    <span class="text-2"><strong class="bold" style="color: white;">FEATURED ON:</strong>
+                    </span>
+                </p>
                 <div class="swiper-container brand-active">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
+                        <div class="swiper-slide ssp">
                             <div class="brand-item">
-                                <img src="assets/img/brand/brand_img01.png" alt="">
+                               <p class="client_text">navimumbai<span>live</span></p><img src="assets/img/icon/gray logo 1.png" alt="">
                             </div>
                         </div>
-                        <div class="swiper-slide">
+                        <div class="swiper-slide ssp">
                             <div class="brand-item">
-                                <img src="assets/img/brand/brand_img02.png" alt="">
+                                <img src="assets/img/icon/gray logo 2.png" alt="" style="margin-top: 32px;height: 34px;">
                             </div>
                         </div>
-                        <div class="swiper-slide">
+                        <div class="swiper-slide ssp">
                             <div class="brand-item">
-                                <img src="assets/img/brand/brand_img03.png" alt="">
+                                <img src="assets/img/icon/gray logo 3.png" alt="">
                             </div>
                         </div>
-                        <div class="swiper-slide">
+                        <div class="swiper-slide ssp">
                             <div class="brand-item">
-                                <img src="assets/img/brand/brand_img04.png" alt="">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand-item">
-                                <img src="assets/img/brand/brand_img05.png" alt="">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand-item">
-                                <img src="assets/img/brand/brand_img06.png" alt="">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand-item">
-                                <img src="assets/img/brand/brand_img03.png" alt="">
+                                <img src="assets/img/icon/gray logo 4.png" alt="" style="margin-top: 32px;">
                             </div>
                         </div>
                     </div>
@@ -319,62 +389,44 @@
                 </div>
             </div>
         </section>
-        <!-- services-area-end -->
-        <section class="choose-area services__area-six services__bg-six">
+        <section class="choose__area-two">
+            <div class="choose__bg" data-background="assets/img/banner/banner_bg.jpg" style="background-image: url(&quot;assets/img/banner/banner_bg.jpg&quot;);"></div>
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-12">
-                        <div class="section-title white-title mb-40 text-center">
-                            <span class="sub-title">Learn About Agency</span>
-                            <h2 class="title">Enhance your HR function with flexible solutions</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="services__tab-wrap">
-                            <ul class="nav nav-tabs" id="myTab" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="health-tab" data-bs-toggle="tab" data-bs-target="#health-tab-pane" type="button" role="tab" aria-controls="health-tab-pane" aria-selected="true"><i class="flaticon-healthcare"></i> Outsourcing</button>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="travel-tab" data-bs-toggle="tab" data-bs-target="#travel-tab-pane" type="button" role="tab" aria-controls="travel-tab-pane" aria-selected="false"><i class="flaticon-travel-insurance"></i>Consulting</button>
-                                </li>
-                            </ul>
-                            <div class="tab-content" id="myTabContent">
-                                <div class="tab-pane fade show active" id="health-tab-pane" role="tabpanel" aria-labelledby="health-tab" tabindex="0">
-                                    <div class="services__item-four shine-animate-item">
-                                        <div class="services__thumb-four shine-animate">
-                                            <img src="assets/img/services/h3_services_img01.jpg" alt="">
-                                        </div>
-                                        <div class="services__content-four">
-                                            <h2 class="title"></h2>
+                <div class="row justify-content-end">
+                    <div class="col-lg-8 col-md-10">
+                        <div class="choose__content-two">
+                            <div class="section-title mb-20 tg-heading-subheading animation-style3">
+                                <span class="sub-title">LEARN ABOUT AGENCY</span>
+                                <h2 class="title tg-element-title" style="perspective: 400px;">Enhance your HR function with flexible solutions</h2>
+                            </div>
+                            <div class="choose__tab">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link active" id="goal-tab" data-bs-toggle="tab" data-bs-target="#goal-tab-pane" type="button" role="tab" aria-controls="goal-tab-pane" aria-selected="true">Outsourcing</button>
+                                    </li>
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link" id="management-tab" data-bs-toggle="tab" data-bs-target="#management-tab-pane" type="button" role="tab" aria-controls="management-tab-pane" aria-selected="false" tabindex="-1">Consulting</button>
+                                    </li>
+                                </ul>
+                                <div class="tab-content" id="myTabContent">
+                                    <div class="tab-pane fade show active" id="goal-tab-pane" role="tabpanel" aria-labelledby="goal-tab" tabindex="0">
+                                        <div class="choose__tab-content">
                                             <p>Get specialized support for day-to-day administrative tasks or step up to tackle an unexpected challenge.</p>
-                                            <div class="about__list-box">
-                                                <ul class="list-wrap">
-                                                    <li><i class="fas fa-check"></i>Strategic Leadership</li>
-                                                    <li><i class="fas fa-check"></i>Solution Delivery</li>
-                                                    <li><i class="fas fa-check"></i>One Team</li>
-                                                </ul>
-                                            </div>
+                                            <ul class="list-wrap">
+                                                <li><i class="fas fa-check"></i>Strategic Leadership</li>
+                                                <li><i class="fas fa-check"></i>Solution Delivery</li>
+                                                <li><i class="fas fa-check"></i>One Team</li>
+                                            </ul>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="tab-pane fade" id="travel-tab-pane" role="tabpanel" aria-labelledby="travel-tab" tabindex="0">
-                                    <div class="services__item-four shine-animate-item">
-                                        <div class="services__thumb-four shine-animate">
-                                            <img src="assets/img/services/h3_services_img02.jpg" alt="">
-                                        </div>
-                                        <div class="services__content-four">
-                                            <h2 class="title"></h2>
+                                    <div class="tab-pane fade" id="management-tab-pane" role="tabpanel" aria-labelledby="management-tab" tabindex="0">
+                                        <div class="choose__tab-content">
                                             <p>With 24/7 availability to meet your specific needs, our HR services cover the entire spectrum of HR.</p>
-                                            <div class="about__list-box">
-                                                <ul class="list-wrap">
-                                                    <li><i class="fas fa-check"></i>Innovative Products</li>
-                                                    <li><i class="fas fa-check"></i>Operational Excellence</li>
-                                                    <li><i class="fas fa-check"></i>One Team</li>
-                                                </ul>
-                                            </div>
+                                            <ul class="list-wrap">
+                                                <li><i class="fas fa-check"></i>Innovative Products</li>
+                                                <li><i class="fas fa-check"></i>Operational Excellence</li>
+                                                <li><i class="fas fa-check"></i>One Team</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -382,6 +434,10 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="choose__shape-wrap-two">
+                <img src="assets/img/images/h2_choose_shape01.png" alt="" data-parallax="{&quot;x&quot; : -80 , &quot;y&quot; : 80 , &quot;rotateZ&quot;:80}" style="transform:translate3d(-0.102px, 0.131px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0.131deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(-0.102px, 0.131px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0.131deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                <img src="assets/img/images/h2_choose_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
             </div>
         </section>
         <section class="counter-area">

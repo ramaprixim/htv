@@ -295,7 +295,7 @@
                                 </div>
                                 
                             </div>
-                            div class="accordion-item">
+                            <div class="accordion-item">
                                 <button class="accordion-header">
                                     Who would be responsible for non-compliance towards the provisions of the POSH Act?<span class="icon"></span>
                                 </button>
