@@ -32,7 +32,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-8">
                         <div class="about__img-wrap-two">
-                            <img src="assets/img/images/h2_about_img.jpg" alt="">
+                            <img src="assets/img/images/our services - Outsourcing- HR outsourcing.png" alt="">
                             <div class="shape">
                                 <img src="assets/img/images/h2_about_img_shape.png" alt="" class="alltuchtopdown">
                             </div>

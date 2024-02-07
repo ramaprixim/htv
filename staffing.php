@@ -32,10 +32,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/staffing_03.jpg" alt="">
-                    <div class="shape">
-                        <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
-                    </div>
+                <img src="assets/img/images/our services - Staffing -  Staffing Services.png" alt="" class="alltuchtopdown">
+                    <!-- <img src="assets/img/images/staffing_03.jpg" alt=""> -->
+                    
                 </div>
             </div>
 
