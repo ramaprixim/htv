@@ -97,7 +97,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-8">
                 <div class="about__img-wrap-six">
-                    <img src="assets/img/images/h4_about_img01.jpg" alt="">
+                  <img src="assets/img/images/our services -POSH Training - Anti-Sexual Harassment POSH Training In India (POSH Act).png">
                     <!-- <img src="assets/img/images/h4_about_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(20.482px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(20.482px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                     <!-- <div class="experience__box-four">
                                 <h2 class="title">25</h2>
@@ -242,8 +242,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt="">
+                    <!-- <img src="assets/img/images/inner_about01.jpg" alt="">
+                    <img src="assets/img/images/inner_about02.jpg" alt=""> -->
+                    <img src="assets/img/images/our services -POSH Training - POSH Act Compliance And Training.png">
                     <!-- <div class="about__award-box">
                                 <div class="icon">
                                     <i class="flaticon-trophy"></i>
