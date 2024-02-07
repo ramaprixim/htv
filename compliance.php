@@ -32,7 +32,7 @@
                     <div class="col-lg-6">
                         <div class="about-img-wrap">
                             <div class="mask-img-wrap">
-                                <img src="assets/img/images/about_img01.jpg" alt="">
+                                <img src="assets/img/images/standard-quality-control-collage-concept_23-2149595847.avif" alt="">
                             </div>
                             <div class="shape">
                                 <img src="assets/img/images/about_shape01.png" alt="">
@@ -106,7 +106,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 order-0 order-lg-2">
                         <div class="choose-img-wrap">
-                            <img src="assets/img/images/choose_img01.jpg" alt="">
+                            <img src="assets/img/images/female-professional-explaining-document-details-client-workplace-serious-business-leader-consulting-financial-legal-expert-teamwork-cooperation-concept_74855-14235.avif" alt="">
                             <!-- <img src="assets/img/images/choose_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 50 }" style="transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                             <img src="assets/img/images/choose_img_shape.png" alt="" class="alltuchtopdown">
                         </div>
@@ -157,8 +157,8 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9">
                         <div class="choose__img-wrap-five">
-                            <img src="assets/img/images/h5_choose_img01.jpg" alt="">
-                            <img src="assets/img/images/h5_choose_img02.jpg" alt="">
+                            <!-- <img src="assets/img/images/truth-concept-arrangement-with-balance_23-2149051288.avif" alt=""> -->
+                            <img src="assets/img/images/businessman-signing-important-contract-papers_114579-12133.avif" alt="">
                             <!-- <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                             <!-- <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
                         </div>

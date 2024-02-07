@@ -3022,6 +3022,8 @@ textarea {
 }
 .about__img-wrap-four > img {
   border-radius: 10px;
+  height: 600px;
+  width: 400px
 }
 .about__img-wrap-four > img:nth-child(2) {
   border-radius: 10px;
@@ -5285,7 +5287,7 @@ textarea {
     08. Choose
 ===============================*/
 .choose-area {
-  background:rgb(240, 240, 240);
+  background:#0e104b;
   padding: 120px 0;
   position: relative;
   z-index: 1;

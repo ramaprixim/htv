@@ -381,11 +381,11 @@
                                 <li><i class="flaticon-arrow-button"></i>Available in Multiple Languages</li>
                             </ul>
                         </div>
-                        <div class="about__list-img-three">
+                        <!-- <div class="about__list-img-three">
                             <img src="assets/img/images/about_list_img03.png" alt="">
                             <a href="https://www.youtube.com/watch?v=6mkoGSqTqFI" class="play-btn popup-video"><i
                                     class="fas fa-play"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <!-- <a class="btn btn-two" href="/contact">Quick Contact Us</a> -->
                 </div>
