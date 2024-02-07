@@ -68,7 +68,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-0 order-lg-2">
                 <div class="choose-img-wrap">
-                    <img src="assets/img/images/choose_img01.jpg" alt="">
+                    <img src="assets/img/images/arrangement-economy.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-6">
