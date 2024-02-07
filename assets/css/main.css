@@ -3022,8 +3022,6 @@ textarea {
 }
 .about__img-wrap-four > img {
   border-radius: 10px;
-  height: 600px;
-  width: 400px
 }
 .about__img-wrap-four > img:nth-child(2) {
   border-radius: 10px;
