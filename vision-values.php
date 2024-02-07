@@ -31,8 +31,8 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-8">
                 <div class="about__img-wrap-three">
-                    <img src="assets/img/images/h3_about_img01.jpg" alt="">
-                    <img src="assets/img/images/h3_about_img02.jpg" alt="" data-parallax='{"x" : 50 }'>
+                <img src="assets/img/images/who we are - vision and values - our vision.png">
+                    <!-- <img src="assets/img/images/h3_about_img02.jpg" alt="" data-parallax='{"x" : 50 }'> -->
                     <div class="shape">
                         <img src="assets/img/images/h3_about_img_shape.png" alt="" class="alltuchtopdown">
                     </div>
@@ -56,6 +56,7 @@
                     </div>
                     <div class="about__shape-wrap-three">
                         <img src="assets/img/images/h3_about_shape01.png" alt="" class="rotateme">
+                        
                     </div>
                 </div>
             </div>

@@ -30,9 +30,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt="">
-                    <div class="about__award-box">
+                   <img src="assets/img/images/work with us - Join Us - Would you like to join our team of business professionals.tif">
+                    
+                    <!-- <div class="about__award-box">
                         <div class="icon">
                             <i class="flaticon-trophy"></i>
                         </div>
@@ -40,7 +40,7 @@
                             <h2 class="title">15+</h2>
                             <p>World Best Agency <br> Award Got</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                     </div>
