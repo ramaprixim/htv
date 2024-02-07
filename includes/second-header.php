@@ -164,7 +164,7 @@
                                             </ul>
                                         </li>
                                         </li>
-                                        <li class=""><a href="current-openings.php">Join Live</a>
+                                        <li class=""><a href="current-openings.php">Live Jobs</a>
                                             <!-- <ul class="sub-menu">
                                                 <li><a href="team.html">Join Us</a></li>
                                                 <li><a href="team-2.html">Channel Partners</a></li>

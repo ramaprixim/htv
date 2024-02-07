@@ -32,69 +32,48 @@
         <img src="assets/img/images/breadcrumb_shape05.png" alt="" class="alltuchtopdown">
     </div>
 </section>
-
-<section class="choose__area-five">
-    <div class="container">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 col-md-9">
-                <div class="choose__img-wrap-five">
-                    
-                    <img src="assets/img/images/h5_choose_img01.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_img02.jpg" alt="">
-                    <!-- <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
-                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
-                    <!-- <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="choose__content-five">
-                    <div class="section-title mb-30 mt-30  tg-heading-subheading animation-style3">
-
-                        <h2>Code of Conduct</h2>
-                    </div>
-                    <p>Each member of Humantroop Ventures individually signs and supports a code of conduct and ethics
-                        related to our professional designations and professional associations. However, as a private
-                        organization, we are responsible for a number of fundamental principles.</p>
-                    <br>
-
-                    <div class="choose__box-wrap">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="choose__box">
-                                    <div class="content">
-                                        <h4 class="title">Competence</h4>
-                                        <p>Our services help companies maximize the competence and deployment of their
-                                            human capital; their skills, their experience, their potential, and their
-                                            capacity. We maintain professional competence in the performance of
-                                            professional duties and provide services in an honest and careful manner.
-                                        </p>
-                                    </div>
-                                </div>
+<section class="choose__area-two">
+            <div class="choose__bg" data-background="assets/img/services/view-professional-business-people-working-together_23-2150917010.jpg" style="background-image: url(&quot;assets/img/services/view-professional-business-people-working-together_23-2150917010.jpg&quot;);"></div>
+            <div class="container">
+                <div class="row justify-content-end">
+                    <div class="col-lg-8 col-md-10">
+                        <div class="choose__content-two">
+                            <div class="section-title mb-20 tg-heading-subheading animation-style3">
+                                <span class="sub-title">Why Choose Our Services</span>
+                                <h2 class="title tg-element-title" style="perspective: 400px;">Code of Conduct</h2>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="choose__box">
-                                    <div class="content">
-                                        <h4 class="title">Confidentiality</h4>
-                                        <p>We will maintain the strict confidentiality of all confidential information
-                                            obtained in the course of our work and will not disclose confidential
-                                            information unless required to do so by law and/or serious harm is imminent.
-                                            We will treat confidential, personal, or privileged information with the
-                                            utmost importance as it is at the core of our organization's credibility.
-                                        </p>
+                            <p>Each member of Humantroop Ventures individually signs and supports a code of conduct and ethics related to our professional designations and professional associations. However, as a private organization, we are responsible for a number of fundamental principles.</p>
+                            <div class="choose__tab">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link active" id="goal-tab" data-bs-toggle="tab" data-bs-target="#goal-tab-pane" type="button" role="tab" aria-controls="goal-tab-pane" aria-selected="true">Competence</button>
+                                    </li>
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link" id="management-tab" data-bs-toggle="tab" data-bs-target="#management-tab-pane" type="button" role="tab" aria-controls="management-tab-pane" aria-selected="false" tabindex="-1">Confidentiality</button>
+                                    </li>
+                                </ul>
+                                <div class="tab-content" id="myTabContent">
+                                    <div class="tab-pane fade show active" id="goal-tab-pane" role="tabpanel" aria-labelledby="goal-tab" tabindex="0">
+                                        <div class="choose__tab-content">
+                                         <p>Our services help companies maximize the competence and deployment of their human capital; their skills, their experience, their potential, and their capacity. We maintain professional competence in the performance of professional duties and provide services in an honest and careful manner.</p>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="management-tab-pane" role="tabpanel" aria-labelledby="management-tab" tabindex="0">
+                                        <div class="choose__tab-content">
+                                          <p>We will maintain the strict confidentiality of all confidential information obtained in the course of our work and will not disclose confidential information unless required to do so by law and/or serious harm is imminent. We will treat confidential, personal, or privileged information with the utmost importance as it is at the core of our organization's credibility.</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="shape">
-                        <img src="assets/img/images/h5_choose_shape02.png" alt="" class="rotateme">
-                    </div>
                 </div>
             </div>
-
-        </div>
-    </div>
-</section>
+            <div class="choose__shape-wrap-two">
+                <img src="assets/img/images/h2_choose_shape01.png" alt="" data-parallax="{&quot;x&quot; : -80 , &quot;y&quot; : 80 , &quot;rotateZ&quot;:80}" style="transform:translate3d(-0.57px, 0.599px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0.599deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(-0.57px, 0.599px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0.599deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                <img src="assets/img/images/h2_choose_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
+            </div>
+        </section>
 
 <section class="choose__area-five">
     <div class="container">
