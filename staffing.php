@@ -82,8 +82,7 @@
 
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img01.jpg" alt=""></a>
+                            <a class="shine-animate" href="/services-details"><img src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
@@ -103,8 +102,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img02.jpg" alt=""></a>
+                            <a class="shine-animate" href="/services-details"><img src="assets/img/images/Niche Skilled Trades.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
@@ -126,8 +124,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img03.jpg" alt=""></a>
+                            <a class="shine-animate" href="/services-details"><img src="assets/img/images/Network of Offices.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">

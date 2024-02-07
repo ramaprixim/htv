@@ -294,11 +294,19 @@
         </div>
     </div>
 </section>
-<section>
-    <div class="container">
+<section style="    background-color: #f7f7f7;
+    padding: 60px;">
+<div class="section-title text-center mb-50">
+                  
+                  <h2 class="title">FAQ's</h2>
+                  
+              <!-- <span class="sub-title">We specialize in placing light industrial, skilled trades and construction talent to support your project-based, seasonal, high-volume or niche requirements.</span> -->
+              
+             </div>
+    <div class="container" >
         <div class="row">
-            <div class="col-lg-6">
-
+            <div class="col-lg-6 "  >
+            <img src="assets/img/images/FAQ.jpg" alt="">
             </div>
             <div class="col-lg-6">
                 <div class="accordion-container">
@@ -420,7 +428,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    src="assets/img/images/Penalties on the failure of POSH Compliance1.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
@@ -438,7 +446,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img02.jpg" alt=""></a>
+                                    src="assets/img/images/Penalties on the failure of POSH Compliance2.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
@@ -458,7 +466,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img03.jpg" alt=""></a>
+                                    src="assets/img/images/Penalties on the failure of POSH Compliance3.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
