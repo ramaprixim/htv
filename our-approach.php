@@ -76,7 +76,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                    <p style="color:black;"> Our style centers around an unrelenting drive to act with integrity and honesty, along with an
+                    <p style="color:white;"> Our style centers around an unrelenting drive to act with integrity and honesty, along with an
                         unyielding determination to ensure that the people we work with are empowered and trusted to
                         deliver the best for our customers. We enjoy getting people's support for ideas and providing
                         others with goals, plans, and structures that move everyone in the same direction and help them
@@ -86,7 +86,7 @@
                         is important to design a delivery style that is engaging, creative, and strategic, but also
                         'takes charge', decisive and analytical.</p>
                     <br>
-                    <p style="color:black;">With a high level of customer satisfaction and a commitment to excellence, Humantroop Ventures is
+                    <p style="color:white;">With a high level of customer satisfaction and a commitment to excellence, Humantroop Ventures is
                         the go-to Manpower Company in Navi Mumbai. We use an engagement and design thinking approach
                         that builds ownership among employees and key stakeholders. We have deep experience in
                         organizational design, alignment, and transformation and have proven methodologies, but we
