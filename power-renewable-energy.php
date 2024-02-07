@@ -25,7 +25,7 @@
     </div>
 </section>
 <section class="choose__area-two">
-            <div class="choose__bg" data-background="assets/img/banner/banner_bg.jpg" style="background-image: url(&quot;assets/img/banner/banner_bg.jpg&quot;);"></div>
+            <div class="choose__bg" data-background="assets/img/banner/medium-shot-smiley.jpg" style="background-image: url(&quot;assets/img/banner/medium-shot-smiley.jpg&quot;);"></div>
             <div class="container">
                 <div class="row justify-content-end">
                     <div class="col-lg-8 col-md-10">

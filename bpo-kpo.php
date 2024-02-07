@@ -26,93 +26,90 @@
 </section>
 <!-- breadcrumb-area-end -->
 <!-- about-area -->
-<section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);">
-            <div class="container">
-                <div class="services-item-wrap">
-                    <div class="row justify-content-center">
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item shine-animate-item">
-                                <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
-                                </div>
-                                <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div>
-                                    
-                                    <p>BPO stands for Business Process Outsourcing, which is generally the outsourcing of non-primary business activities and functions to a third-party organization. Alternatively, BPO can be referred to as Information Technology Enabled Services (ITES).
-                                    </p>
-                                </div>
-                            </div>
+<section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg"
+    style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #f7f7f7;">
+    <div class="container">
+        <div class="services-item-wrap">
+            <div class="row justify-content-center">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                    <div class="services-item shine-animate-item">
+                        <div class="services-thumb">
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/services/sales-assistant-being-employed.jpg" alt=""></a>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item shine-animate-item">
-                                <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img02.jpg" alt=""></a>
-                                </div>
-                                <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-investment-1"></i>
-                                    </div>
-                                    <p>BPO organizations are growing rapidly. With the increase in business, human resources are required in large quantities for the smooth functioning of the organization. Humantroop Ventures services follow the best strategies for providing highly skilled employees for BPO/KPO.
-
-                                    </p>
-                                </div>
-                            </div>
+                        <div class="services-content">
+                            <p>BPO stands for Business Process Outsourcing, which is generally the outsourcing of
+                                non-primary business activities and functions to a third-party organization.
+                                Alternatively, BPO can be referred to as Information Technology Enabled Services (ITES).
+                            </p>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item shine-animate-item">
-                                <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img03.jpg" alt=""></a>
-                                </div>
-                                <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-pie-chart"></i>
-                                    </div>
-                                    <p>Humantroop Ventures provides clients with the best human capital after a strategic selection process, whether the client is a corporate firm or a multinational company, our recruitment process enables us to source the best candidates.
-
-                                    </p>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                    <div class="services-item shine-animate-item">
+                        <div class="services-thumb">
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/services/confident-call.jpg" alt=""></a>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item shine-animate-item">
-                                <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img04.jpg" alt=""></a>
-                                </div>
-                                <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-light-bulb"></i>
-                                    </div>
-                             
-                                    <p>Knowledge process outsourcing organizations provide essential information related to the client's business functions, which are also competitively important and form an integral part of the company's values. This sector requires advanced analytical and technical skills as well as a high degree of expertise.
+                        <div class="services-content">
+                            <p>BPO organizations are growing rapidly. With the increase in business, human resources are
+                                required in large quantities for the smooth functioning of the organization. Humantroop
+                                Ventures services follow the best strategies for providing highly skilled employees for
+                                BPO/KPO.
 
-                                    </p>
-                          
-                                </div>
-                            </div>
+                            </p>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item shine-animate-item">
-                                <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img05.jpg" alt=""></a>
-                                </div>
-                                <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-investment"></i>
-                                    </div>
-                                
-                                    <p>The ITES sector provides functional services for information technology, HR, administration, banking and finance, and healthcare. This industry has always been able to define itself as providing the best customer service through the professionals they hire. They also maintain itself as a leading organization in terms of business and employment.
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                    <div class="services-item shine-animate-item">
+                        <div class="services-thumb">
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/services/colleagues-working.jpg" alt=""></a>
+                        </div>
+                        <div class="services-content">
+                            <p>Humantroop Ventures provides clients with the best human capital after a strategic
+                                selection process, whether the client is a corporate firm or a multinational company,
+                                our recruitment process enables us to source the best candidates.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                    <div class="services-item shine-animate-item">
+                        <div class="services-thumb">
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/services/manager-luxury-wear.jpg" alt=""></a>
+                        </div>
+                        <div class="services-content">
+                            <p>Knowledge process outsourcing organizations provide essential information related to the
+                                client's business functions, which are also competitively important and form an integral
+                                part of the company's values. This sector requires advanced analytical and technical
+                                skills as well as a high degree of expertise.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                    <div class="services-item shine-animate-item">
+                        <div class="services-thumb">
+                            <a class="shine-animate" href="/services-details">
+                                <img src="assets/img/services/operator-answering-client.jpg" alt=""></a>
+                        </div>
+                        <div class="services-content">
 
-                                    </p>
-                                
-                                </div>
-                            </div>
+                            <p>The ITES sector provides functional services for information technology, HR,
+                                administration, banking and finance, and healthcare. This industry has always been able
+                                to define itself as providing the best customer service through the professionals they
+                                hire. They also maintain itself as a leading organization in terms of business and
+                                employment.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 <section class="call-back-area">
     <div class="container">
         <div class="row">

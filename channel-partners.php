@@ -32,7 +32,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/handshake-businessmen.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <p>Are you looking for candidates who are most suitable for your organization? Humantroop Ventures is the Best Human Resources Consultant in Mumbai. As a recruiter, we source, select, and assess candidates in accordance with client specifications, and we strive hard to ensure the right candidate is hired for your organization. Partner with India's leading talent solutions provider to help top organizations hire the best talent. Let's make it happen, together</p>
@@ -63,7 +63,7 @@
                 </div>
             </div>
         </section>
-        <section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);">
+        <section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #f7f7f7;">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
@@ -77,12 +77,12 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/paperwork.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
+                                    <!-- <div class="icon">
                                         <i class="flaticon-profit"></i>
-                                    </div>
+                                    </div> -->
                                     <h4 class="title">PAPERWORK</h4>
                                     <p>We will take care of invoicing, concluding contracts, monitoring payments.</p>
                                 </div>
@@ -91,12 +91,12 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img02.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/businessman-touching-glowing.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
+                                    <!-- <div class="icon">
                                         <i class="flaticon-investment-1"></i>
-                                    </div>
+                                    </div> -->
                                     <h4 class="title">SALES</h4>
                                     <p>We have the right group of traders who can offer and close deals with clients.</p>
                                 </div>
@@ -105,12 +105,12 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img03.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/modern-equipped.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
+                                    <!-- <div class="icon">
                                         <i class="flaticon-pie-chart"></i>
-                                    </div>
+                                    </div> -->
                                     <h4 class="title">SOW</h4>
                                     <p>A well-defined scope of work before signing the contract.</p>
                                 </div>
@@ -119,26 +119,27 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img04.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/two-happy-partners.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
+                                    <!-- <div class="icon">
                                         <i class="flaticon-light-bulb"></i>
-                                    </div>
+                                    </div> -->
                                     <h4 class="title">CLIENT COORDINATION</h4>
                                     <p>Forget about account management and delivery hassles and save bandwidth so you can focus on your core expertise.</p>
+                                    <br>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img05.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/western-chinese.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
+                                    <!-- <div class="icon">
                                         <i class="flaticon-investment"></i>
-                                    </div>
+                                    </div> -->
                                     <h4 class="title">TRANSPARENCY</h4>
                                     <p>Utilizing a technology platform to coordinate and manage the candidate lifecycle to ensure transparency and speed.</p>
                                 </div>

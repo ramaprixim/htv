@@ -1,4 +1,13 @@
 <?php include("includes/second-header.php"); ?>
+<style>
+    .services-thumb img{
+        height: 400px;
+    }
+    .services__area-five{
+        margin: 0 0 0;
+        padding: 0 0 0 ;
+    }
+</style>
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
         <div class="row">
@@ -31,16 +40,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt="">
+                    <img src="assets/img/services/2150957661.jpg" alt="">
                     <div class="about__award-box">
-                        <div class="icon">
-                            <i class="flaticon-trophy"></i>
-                        </div>
-                        <div class="content">
-                            <h2 class="title">15+</h2>
-                            <p>World Best Agency <br> Award Got</p>
-                        </div>
+                     
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -62,19 +64,17 @@
         </div>
     </div>
 </section>
-<section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);">
+<section class="services__area-five services__bg-five" data-background="assets/img/" style="background-image: url(&quot;assets/img/bg/services/5409.jpg&quot;);">
             <div class="container">
                 <div class="services-item-wrap">
                     <div class="row justify-content-center">
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/5409.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div>
+                                  
                                     <h4 class="title">Oil & Gas Industries</h4>
                                     <p>The oil and gas sector is one of the major influencers in the main decision-making process for all other sectors of the economy. As the demand for energy continues to grow globally, the demand for technically competent professionals to run the industry continues to grow exponentially. The oil and gas sector is looking for a highly skilled workforce that can be deployed anywhere around the world. They need to stay away from home for long periods of time and may have to face long stays in seas, snowfields, forests, or deserts. Interpersonal communication becomes a major factor when people from different geographical and cultural backgrounds work together.</p>
                                <p>We have the ability and global reach to source high-quality candidates worldwide. Our key strength in the oil and gas sector is the ability to find technically qualified professionals at short notice, regardless of location or time. We have been supporting clients for many years and our client base includes major companies in the oil industry, both offshore and onshore. Wherever you are, our experience and capabilities mean you can rely on Humantroop Ventures. We offer all our clients a distinctive combination of global scale, local focus and expertise. We are successful because of the enormous value we place on long-term relationships with clients and candidates.</p>

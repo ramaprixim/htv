@@ -70,12 +70,9 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/coal-moving-along.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div>
                                     <h4 class="title">Metals & Mining Industries</h4>
                                     <p>The metals & Mining industry broadly refers to the extraction of metals and minerals (mining) and the primary and secondary processing of those metals and minerals. The industry is very global in structure, with a few manufacturers accounting for the lion's share of production. Diversified metals and mining companies supply commodities used in products and equipment found in a wide range of industries such as construction, automotive, aerospace, and telecommunications. The reach is so broad that metal utilization rates are a key barometer for measuring the health of the global economy. The lack of talent is part of the human capital problem in the sector.</p>
                     <p>Humantroop Ventures can help, whether you require a single executive or a full team for your new mining project, we have the complete expertise to meet these needs. We have a team of consultants with experience in the mining industry to help you. Our experience includes corporate roles through the C-Suite and non-executive directors, any on-site role, and positions worldwide. Many international search firms can effectively search for CEOs, COOs, and CFOs, but few truly understand how to find the best process manager or subway specialist. To meet the demand for skilled human resources in this highly specialized sector, we find ourselves as the best talent search providers to bring value to our clients.</p>

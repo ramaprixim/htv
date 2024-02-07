@@ -1,4 +1,9 @@
 <?php include("includes/second-header.php"); ?>
+<style>
+    .services-thumb img{
+        height: 400px;
+    }
+</style>
         <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
             <div class="container">
                 <div class="row">
@@ -31,15 +36,14 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="about__img-wrap-four">
-                            <img src="assets/img/images/inner_about01.jpg" alt="">
-                            <img src="assets/img/images/inner_about02.jpg" alt="">
+                            <img src="assets/img/services/full-shot-travel-concept-with-landmarks.jpg" alt="">
+                            <img src="assets/img/services/traveling-concept-with-landmarks.jpg" alt="">
                             <div class="about__award-box">
                                 <div class="icon">
-                                    <i class="flaticon-trophy"></i>
+                                    <i class="flaticon-happy"></i>
                                 </div>
                                 <div class="content">
-                                    <h2 class="title">15+</h2>
-                                    <p>World Best Agency <br> Award Got</p>
+                                    <p>Happiness Is <br> Travelling</p>
                                 </div>
                             </div>
                             <div class="shape">
@@ -66,7 +70,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <div class="icon">

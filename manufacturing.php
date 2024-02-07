@@ -31,16 +31,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt="">
+                    <img src="assets/img/services/3708.jpg" alt="">
                     <div class="about__award-box">
-                        <div class="icon">
-                            <i class="flaticon-trophy"></i>
-                        </div>
-                        <div class="content">
-                            <h2 class="title">15+</h2>
-                            <p>World Best Agency <br> Award Got</p>
-                        </div>
+                 
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -68,7 +61,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-0 order-lg-2">
                 <div class="choose-img-wrap">
-                    <img src="assets/img/images/choose_img01.jpg" alt="">
+                    <img src="assets/img/services/manager-supervisor-worker-discussing-about-production-results-new-strategy-factory-industrial-hall.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-6">

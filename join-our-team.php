@@ -49,8 +49,7 @@
             <div class="col-lg-6">
                 <div class="about__content-four">
                     <div class="section-title mb-30">
-                    <h2 class="title">
-Would you like to join our team of business professionals?</h2>
+                    <h2 class="title">Would you like to join our team of business professionals?</h2>
                     </div>
                     <p>Want to join our team of business professionals? We are always interested in hearing from experienced and aspiring HR, Benefits, Payroll, Security, and EAP professionals who share the same passion for our business mission, vision, and values ​​as we do.</p>
                <p>At Humantroop Ventures, every member is a Partner-in-Success. They work for their own and the company's growth, and with every success achieved by the company, they find themselves taking a giant step forward in their careers.</p>
