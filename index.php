@@ -775,4 +775,19 @@
                 <img src="assets/img/images/choose_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
             </div>
         </section>
+        <section class="call-back-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="call-back-content">
+                            <div class="section-title white-title mb-10">
+                                <h2 class="title">Are you a Job Seeker, Looking for Openings ?</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                                        <button type="submit" class="btn btn-dark">Send Now</button>
+                </div>
+            </div>
+        </section>
 <?php include("includes/footer.php"); ?>
