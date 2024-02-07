@@ -98,7 +98,7 @@
                                         <li class="active"><a href="index.php">Home</a>
 
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">Who We Are</a>
+                                        <li class="menu-item-has-children"><a href="#">About Us</a>
                                             <ul class="sub-menu">
                                                 <li><a href="vision-values.php">Vision & Values</a></li>
                                                 <li><a href="code-of-conduct.php">Code Of Conduct</a></li>
@@ -106,7 +106,7 @@
 
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">Our Services</a>
+                                        <li class="menu-item-has-children"><a href="#">Services</a>
                                             <ul class="sub-menu">
                                                 <li><a href="staffing.php">Staffing</a></li>
                                                 <li><a href="payroll.php">Payroll</a></li>
@@ -164,8 +164,7 @@
                                             </ul>
                                         </li>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="current-openings.php">Current
-                                                Openings</a>
+                                        <li class=""><a href="current-openings.php">Join Live</a>
                                             <!-- <ul class="sub-menu">
                                                 <li><a href="team.html">Join Us</a></li>
                                                 <li><a href="team-2.html">Channel Partners</a></li>

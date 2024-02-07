@@ -31,14 +31,14 @@
 </section>
 <!-- breadcrumb-area-end -->
 <!-- about-area -->
-<section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);">
+<section class="services__area-five services__bg-five" data-background="assets/img/bg/40842.jpg" style="background-image: url(&quot;assets/img/bg/40842.jpg&quot;);">
             <div class="container">
                 <div class="services-item-wrap">
                     <div class="row justify-content-center">
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/cropped-image-woman-inputting-card-information-key-phone-laptop-while-shopping-online.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/40842.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <div class="icon">

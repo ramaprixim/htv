@@ -51,7 +51,7 @@
                 <div class="about__content-three">
                     <div class="section-title mb-25">
                         <h2 class="title">
-                        We have over two decades of experience in managing events for corporate clients of repute – national and international brands.</h2>
+                        Managing Events Over Two Decades</h2>
                     </div>
                     <p>As expected from one of the leading event management companies, we enable clients to choose the right event venue. They can choose from our rich list of options. When it comes to the entertainment aspect of events, we have celebrity and artist management teams to ensure the best performances. As one of the leading event management companies, Humantroop Ventures ensures that you get the best travel deals / lowest ticket prices. You do not need to hire a travel agency separately.</p>
                     <p>Humantroop Ventures Events specializes in turnkey events. What makes us one of the best event management companies is the fact that we are least dependent on external suppliers and have an exhaustive inventory in-house. Whether it is photography and video production, licensing cooperation, security, web streaming, catering, manpower, sound and lighting equipment, screens or production… we have dedicated staff, warehouse, workshop and transport vehicles. We also have a national and international partner network that enables us to execute events anywhere in India and abroad.</p>
