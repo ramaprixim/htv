@@ -32,7 +32,7 @@
                     <div class="col-lg-6">
                         <div class="about-img-wrap">
                             <div class="mask-img-wrap">
-                                <img src="assets/img/images/standard-quality-control-collage-concept_23-2149595847.avif" alt="">
+                            <img src="assets/img/images/our services - Compliance - Minimize Risk, Ensure compliance with regulations.png">
                             </div>
                             <div class="shape">
                                 <img src="assets/img/images/about_shape01.png" alt="">
@@ -157,8 +157,8 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9">
                         <div class="choose__img-wrap-five">
-                            <!-- <img src="assets/img/images/truth-concept-arrangement-with-balance_23-2149051288.avif" alt=""> -->
-                            <img src="assets/img/images/businessman-signing-important-contract-papers_114579-12133.avif" alt="">
+                        <!-- <img src="assets/img/images/our services - Compliance - Minimize Risk, Ensure compliance with regulations.png"> -->
+                            <img src="assets/img/images/our services - Compliance - Labour Law Compliance.png">
                             <!-- <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                             <!-- <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
                         </div>

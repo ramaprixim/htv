@@ -32,8 +32,9 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="about__img-wrap-four">
-                            <img src="assets/img/images/inner_about01.jpg" alt="">
-                            <img src="assets/img/images/inner_about02.jpg" alt="">
+                              <img src="assets/img/images/our services - Training -Training Services.png" alt="">
+                           <!-- <img src="assets/img/images/inner_about01.jpg" alt=""> -->
+                            <!--<img src="assets/img/images/inner_about02.jpg" alt=""> -->
                             <!-- <div class="about__award-box">
                                 <div class="icon">
                                     <i class="flaticon-trophy"></i>
