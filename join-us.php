@@ -31,7 +31,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9">
                 <div class="choose__img-wrap-five mt-100">
-                    <img src="assets/img/images/h5_choose_img01.jpg" alt="">
+                    <img src="assets/img/images/business office.jpg" alt="">
                     <img src="assets/img/images/h5_choose_img02.jpg" alt="">
                     <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
                         style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
