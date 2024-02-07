@@ -55,6 +55,7 @@
                         related to our professional designations and professional associations. However, as a private
                         organization, we are responsible for a number of fundamental principles.</p>
                     <br>
+
                     <div class="choose__box-wrap">
                         <div class="row">
                             <div class="col-sm-6">
@@ -89,6 +90,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
@@ -136,13 +138,22 @@
                 </div>
             </div>
         </div>
+    </div>
 </section>
 
 <section class="choose__area-five">
     <div class="container">
 
         <div class="row align-items-center justify-content-center">
-
+            <div class="col-lg-6 col-md-9">
+                <div class="choose__img-wrap-five">
+                    <img src="assets/img/images/h5_choose_img01.jpg" alt="">
+                    <img src="assets/img/images/h5_choose_img02.jpg" alt="">
+                    <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
+                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                    <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown">
+                </div>
+            </div>
 
             <div class="col-lg-6">
                 <div class="choose__content-five">
@@ -170,16 +181,9 @@
                 </div>
 
             </div>
-            <div class="col-lg-6 col-md-9">
-                <div class="choose__img-wrap-five">
-                    <img src="assets/img/images/h5_choose_img01.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_img02.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
-                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                    <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown">
-                </div>
-            </div>
+
         </div>
+    </div>
 </section>
 
 <section class="call-back-area">
@@ -207,7 +211,8 @@
     <div class="row">
         <div class="col-lg-12 container mt-100 mb-100" style="text-align:center;">
             <h1>Our Clients Requirements</h1>
-            <p>We will not knowingly or otherwise engage in or condone any activity or attempt to circumvent the clear intent of the law by which we and our clients are governed.</p>
+            <p>We will not knowingly or otherwise engage in or condone any activity or attempt to circumvent the clear
+                intent of the law by which we and our clients are governed.</p>
             <a class="btn aos-init aos-animate" data-aos-delay="600" data-aos="fade-up" href="/about">Contact Us</a>
         </div>
     </div>
@@ -224,9 +229,10 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                                <button type="submit" class="btn btn-dark">Send Now</button>
+                <button type="submit" class="btn btn-dark">Register Here</button>
+            </div>
         </div>
     </div>
-</div></section>
+</section>
 
 <?php include("includes/footer.php"); ?>

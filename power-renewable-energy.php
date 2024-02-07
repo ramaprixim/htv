@@ -56,7 +56,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <button type="submit" class="btn btn-dark">Send Now</button>
+                <button type="submit" class="btn btn-dark">Register Here</button>
             </div>
         </div>
 </section>
