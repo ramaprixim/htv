@@ -1,4 +1,9 @@
 <?php include("includes/second-header.php"); ?>
+<style>
+    .services-thumb img{
+        height: 400px;
+    }
+</style>
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
         <div class="row">
@@ -33,7 +38,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    <a class="shine-animate" href="#"><img src="assets/img/services/port-de-barcelona-night.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <div class="icon">

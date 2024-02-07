@@ -3022,8 +3022,8 @@ textarea {
 }
 .about__img-wrap-four > img {
   border-radius: 10px;
-  height: 600px;
-  width: 400px
+  /* height: 600px;
+  width: 400px */
 }
 .about__img-wrap-four > img:nth-child(2) {
   border-radius: 10px;
@@ -5301,7 +5301,7 @@ textarea {
 .choose__area-two {
   position: relative;
   overflow: hidden;
-  margin: 120px 0 0;
+  margin: 0 0 0;
   padding: 85px 0 0;
   z-index: 1;
 }

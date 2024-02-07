@@ -31,16 +31,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt="">
+                    <img src="assets/img/services/2151003690.jpg" alt="">
                     <div class="about__award-box">
-                        <div class="icon">
-                            <i class="flaticon-trophy"></i>
-                        </div>
-                        <div class="content">
-                            <h2 class="title">15+</h2>
-                            <p>World Best Agency <br> Award Got</p>
-                        </div>
+                       
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -73,7 +66,7 @@ Designed with input from people like you</h2>
     </div>
 </section>
 <section class="choose__area-two">
-            <div class="choose__bg" data-background="assets/img/banner/banner_bg.jpg" style="background-image: url(&quot;assets/img/banner/banner_bg.jpg&quot;);"></div>
+            <div class="choose__bg" data-background="assets/img/services/2150970186.jpg" style="background-image: url(&quot;assets/img/services/2150970186.jpg&quot;);"></div>
             <div class="container">
                 <div class="row justify-content-end">
                     <div class="col-lg-8 col-md-10">

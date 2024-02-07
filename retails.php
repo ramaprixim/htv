@@ -1,4 +1,9 @@
 <?php include("includes/second-header.php"); ?>
+<style>
+    .services-thumb img{
+        height: 400px;
+    }
+</style>
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
         <div class="row">
