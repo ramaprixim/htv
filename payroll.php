@@ -44,7 +44,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a href="services-details.html" class="shine-animate"><img src="assets/img/images/modern-equipped-computer-lab_23-2149241221.avif" alt=""></a>
+                                    <a href="services-details.html" class="shine-animate"><img src="assets/img/images/DEDICATED PAYROLL SPECIALIST.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <div class="icon">
@@ -59,7 +59,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a href="services-details.html" class="shine-animate"><img src="assets/img/images/pensive-female-architect-analyzing-blueprints-while-working-office_637285-1063.avif" alt=""></a>
+                                    <a href="services-details.html" class="shine-animate"><img src="assets/img/images/TRANSPARENT PRICING.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <div class="icon">
@@ -74,7 +74,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a href="services-details.html" class="shine-animate"><img src="assets/img/images/paralyzed-asian-employee-working-call-center-reception-disability-friendly-office-female-operator-wheelchair-user-with-impairment-giving-assistance-customer-service-helpline_482257-43001.avif" alt=""></a>
+                                    <a href="services-details.html" class="shine-animate"><img src="assets/img/images/247 SUPPORT.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                     <div class="icon">
