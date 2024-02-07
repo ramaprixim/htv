@@ -37,6 +37,9 @@
     font-size: 16px;
     color: #ffffff;
 }
+.tgmenu__navbar-wrap > ul > li .sub-menu{
+    width: 278px;
+}
 </style>
 <body>
     <!--Preloader-->
@@ -115,37 +118,37 @@
 
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">Industries</a>
-                                            <ul class="sub-menu sub-sub-menu" style="min-width: max-content;">
-
-                                                <li><a href="automotive.php">Automotive</a></li>
+                                        <li class="menu-item-has-children" ><a href="#">Industries</a>
+                                            <ul class="sub-menu sub-sub-menu" style="left: 277px;">
+                                                <li><a href="power-renewable-energy.php">Power and Renewable</a></li>
                                                 <li><a href="aviation-airline.php">Aviation & Airline</a></li>
                                                 <li><a href="banking-finance.php">Banking & Finance</a></li>
                                                 <li><a href="bpo-kpo.php">BPO/ KPO</a></li>
                                                 <li><a href="construction-engineering.php">Construction &
                                                         Engineering</a></li>
                                                 <li><a href="events-management.php">Events Management</a></li>
-                                                <li><a href="export-import.php">Export/ Import</a></li>
-
-
-                                                <li><a href="fmcg.php">FMCG</a></li>
+                                                <li><a href="events-management.php">&nbsp;</a></li>
+                                            </ul>
+                                            <ul class="sub-menu sub-sub-menu" >
+                                                
                                                 <li><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
                                                 <li><a href="hospitality-tourism.php">Hospitality Tourism</a></li>
                                                 <li><a href="information-technology.php">Information Technology</a></li>
-                                                <li><a href="life-science-pharmaceuticals.php">Life Science
-                                                        Pharmaceuticals</a></li>
+                                                <li><a href="oil-gas.php">Oil & Gas</a></li>
                                                 <li><a href="manufacturing.php">Manufacturing</a></li>
                                                 <li><a href="metals-mining.php">Metals & Mining</a></li>
-
-
-                                                <li><a href="oil-gas.php">Oil & Gas</a></li>
-                                                <li><a href="power-renewable-energy.php">Power and Renewable</a></li>
+                                                <li><a href="export-import.php">Export/ Import</a></li>
+                                            </ul>
+                                            <ul class="sub-menu sub-sub-menu" style="left: -277px;">
+                                                <li><a href="automotive.php">Automotive</a></li>
+                                                
                                                 <li><a href="retails.php">Retails</a></li>
                                                 <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
                                                 <li><a href="telecommunications.php">Telecommunications</a></li>
                                                 <li><a href="tours-travels.php">Tours And Travels</a></li>
-
-
+                                                <li><a href="life-science-pharmaceuticals.php">Life Science
+                                                    Pharmaceuticals</a></li>
+                                                    <li><a href="fmcg.php">FMCG</a></li>
                                             </ul>
 
                                         </li>
