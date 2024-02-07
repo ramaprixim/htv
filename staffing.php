@@ -32,9 +32,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt="">
-                    <div class="about__award-box">
+                    <img src="assets/img/images/close-up-women-working-with-laptop.jpg" alt="">
+                    <!-- <img src="assets/img/images/inner_about02.jpg" alt=""> -->
+                    <!-- <div class="about__award-box">
                         <div class="icon">
                             <i class="flaticon-trophy"></i>
                         </div>
@@ -42,7 +42,7 @@
                             <h2 class="title">15+</h2>
                             <p>Staffing <br> Services</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                     </div>
@@ -93,7 +93,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img01.jpg" alt=""></a>
+                                    src="assets/img/images/young-couple-buying-car-car-showroom_1303-15127.avif" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
@@ -114,7 +114,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img02.jpg" alt=""></a>
+                                    src="assets/img/images/business-people-shaking-hands-together_53876-13391.avif" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
@@ -137,7 +137,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="/services-details"><img
-                                    src="assets/img/services/services_img03.jpg" alt=""></a>
+                                    src="assets/img/images/creative-people-working-office_23-2147656715.avif" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
