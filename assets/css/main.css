@@ -3511,6 +3511,10 @@ textarea {
     gap: 20px;
   }
 }
+.footer-nav{
+  display: flex;
+  justify-content: space-between;
+}
 .about__phone {
   display: flex;
   align-items: center;
