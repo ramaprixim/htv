@@ -3,173 +3,320 @@ $menuactive = basename($_SERVER['PHP_SELF']);
 
 switch ($menuactive) {
     case 'index.php':
-        $title = "Forex Brokerages | Forex Grey Label | Forex Business | Cost";
-        $description = "Looking to Start your own Forex Brokerage? Explore our Forex Grey Label Solutions for Cost-Effective and Efficient Forex Business Setup. Grow your Brand today!";
-        $keywords = "Forex Brokerage, Forex Grey Label, Forex Business, MT4 Grey Label, MT5 Grey Label, Forex Trading, Forex CRM, Forex Brokers, Forex Brokerage Firm, MT4, MT5, MT4 and MT5, Forex SEO,  How to Start Forex Trading, FX Solutions, Start a Forex Brokerage, How to Start a Forex brokerage Firm, Top Forex Brokers, Forex Brokerage Business, Online Forex Trading, Brokerage Business, Forex White Label, starting a Forex Brokerage Firm, Broker CRM, CRM,";
-        $name="FXBrokerService";
-        $alternateName=" FXBrokerService";
-        $url="https://fxbrokerservice.com/";
-        $canonical ="https://fxbrokerservice.com/";
+        $title = "Top HR Consultant in Navi Mumbai | HR Company - Humantroop";
+        $description = "Humantroop HR is one of the Top HR Company in Mumbai providing effiecient hiring solutions and recruitment services for various industries.Contact Now";
+        $keywords = "Top HR Company in Mumbai, Top HR Consultant in Navi Mumbai, hr company, hr services, hr consultant, hr solutions, hr payroll, hr consultancy services, hr consultancy services,hr consulting firms, human resources services, human resources consulting services, human resources company,hr consultancy near me, Manpower Company in Navi Mumbai, Staffing company in Navi Mumbai, HR Consultancy in Mumbai, HR Consultancy Firm in Mumbai, HR Consultancy Services Mumbai, best HR consultancy in Mumbai, best HR consultancy in India, Top HR Firms In Mumbai, Top HR Consulting Firms In Mumbai";
+        $name="Humantroop";
+        $alternateName="Humantroop";
+        $url="https://humantroop.in/";
         break;
 
-    case 'about.php':
-        $title = "Start a Forex Brokerage Business | Forex Greylable Solution | About Us";
-        $description = "Looking to Start a Forex Brokerage Firm? Our Forex brokerages Solutions are designed to help you build a successful business.Join us today!";
-        $keywords = "Forex Trading, Forex Brokers, Best Forex Broker, Forex Trading Platforms, Best Trading Platform, Forex Market, Trading Platform, Best Trading, trading fx, Best Forex Markets to Trade, MT5 Server, MT4 Server, MT5 Forex Trading, Best Forex Companies, Best Trading Broker, Forex Brokerage, Forex Brokerage Business, FXbrokerservice, FX Broker, Forex Company, Forex Trading Brokers, Best Broker for Forex Trading, Forex Trading Software, Forex Market Trading, Best Trading Company, FX Companies, Best Forex Brokerage Solution, MT4 Brokers, MT4 Trading, MT5 Trading, Trading FX, MT4 Forex, Best Forex, Best Forex Trading, Forex Business, mt4 mt5, MT5 Market, MT5 Forex, MT4 Market, Best Forex to Trade, Forex Trading mt4, MT4 and MT5, MT4 to MT5, Best Forex Trading Company, Forex and Trading";
-        $name="About us";
-        $alternateName="About us";
-        $url="https://fxbrokerservice.com/about.php";
+    case 'vision-values.php':
+        $title = "Vision, Mission & Values | Human Resources Consultancy in Navi Mumbai";
+        $description = "We are a human resources consultancy firm in Mumbai  that helps organizations achieve their visions and missions by providing them with the best talent";
+        $keywords = "Vision and Mission, Mission Vision Values, Company Mission and Vision, Vision and Value, Mission Vision and Values";
+        $name="Vision And Values";
+        $alternateName="Vision And Values";
+        $url="https://humantroop.in/vision-values.php";
         break;
 
 
-    case 'broker-crm.php':
-        $title = "Forex CRM Solution | Forex Trading Platform | FXBrokerService";
-        $description = "Discover the ultimate Forex CRM solution! Elevate your Forex Trading game with our cutting-edge platform and expert Broker CRM services. Contact us today.";
-        $keywords = "Forex CRM, Forex CRM Solution, Forex Trading Platform, FXCRM,  FX Solutions, Forex Brokerage Business, Forex CRM Platform, Advantage of CRM, Forex CRM Provider, Feature of CRM, Forex CRM Software, Best Forex Trading Platform, Forex Brokers, Forex Trader Platform, CRM System, Forex Traders, Forex Brokerage, Forex Website Solutions, Broker Solutions";
-        $name="Broker CRM";
-        $alternateName="Broker CRM";
-        $url="https://fxbrokerservice.com/broker-crm.php";
+    case 'code-of-conduct.php':
+        $title = "Code of Ethics | HR Consultants| HR company Company in Navi Mumbai";
+        $description = "Our team members are committed to conducting themselves in the highest standard of ethical behavior. Read the Humantroop Ventures Code of conduct here";
+        $keywords = "Code of Conduct, code of ethics, Codes of Conduct and Codes of Ethics, Professional Conduct, Code of Professional Conduct, Company Code of Conduct";
+        $name="Code Of Conduct";
+        $alternateName="Code Of Conduct";
+        $url="https://humantroop.in/code-of-conduct.php";
         break;
 
-    case 'broker-website.php':
-        $title = "Forex Web Design | Broker Website Solutions - FXBrokerService";
-        $description = "Transform your Forex Business with our cutting-edge Web Design and Broker Website Solutions. Take your online presence to the next level. Get started today!";
-        $keywords = "Forex Web Design, Broker Website, Website Solutions, Best Trading Website, Forex Broker, Best Trading Site, Web Design, Website Design, Website Development, Web site, Make Website, Web Developer Companies, Web Design Company, Web Page Design, Website Design Company, Website Broker, Website Services, Forex Broker Website, Forex Website, Online trading Website Design, Forex Signals Website template, Fx Brokers, FX Industry, SEO Integration, Payment Methods, Payment Process, Landing Pages, Forex Website Design, Forex Trading Platforms, Forex Broker Website Template, Free Forex Trading Website Templates, How to create a Forex Trading Website, Trading Website Design, How to create a Broker Website";
-        $name="BrokerWebsite";
-        $alternateName="BrokerWebsite";
-        $url="https://fxbrokerservice.com/broker-website.php";
+    case 'our-approach.php':
+        $title = "Manpower Consultant in Navi Mumbai | Manpower Services in Navi Mumbai";
+        $description = "Looking for Manpower Services in Navi Mumbai? Get the full details of leading Manpower companies in Navi Mumbai,Find the best Manpower Service Provider in  Mumbai";
+        $keywords = "Manpower Company in Navi Mumbai manpower consultants, manpower agencies, manpower consultants in mumbai, manpower company, manpower recruitment agency, manpower agency near me, manpower solutions, manpower services in mumbai, manpower agency in mumbai, manpower company in mumbai, manpower staffing agency, manpower services agency";
+        $name="Our Approach";
+        $alternateName="Our Approach";
+        $url="https://humantroop.in/our-approach.php";
         break;
 
-    case 'corporate-services.php':
-        $title = "FXbroker's Corporate Service | Offshore Bank Account | Forex Solution";
-        $description = "We at FXBrokerservice have a highly Professional Team with an in-depth understanding of each jurisdiction & Help customers build and manage Forex brokerage businesses.";
-        $keywords = "Corporate Services, Offshore Bank Account, Banking Corporation, Business Accounts, Bank Account, Corporate Account, Offshore Banking, Offshore Company, Corporate Bank, Bank Services, Bank Company, Bank Business, Account Company, Offshore Account, Business Bank Account, Company Bank Account, Company Services, Bank Forex, Corporate Services Companies, Comapny Incorporation, Forex Business, Banking Requirements, Virtual Office Services, Online Trading, Online Trading Business, Forex Industry, Brokerage Business, Legal Compliance, Offshore Company Formation, , Forexbroker, Forexbrokerservices, Brokerage Business, Forex Brokerage";
-        $name="Corporate Services";
-        $alternateName="Corporate Services";
-        $url="https://fxbrokerservice.com/corporate-services.php";
+    case 'staffing.php':
+        $title = "Top Staffing Company in Navi Mumbai | HR Staffing  Agency";
+        $description = "We are one of the top  HR Staffing  Agency in Navi Mumbai.Find the registered HR Solution & HR Consultancy in Navi Mumbai, Staffing company in Navi Mumbai.";
+        $keywords = "Staffing company in Navi Mumbai, Contract Staffing Services, Contract staffing companies in Navi Mumbai, IT Contract Staffing Companies in Navi Mumbai, Temporary Staffing Companies in Navi Mumbai, Temporary Staffing Services in Navi Mumbai, IT Contract Staffing Agencies in Navi Mumbai, list of staffing companies in Navi Mumbai, Best IT Contract Staffing in Navi Mumbai, IT staffing companies in Navi Mumbai, Top IT Staffing Companies in Navi Mumbai, human resources consulting, staffing solutions, human resources consulting services";
+        $name="Staffing";
+        $alternateName="Staffing";
+        $url="https://humantroop.in/staffing.php";
         break;
 
-    case 'forex-seo.php':
-        $title = "Forex SEO | Forex SEO Solutions | SEO For Forex Companies";
-        $description = "Boost your Forex website's visibility and rankings with our Expert Forex SEO Solutions  Trust our proven strategies for success Contact us now today!";
-        $keywords = "Forex SEO, SEO Solutions, Forex SEO Marketing, FX Broker, SEO, SEO Services, FX SEO,  Digital Marketing Services, Marketing Services, SEO Digital Marketing, SEO Agency, SEO Marketing,  SEO Strategy, Forex Company, Forex Brokerage, SEO Provider,  Digital Marketing Company, Digital Marketing Services, SEO and Digital Marketing, Best SEO Marketing Companies, SEO Internet Marketing, SEO Forex, Forex Business, Best SEO Solutions, Forex SEO Company, Forex SEO Agency, Forex SEO Firms, SEO Online Marketing";
-        $name="Forex SEO";
-        $alternateName="Forex SEO";
-        $url="https://fxbrokerservice.com/forex-seo.php";
+    case 'payroll.php':
+        $title = "HR & Payroll Outsourcing Solutions | Payroll Management";
+        $description = "Looking for a reliable Payroll Outsourcing Solution? Let us take care of your payroll needs so you can focus on growing your business. For more information contact us.";
+        $keywords = "Payroll Services, Payroll Companies, Payroll Management, Payroll Online, Payroll Specialist, Payroll Outsourcing Companies, Payroll Outsourcing, Payroll Management Services, Paperless Payroll Services, Compliance Management, Online Payroll Services, Service And Payroll, Business Payroll, Business Payroll Services,  Payroll Outsourcing Solution";
+        $name="Payroll";
+        $alternateName="Payroll";
+        $url="https://humantroop.in/payroll.php";
         break;
 
-    case 'logodesign.php':
-        $title = "Professional Logo Design Services| Logo Design Company";
-        $description = "FXBrokerservice is a Logo Design Company that offers a range of services to help you create the perfect logo for your company.";
-        $keywords = "Logo Design Online, Logo Creator, Logo Maker, Free Logo Maker, Logo Editor, Logo Generator, Business Logo, Company Logo Design, Best Logo Maker, Brand Logo Maker, Logo Design Maker, Forex Logo, Logo Design Website, Name Logo Maker, Best Logo Design, Logo Design Creator, Creative Logo Maker, Best Logo Design Software, Logo Design Tool, My Logo Maker, Best Logo Design Company, Corporate Logo Design, Logo Design And Branding, Logo, Logo Design For Business";
-        $name="Logo Design";
-        $alternateName="Logo Design";
-        $url="https://fxbrokerservice.com/logo-design.php";
+    case 'compliance.php':
+        $title = "Best HR Corporate Compliance Solutions | Compliance Consulting Services";
+        $description = "At Corporate Compliance Solutions, We are here to help you every step of the way, from risk assessment to compliance training give us a call today or  Visit our website.";
+        $keywords = "compliance services, compliance as a service, company compliance, compliance regulations, regulation and compliance, Top HR Company in Mumbai, Top HR Consultant in Navi Mumbai, hr company, hr services, hr consultant, hr solutions, hr payroll, hr consultancy services, hr consultancy services,hr consulting firms, human resources services, human resources consulting services, human resources company,hr consultancy near me, Manpower Company in Navi Mumbai, Staffing company in Navi Mumbai, HR Consultancy in Mumbai, HR Consultancy Firm in Mumbai, HR Consultancy Services Mumbai, best HR consultancy in Mumbai, best HR consultancy in India, Top HR Firms In Mumbai, Top HR Consulting Firms In Mumbai";
+        $name="Compliance";
+        $alternateName="Compliance";
+        $url="https://humantroop.in/compliance.php";
         break;
 
-    case 'mt4.php':
-        $title = "MT4 Grey Label | Trading Platform | Forex Grey Label Setup | Low Cost";
-        $description ="Get started MT4 Grey Label Platform with FXBrokerService. Free setup, a FREE Website for CRM, and Free SEO Services for 1 month Get your Demo Now.";
-        $keywords ="MT4 Grey Label, MT4 Grey Label Provider, Forex Grey Label, MT4, MT5, MT4 Trading, MetaTrader 4, MT4 Trading Platform, MT4 Platform, MT4 Grey Label Cost,  Forex Broker Services,  Best Forex Brokerage, Broker Forex, Forex Trading Broker, MT4 Brokers, Forex Broker, Forex Grey Label Solution, MetaTrader Broker, Metaquotes, Forex Market, Trading Platform, Best Forex Trading Platform, Forex Trading Platform, Brokerage Firms, Best Forex Broker, Start a Forex Brokerage, MetaTrader Solution, MT4 Software, MT5 Software";
-        $name="MT4";
-        $alternateName="MT4";
-        $url="https://fxbrokerservice.com/mt4.php";
+    case 'training.php':
+        $title = "Human Resource Training & Development | HR Training Program";
+        $description ="Looking for top-notch HR Training Program Services and HR Programs? You can grow your business by managing your organization & employees better with our training.";
+        $keywords ="Business Venture, HR Training, Human Resource Management, Outsourcing HR, Outsourcing Business, Outsourced HR For Businesses, Human Resource Management Services, Human Resource Planning, Human Resource Development, Outsourced HR Solution, Training Services, HR Training Program, Remote Training, Job Seeker, Strategic Human Resource Management, HR Professional, HR Training and Development";
+        $name="Training";
+        $alternateName="Training";
+        $url="https://humantroop.in/training.php";
         break;
 
-    case 'mt5.php':
-        $title ="MT5 Grey Label | Forex Brokerage Business | MT5 Platform";
-        $description ="Discover the Power of MT5 Grey Label Platform with us. We offer a Quick Setup, a Free Website for PAMM CRM, and Book a Demo Today.";
-        $keywords ="MT5 Grey Label, Forex Broker, MT5 Grey Label Provider, Forex Trading, MetaTrader 5, Forex Grey Label, MT5 Grey Label Cost, Trading Platform, Trading Business, Broker Forex, Trading Software, MT5 Trading, Forex Platform, MT5 Brokers, MT5 Trading Platform, MetaTrader 5 Brokers, MT5 Platform, Forex Marketing, Forex Business, Brokerage Business,  How to Start a Forex Brokerage Firm, How to Start Forex Brokerage Business, Forex Grey Label Provider, Forex Broker Services, MT5 Manager, Forex Grey Label Solution, MT4 Software, MT5 Software, Forex Brokerage Business with MT5 Grey Label, MetaTrader Software,";
-        $name="MT5";
-        $alternateName="MT5";
-        $url="https://fxbrokerservice.com/mt5.php";
+    case 'outsourcing.php':
+        $title ="Top HR Outsourcing Services in Mumbai | Comprehensive HR Solutions";
+        $description ="Are you looking for an Efficient, Cost-Effective Outsourced HR solution? Look no further than our Team of Experts! Trust us to help take your Business to the next level.";
+        $keywords ="Outsourcing HR, Outsourcing Business, Benefits Of Hr Outsourcing, Outsourced It Support, Human Outsourcing, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services, HR Administration Outsourcing, Human Resources And Outsourcing, Outsourced HR For Businesses, Human Resource Management Services, Human Resource Planning, Human Resource Development, Outsourced HR solution";
+        $name="Outsourcing";
+        $alternateName="Outsourcing";
+        $url="https://humantroop.in/outsourcing.php";
         break;
 
-        case 'mt5-greylabel.php':
-            $title ="MT5 Grey Label | MT5 Grey Label Provider | Forex Brokerage";
-            $description ="Looking for a Reliable Forex Brokerage Business? We are a Leading MT5 Grey Label Provider, Offering a Comprehensive Range of Services. Join us today!";
-            $keywords ="MT5 Grey Label, MT5 Grey Label Cost, MetaTrader5, Forex Brokers, MT5 Grey Label Provider, How to Start a Forex Brokerage Firm, How to Start Forex Brokerage Business, Forex Grey Label Provider, Forex Trading Platforms, MT5 brokers, MT5 Trading, Forex Broker Services, MT5 Manager, MT5 Trading Platform, Forex Brokerage Business with MT5 Grey Label, MT5 Grey Label Solution, Benefits of MT5, Benefits of MT5 Grey Label, Forex Grey Label Solution, Forex Grey Label, Forex Broker Services";
-            $name="MT5";
-            $alternateName="MT5";
-            $url="https://fxbrokerservice.com/mt5.php";
-            break;
-        case 'mt4-greylabel.php':
-            $title ="MT4 Grey Label | MT4 Grey Label Provider | Grey Label Solution";
-            $description ="Are you Looking for a Forex Grey Label solution? Our MT4 Grey Label Platform is designed to help you achieve your financial goals.";
-            $keywords ="MT4 Grey Label, Forex Trading Platform, Forex Brokerage Business, MT4 Grey Label Solution, MT4 brokers, MET4 Manager, MT4 Trading, Forex Brokerage, Benefits of MT4 Grey Label,  MT4 Trading Platform, Forex Broker Services, Best Forex Trading Platform, MT4 Grey Label Cost, Start a Forex Brokerage, Best Forex Broker,  Forex Grey Label Cost, Metaquotes Grey Label, Metatrader 4 Grey Label, Forex Trading Brokers, Trading Solutions, Metatrader, Trading Platform, Forex Grey Label Solution, MT4 indicators            ";
-            $name="MT5";
-            $alternateName="MT5";
-            $url="https://fxbrokerservice.com/mt5.php";
+        case 'bgv-screening.php':
+            $title ="Background Verification & Screening Company | BGV Screening Services";
+            $description ="Keep your Employees safe with BGV Screening Services background screening services. Our background verification services are reliable and accurate, Contact us today.";
+            $keywords ="Background Verification, Background Screening, Employment Screening, Employee Background Verification, BGV Verification, Background Verification Check, Background Verification Services, Background Checking For Employment, Employment Screening Services, Background Check Services, Employment Verification Background Check, Employee Background Check Services, Screening Services, Employment Verification Check, Employment Background Screening, Background Screening Services, Verification Services, BGV Background Verification, Background Check And Screening, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services";
+            $name="BGV Screening";
+            $alternateName="BGV Screening";
+            $url="https://humantroop.in/bgv-screening.php";
             break;
 
-    case 'our-servers.php':
-        $title = "Forex Trading Servers | Our Servers |  Best Trading Servers";
-        $description = "We offer you High Speed & stable Forex Trading Servers for your Brokerage Business With Our FXBrokerservice, you can experience its technological advantage today";
-        $keywords = "Forex Trading, Forex Server, MT4 Trading, Forex Market, MT5 Trading, Trading FX, MT4 Forex, Best Forex, Best Forex Trading, Forex Business, mt4 mt5, MT5 Market, MT5 Forex, MT4 Market, Best Forex to Trade, Our Server, Forex Trading mt4, MT4 and MT5, MT4 to MT5, Best Forex Trading Company, Forex, and Trading, Best Forex Markets to Trade, MT5 Server, MT4 Server, MT5 Forex Trading, Best Forex Companies, Marketing Liquidity, MET5 Accounts, MET4 Accounts, Trading Servers, Global Trading, Global Trading Platform, Trading Networks, Fibre Optic Network, AWS, AWS Process, Equinix, FXbrokerservice, Forex Broker Regulation";
-        $name="Our Server";
-        $alternateName="Our Server";
-        $url="https://fxbrokerservice.com/our-servers.php";
-        break;
-
-    case 'psp.php':
-        $title = "Forex Payment | PSP Services | Payment Gateways Solutions";
-        $description = "Discover Seamless Forex Payment Gateways PSP Services for secure transactions. Explore our Payment Gateway Solutions to elevate your Forex Business";
-        $keywords = "Forex Payment, PSP Services, Payment Gateway Solutions, Payment Gateway, Online Payment, Online Payment Gateway, Forex Payment Service Provider, Payment Gateway for Website, PSP Payment, Payment Services, Gateway Services, Payment on Account, Online Payment Services, Payment Account, Payment Gateway Services, Secure Payment Gateway, Payment Website, Payments and Security, Payments Solutions, Online Gateways, Online Payment Solutions, Forex Payment Methods, Online Forex Payment, Forex Brokerage, Forex Merchant Account, International Payment Gateway, Global Payment Gateways, Worldwide Online Payment Gateway,  Best Payment, Payment Gateway Providers, Forex CRM";
-        $name="PSP";
-        $alternateName="PSP";
-        $url="https://fxbrokerservice.com/psp.php";
-        break;
-
-    case 'team.php':
-        $title = "FXBrokerservice| Meet Our Experienced & Professional Team - Leadership";
-        $description = "We are proud to introduce our highly talented Team & Technically sound people with outstanding Leadership qualities. We will provide you with all the Forex Services.";
-        $keywords = "Forex Brokers, Best Forex Broker, Forex Trading Platforms, Best Trading Platform, Forex Market, Trading Platform, Best Trading, trading fx, MT4 Trading, MT5 Trading, Trading FX, MT4 Forex, Best Forex, Best Forex Trading, Forex Business, mt4 mt5, MT5 Market, MT5 Forex, MT4 Market, Best Forex to Trade, Forex Trading mt4, MT4 and MT5, MT4 to MT5, Best Forex Trading Company, Forex and Trading, Forex Brokerage, Forex Business, Forex Brokerage Business, FX Broker, Forex SEO, CRM, Broker Website,  Start a Forex Brokerage Business
-        ";
-        $name="";
-        $alternateName="";
-        $url="";
-        break;
-
-    case 'standard-mt4-mt5.php':
-            $title = "Standard MT4 and MT5 Software Price, Plans | FXBrokerService";
-            $description = "FXBrokerService offers the Best standard mt4 & mt5 software. Our features include Free Website & Branding, Very Quick Setup, and Free logo, for more info Contact us today.";
-            $keywords = "Forex Brokers, Forex Trading, Best Forex Broker, Best Broker for Trading, Forex Trading Platforms, Best Trading Platform, Trading Platforms, Trading Business, Trading Software, Online Trading Platform, Trading FX, Company Trading, Top Forex Brokers, Forex Trading Brokers, FX Broker, MET5 Greylable, MET4 Greylable, MET5, MET4, MET4 Greylabel, MT5 Pricing, MT4 Pricing, Metatrader Price, trading software, MT4 Fees, MT5 Fees, mt4 and mt5, Standard MT4, Standard MT5";
-            $name="Standard MT4/MT5";
-            $alternateName="Standard MT4/MT5";
-            $url="https://fxbrokerservice.com/standard-mt4-mt5.php";
+        case 'posh-traning.php':
+            $title ="Posh Training for Employees | Posh Consultants in Navi Mumbai";
+            $description ="Humantroop Ventures offer the Best Posh Consulting Services, This will help your Employees reach their highest potential while promoting a positive work environment.";
+            $keywords ="Posh Compliance, Harassment Prevention, Posh At Workplace, Harassment Training, Workplace Harassment Training, Harassment Prevention Training, Harassment Training For Employees, Posh Training India, Prevention Training, Posh Compliance India, Workplace Under Posh Act, Workplace Harassment Course, Posh Workplace, Posh Act Compliance, Compliance Under Posh Act, Harassment Awareness Training, Harassment Compliance Training, Harassment Prevention Training For Employees, HR Industries, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services";
+            $name="POSH Training";
+            $alternateName="POSH Training";
+            $url="https://humantroop.in/posh-traning.php";
             break;
 
-    case 'advanced-mt4-mt5.php':
-                $title = "Advanced  MT4 Tips and MT5 Software Price, Plans | FXBrokerService";
-                $description ="We offer Advanced MT4 and MT5 Software. Our Features include No setup free, Free Website & Branding, 15 Email Accounts, CRM, 24/5 Support, etc.";
-                $keywords = "Forex Brokers, Forex Trading, Best Forex Broker, Best Broker for Trading, Forex Trading Platforms, Best Trading Platform, Trading Platforms, Trading Business, Trading Software, Online Trading Platform, Trading FX, Company Trading, Top Forex Brokers, Forex Trading Brokers, FX Broker, MET5 Greylable, MET4 Greylable, MET5, MET4, MET4 Greylabel, Brokerage Business, Start Forex Brokerage, Online Forex Trading, Advanced MT4, Advanced MT5, MT5 Pricing, MT4 Pricing, Metatrader Price, trading software, MT4 Fees, MT5 Fees, mt4 and mt5,";
-                $name="Advanced MT4/MT5";
-                $alternateName="Advanced MT4/MT5";
-                $url="https://fxbrokerservice.com/advanced-mt4-mt5.php";
+    case 'automotive.php':
+        $title = "Reliable Automotive HR Consulting Service | Automotive HR Support";
+        $description = "We provide Experienced and Knowledgeable Support for your Automotive HR needs through our Automotive HR Consulting Service. for more information Contact us today.";
+        $keywords = "HR Automotive, Automotive Human Resources, Hr Automotive Services, Automotive HR Consulting Service, HR Consulting, HR Consulting Service, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HR Support Services, HRM Automotive, HR In Automotive Industry, HR Automotive Service";
+        $name="Automotive";
+        $alternateName="Automotive";
+        $url="https://humantroop.in/automotive.php";
+        break;
+
+    case 'retails.php':
+        $title = "Retail HR Consultancy Services | Retail Sector Human Resources Support";
+        $description = "Our HR solutions are tailored to the unique needs of the Retail Sector, providing comprehensive HR Support From employee recruitment and onboarding to training.";
+        $keywords = "HR Retail, HR In Retail, HRM In Retailing, Retailing, HRM In Retail Sector, Retail Human Resource, Human Resources Support , HR Support Services, HR Outsourcing, HR Outsourcing Services, Human Resource Management, Outsourcing In HRM, HR Outsourcing Services, HR Management Outsourcing, HR Recruitment, Recruitment In HRM, HR Solutions, Human Resource Services";
+        $name="Retails";
+        $alternateName="Retails";
+        $url="https://humantroop.in/retails.php";
+        break;
+
+    case 'shipping-logistics.php':
+        $title = "HR Shipping & Logistic Consultancy | Shipping & Logistic HR Support";
+        $description = "Our HR solutions provide comprehensive support for Shipping & Logistic Consultancy, from recruitment and onboarding to employee engagement and compliance";
+        $keywords = "Shipping and Logistics, Shipping and Logistics Business, Hr Shipping and Longistics Consultancy, HR Shipping , HR Shipping Services, HR Shipping Company, HR In Shipping Industry, Shipping and Longitics HR Support, HR Services, HR Support, Logistics HR, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Human Resource Services, HR Solutions, HRM Services";
+        $name="Shipping & Logistics";
+        $alternateName="Shipping & Logistics";
+        $url="https://humantroop.in/shipping-logistics.php";
+        break;
+
+    case 'telecommunications.php':
+            $title = "Reliable HR Services in Telecommunication | Telecom HR Solutions";
+            $description = "Our HR solutions for telecommunication companies provide comprehensive and tailored support to meet the specific needs of your industry. With our specialized expertise.";
+            $keywords = "Telecom HR, Telecom HR Solutions, Human Resources, Hrm, Recruitment, HR Recruitment, Telecom Recruitment, Human Resource Management, Human Resource Planning, Human Resource Development, HR Outsourcing Services, Staffing, HR Management, HR Agencies In Mumbai, Human Resource Recruitment, HR Industries, Telecom Industry, Telecom Sector In HRM, Telecom Sector In Human Resource Management, HR Outsourcing, HR Solutions,";
+            $name="Telecommunications";
+            $alternateName="Telecommunications";
+            $url="https://humantroop.in/telecommunications.php";
+            break;
+
+    case 'tours-travels.php':
+                $title = "HR Support for Travel & Tourism | HR Consultancy for Tourism & Travel";
+                $description ="First Class HR Support for the Travel & Tourism Sector! Specialist Consultancy for Human Resources in Tourism Industry. Admin Assistance & Legal Advice.Contact us today.";
+                $keywords = "Travel Tours, Travel Agency Travel Agency, Tours &Travels, Human Resource Planning, Human Resource Management, Human Resources, Human Resources In Tourism Industry, HRM In Tourism, Human Resources Tourism, Tourism HRM, Hospitality In Tourism, Human Resource Management In Tourism, Human Resources In Tourism Industry, HRM  In Tourism, HR In Tourism Industry, HRM In Tourism Industry, Human Resource Management In Tourism Industry, Human Resource Management In Travel and Tourism, Tourism HRM";
+                $name="Tours And Travels";
+                $alternateName="Tours And Travels";
+                $url="https://humantroop.in/tours-travels.php";
                 break;
 
-    case 'terms-condition.php':
-                $title = "Terms and Conditions";
-                $name="Terms and Conditions";
-                $alternateName="Terms and Conditions";
-                $url="https://fxbrokerservice.com/terms-condition.php";
-                break;
+    case 'life-science-pharmaceuticals.php':
+        $title = "HR Services for Life Sciences & Pharmaceuticals | Outsourced HR";
+        $description ="We provide comprehensive services for life sciences and pharmaceutical companies. Our services include life science&healthcare companies etc. Contact us today.";
+        $keywords = "HRM In Pharmaceutical Industry, HR In Pharma Industry, HR Pharmaceutical Sector, Leadership In HRM, Human Resources Leadership, HR Life Sciences, HR In Life Science & Healthcare, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Pharmaceutical Sector, Life Sciences Industry, Science Pharmaceutical, Life Science Companies, Healthcare and Life Sciences, Pharma Life Sciences, Life Sciences Pharmaceuticals, HR Solution";
+        $name="Life Science Pharmaceuticals";
+        $alternateName="Life Science Pharmaceuticals";
+        $url="https://humantroop.in/life-science-pharmaceuticals.php";
+        break;
         
-    case 'privacy-policy.php':
-                    $title = "Privacy Policy | FXBrokerservice";
-                    $name="Privacy Policy";
-                    $alternateName="Privacy Policy";
-                    $url="https://fxbrokerservice.com/privacy-policy.php";
-                    break;
+    case 'fmcg.php':
+        $title = "Human Resource Services for the FMCG Sector | HR FMCG Solutions";
+        $description ="We are Leading Human Resource Solutions for FMCG Sector. Our HR Services for the FMCG Sector provide Tailored HR solutions to Boost Efficiency, For more info contact us.";
+        $keywords = "Human Resource Management in The FMCG Industry, HR FMCG Services, FMCG HR, HR FMCG Industries, HR FMCG, HR In FMCG Sector, FMCG Industry, FMCG Sector, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Recruitment In HRM, Recruitment Process In HRM, HRM Recruitment, Recruitment HR, FMCG Industry, FMCG Recruitment Services, FMCG Recruitment Agencies, HR Staffing Services, HR Staffing Agencies";
+        $name="FMCG";
+        $alternateName="FMCG";
+        $url="https://humantroop.in/fmcg.php";
+        break;
         
-    case 'contact-us.php':
-                    $title = "Contact US | Start a Forex Brokerage  | FXBrokerservice";
-                    $description = "Looking for a Forex Brokerage Solution, FXBrokerService is the Best Option. Contact us now to discuss your Trading Needs & Explore our Comprehensive Services";
-                    $keywords = "Contact us, Submit a form,  Forex Brokers, Forex Grey Label, Forex Trading, Best Forex Broker, Start a Forex Brokerage, How to Start a Forex brokerage Firm, FX Solutions, Broker CRM, MT4Grey Label, MT5 Forex trading, Forex Website, How to Start Forex Trading, MT5 Server, MT4 Server, Top Forex Trading Platforms, Online Brokerage Accounts, Best Broker for Trading, Forex Trading Platforms,";
-                    $name="Contact us";
-                    $alternateName="Contact us";
-                    $url="https://fxbrokerservice.com/contact-us.php";
-                    break;
+    case 'healthcare-wellness.php':
+        $title = "Healthcare HR Support Solutions| Healthcare HR Consultancy Service";
+        $description = "Humantroop provides HR services for healthcare industry within budget with great flexibility. Contact us today to cut down on your expenses.";
+        $keywords = "Healthcare HR Support, Healthcare HR Consultancy Service, Healthcare HR, HR Services for Healthcare Industry, HR Support for Healthcare Sector, HR support , Healthcare HR Service, HR  outsourcing services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Health and Wellness Services, Wellness Healthcare, Healthcare Services Sector, HR Consulting Solutions, HR Services, HR Outsourcing, HR Solutions";
+        $name="Healthcare & Wellness";
+        $alternateName="Healthcare & Wellness";
+        $url="https://humantroop.in/healthcare-wellness.php";
+        break;
+
+    case 'hospitality-tourism.php':
+        $title = "HR Solutions in the Hospitality Sector | HR Support for Tourism";
+        $description = "We provides comprehensive HR solutions for the hospitality-tourism industry, helping companies reduce costs, increase productivity& ensure compliance with regulations";
+        $keywords = "Human Resource Management For The Hospitality and Tourism Industries, Human Resource, HR Hospitality, HRM In Hospitality Industry, HR In Hospitality Industry, HR  Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Tourism and Hospitality Industry, Hospitality & Tourism Industry, Payroll Business, Payroll For Business, Tourism Business, Business In Tourism Industry, HRM Services";
+        $name="Hospitality Tourism";
+        $alternateName="Hospitality Tourism";
+        $url="https://humantroop.in/hospitality-tourism.php";
+        break;
+
+    case 'information-technology.php':
+        $title = "HR Information Technology | Human Resource Management Tech Solutions";
+        $description = "We offer HR Infpormation technology solutions to simplify your HR processes and save you time. Our services include  payroll software, and employee tracking system.";
+        $keywords = "HR Information Technology, Information Technology In Human Resource Management, Human Resource Information Technology, Information Technology In HRM, HR Information Technology Industry, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Information Technology Industry, Human Resources Technology, HR Technology, HR In Call Center, HR Call Center, Human Resource Management Call Center, HR BPO, HR BPO Companies, Communication In HRM";
+        $name="Information Technology";
+        $alternateName="Information Technology";
+        $url="https://humantroop.in/information-technology.php";
+        break;
+    
+    case 'oil-gas.php':
+        $title = "HR Solutions in the Oil & Gas Industry | HRM Oil & Gas Services";
+        $description = "We offer comprehensive HR Solutions tailored to the unique needs of the Oil & Gas industry. Our team of Experts will help you address your HR needs quickly & Efficiently.";
+        $keywords = "HR Solutions In The Oil & Gas Industry, HR Oil & Gas Services, Gas and Oil, Oil and Gas Industry Companies, Industry Oil and Gas, Oil & Gas Companies, Oil & Gas Industry, HR Solution, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Industrial Gas Companies, Oil and Gas Industry Sectors, Oil and Gas Sector Companies, Managing Human Resources In The Oil & Gas Industry, HR In Oil and Gas Industry";
+        $name="Oil & Gas";
+        $alternateName="Oil & Gas";
+        $url="https://humantroop.in/oil-gas.php";
+        break;
+
+    case 'manufacturing.php':
+        $title = "HR Services for Manufacture Industry | HR Outsourcing Solutions";
+        $description = "We are the Best HR Outsourcing Solution. We specialize in providing customized HR services that are tailored to meet the specific needs of the Manufacturing Industry.";
+        $keywords = "HR In Manufacturing, HR Manufacturing, HR In Manufacturing Industry, Manufacturing Human Resources, HR Role In Manufacturing Company, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, Manufacturing Industries, Role Of Hr In Manufacturing Industry, HR Solutions For The Manufacturing Industry, HR Payroll, HR Payroll Services, HR Payroll Solution, HR Solution, Human Resource Services";
+        $name="Manufacturing";
+        $alternateName="Manufacturing";
+        $url="https://humantroop.in/manufacturing.php";
+        break;
+
+    case 'metals-mining.php':
+        $title = "HR Metals and Mining Outsourcing Services | Recruitment Consultant";
+        $description = "Are you interested in finding HR Metal and Mining outsourcing solutions to help improve your business? Our experts can help you find the ideal resources for your needs.";
+        $keywords = "HR Metals and Mining, HR Metals And Mining Services, HR Services, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, Mining Industry, Metals and Mining, Metals and Mining Industry, The Mining Industry, Metals and Mining Companies, Mining and Industrial, Human Resource Management, Mining Industry Companies, Human Resource Services, HR Solutions";
+        $name="Metals & Mining";
+        $alternateName="Metals & Mining";
+        $url="https://humantroop.in/metals-mining.php";
+        break;
+
+    case 'export-import.php':
+        $title = "Human Resource Solutions for Import & Export | HR Import & Export";
+        $description = "We are leading Human Resource Solutions for Import & Export. Our team of HR professionals can help you develop and implement strategies for recruitment, training, etc...";
+        $keywords = "HR Export, Exports HR Services, Human Resource Export Services HR Services, HR Import, Import and Export Management, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, HR Solutions, HR Recruitment Solution, Recruitment Process Outsourcing, Import and Export Industry, Import Industry, Import Sector, Human Resources";
+        $name="Export/ Import";
+        $alternateName="Export/ Import";
+        $url="https://humantroop.in/export-import.php";
+        break;
+
+    case 'power-renewable-energy.php':
+        $title = "Best HR Services For Power & Renewable Energy Sector | Human Resources";
+        $description = "Are you in the Power and Renewable Energy Sector? Get the Best Human Resources Services to help you Build a Successful business. For More details Contact us today...";
+        $keywords = "HR Services For Power & Renewable, HR Services Power & Renewable, Renewable Energy Industries, Renewable Energy Companies, Renewable Energy Consultant, Renewable Energy, Renewable, The Renewable Energy Company, Renewable Power, Human Resource Services, HR Solutions, Human Resource Development, Human Resource Management, HRM, HRM Services";
+        $name="Power & Renewable Energy";
+        $alternateName="Power & Renewable Energy";
+        $url="https://humantroop.in/power-renewable-energy.php";
+        break;
+
+    case 'aviation-airline.php':
+        $title = "Aviation Human Resource Services | Airlines Human Resource Solutions";
+        $description = "Humantroop Ventures Provides Comprehensive Human Resource Solutions to the Airline Industry, Helping Businesses Streamline Operations, & Increase Efficiency, contact us.";
+        $keywords = "HR Aviation Industry, Human Resource Management In Airline Industry, HR In Airline Industry, Aviation Industry, Aviation Sector, Human Resources In The Aviation Industry, Airlines HR, Aviation HR, Human Resources In Aviation, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HR Support Services,Hrms Airline Industry, Aviation Industry Sectors, Human Resources, HRM Program";
+        $name="Aviation & Airline";
+        $alternateName="Aviation & Airline";
+        $url="https://humantroop.in/aviation-airline.php";
+        break;
+
+    case 'banking-finance.php':
+        $title = "Banking and Finance HR Solutions | Human Resource Management Support";
+        $description = "Are you Looking for Comprehensive HR Solutions for Banking and Finance? Our Team of HRM experts is here to provide you with the support you need. Contact us today...";
+        $keywords = "Human Resources In Banking, Banking HR, Banking And Finance, Bank Financial, Human Resource Management In Banking, HR In Finance Industry, HRM In Banking Sector, HR In Banking Sector, HR Financial Services, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRMS, Finance For Banking";
+        $name="Banking & Finance";
+        $alternateName="Banking & Finance";
+        $url="https://humantroop.in/banking-finance.php";
+        break;
+
+    case 'bpo-kpo.php':
+        $title = "Human Resource KPO Services | HR BPO Solutions | HR BPO Services";
+        $description = "We Provide Comprehensive HR BPO Solutions and HR BPO Services to help you Increase Efficiency, Improve Decision-Making, and ensure Compliance with Industry Standards...";
+        $keywords = "HR BPO Services, BPO Human Resources, HR Business Process Outsourcing, Human Resources Business Process Outsourcing, HR Process Outsourcing Services, HR Outsourcing Services For KPO, HR Outsourcing Services, HR KPO, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRMS, Outsourcing BPO And KPO, BPO Call Center, BPO KPO Services, BPO Business Process";
+        $name="BPO/ KPO";
+        $alternateName="BPO/ KPO";
+        $url="https://humantroop.in/bpo-kpo.php";
+        break;
+
+    case 'construction-engineering.php':
+        $title = "Human Resource Services in Construction & Engineering | HR Management";
+        $description = "Our Human Resource Services in Construction & Engineering can help you manage your workforce more effectively. Let us help you create a better workplace for your team.";
+        $keywords = "HR Construction Services, HR Construction, HRConstruction Solutions, HR For Construction, HRM Engineering, HR Services For The Construction Industry, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management,  HRMS, HR Support Services, Industry Construction Engineering And Management, Construction Engineering, Construction Industry";
+        $name="Construction & Engineering";
+        $alternateName="Construction & Engineering";
+        $url="https://humantroop.in/construction-engineering.php";
+        break;
+
+    case 'events-management.php':
+        $title = "Human Resource Solutions for Event Management | HR Events Services";
+        $description = "We offer Comprehensive HR Services & Strategies to ensure that your Event is successful and your staff is managed Efficiently. For more information contact us today...";
+        $keywords = "Human Resources In Event Management, HR Event Management Services, HR Event Management, Event Management Services, HR Event Management Companies , HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HR Event Services, HRMS, HR Support Services, HR Solution, Event Management Services, Event Management Industry";
+        $name="Events Management";
+        $alternateName="Events Management";
+        $url="https://humantroop.in/events-management.php";
+        break;
+
+    case 'our-clients.php':
+        $title = "Top Human Resources consulting firms Navi Mumbai | HR Company";
+        $description = "Humantroop Ventures is one of the best HR consultancy in Navi Mumbai providing effiecient hiring solutions and recruitment services for various industries. Contact Now!.";
+        $keywords = "Contact us,Top HR Company in Mumbai, Top HR Consultant in Navi Mumbai, hr company, hr services, hr consultant, hr solutions, hr payroll, hr consultancy services, hr consultancy services,hr consulting firms, human resources services, human resources consulting services, human resources company,hr consultancy near me, Manpower Company in Navi Mumbai, Staffing company in Navi Mumbai, HR Consultancy in Mumbai, HR Consultancy Firm in Mumbai, HR Consultancy Services Mumbai, best HR consultancy in Mumbai, best HR consultancy in India";
+        $name="Our Clients";
+        $alternateName="Our Clients";
+        $url="https://humantroop.in/our-clients.php";
+        break;
+
+    case 'join-our-team.php':
+        $title = "Join Our Team | Top Recruiting Firms in Navi Mumbai";
+        $description = "Human resources operations jobs at HumanTroop Mumbai let organizations improve retention, enhance workforce productivity and augment employee satisfaction.";
+        $keywords = "Best Human Resources Consultant In Mumbai, Best Recruitment Agency In Navi Mumbai, HR Consultants In Mumbai, HR Consultancy In Mumbai, Human Resource Consultancy Services, Consulting, Hire, Top HR Company In Mumbai, Top HR Consultant In Navi Mumbai, Hr Company, HR Services, HR Consultant, HR Solutions, Human Resource Services, HR Solutions, HRM,  HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resources Management, Join Ventures, Business Venture, Business Venture company, Ventures Team";
+        $name="Join Us";
+        $alternateName="Join Us";
+        $url="https://humantroop.in/join-our-team.php";
+        break;
+
+    case 'channel-partners.php':
+        $title = "Best Human Resources Consultant in Mumbai - Humantroop";
+        $description = "We are committed to delivering Best Human Resources Consultant in Mumbai. We also responsible to fulfill our commitments to our people, clients, partners";
+        $keywords = "Best Human Resources Consultant in Mumbai, Best Recruitment Agency in Navi Mumbai, hr consultants in mumbai, hr consultancy in mumbai, human resource consultancy services, top, best, companies, firms, consulting, hire, Top HR Company in Mumbai, Top HR Consultant in Navi Mumbai, hr company, hr services, hr consultant, hr solutions, hr payroll, hr consultancy services, hr consultancy services,hr consulting firms, human resources services, human resources consulting services, human resources company,hr consultancy near me, Manpower Company in Navi Mumbai, Staffing company in Navi Mumbai, HR Consultancy in Mumbai, HR Consultancy Firm in Mumbai, HR Consultancy Services Mumbai, best HR consultancy in Mumbai, best HR consultancy in India";
+        $name="Channel Partners";
+        $alternateName="Channel Partners";
+        $url="https://humantroop.in/channel-partners.php";
+        break;
+
+    case 'contact.php':
+        $title = "HR consultancy | Contact us | HR consultancy | Outsourcing services";
+        $description = "We'd love to help you with all your Outsourcing needs. Fill out the form or call Contact Us and we will get in touch with you soon. For more details Get in touch with us.";
+        $keywords = "Contact us,Top HR Company in Mumbai, Top HR Consultant in Navi Mumbai, hr company, hr services, hr consultant, hr solutions, hr payroll, hr consultancy services, hr consultancy services,hr consulting firms, human resources services, human resources consulting services, human resources company,hr consultancy near me, Manpower Company in Navi Mumbai, Staffing company in Navi Mumbai, HR Consultancy in Mumbai, HR Consultancy Firm in Mumbai, HR Consultancy Services Mumbai, best HR consultancy in Mumbai, best HR consultancy in India";
+        $name="Contact Us";
+        $alternateName="Contact Us";
+        $url="https://humantroop.in/contact.php";
+        break;
 
     default:
         $title = "Title Here";
