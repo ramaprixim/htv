@@ -1,10 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en">
-
+    <?php include("dynmicdata.php") ?>
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Top HR Consultant in Navi Mumbai | HR Company - Humantroop</title>
+    <title><?php echo $title ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="<?php echo $description ?> " />
+    <meta name="keywords" content="<?php echo $keywords ?> " />
     <meta name="description" content="Apexa - Business Consulting HTML Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -293,26 +295,26 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-grp">
-                                <input type="text" name="full_name" placeholder="Full Name">
+                                <input type="text" name="name" placeholder="Name">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-grp">
-                                <input type="email" name="email" placeholder="Email Address">
+                                <input type="email" name="company" placeholder="Company">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-grp">
-                                <input type="number" name="phone" placeholder="Phone Number">
+                                <input type="number" name="city" placeholder="City">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-grp">
-                                <input type="text" name="subject" placeholder="Subject">
+                                <input type="text" name="contact" placeholder="Contact">
                             </div>
                         </div>
                         <div class="form-grp">
-                            <textarea name="message" placeholder="Message"></textarea>
+                            <textarea name="comment" placeholder="Message"></textarea>
                         </div>
                     </div>
                    <br>

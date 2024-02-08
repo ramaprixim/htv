@@ -1,10 +1,3 @@
-<!-- <style>
-  h2{
-    margin-top: 98px;
-  }
-</style> -->
-
-
 <?php include("includes/second-header.php"); ?>
 
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg"
@@ -70,10 +63,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="choose__shape-wrap-two">
-                <img src="assets/img/images/h2_choose_shape01.png" alt="" data-parallax="{&quot;x&quot; : -80 , &quot;y&quot; : 80 , &quot;rotateZ&quot;:80}" style="transform:translate3d(-0.57px, 0.599px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0.599deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(-0.57px, 0.599px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0.599deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                <img src="assets/img/images/h2_choose_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
             </div>
         </section>
 
