@@ -1358,7 +1358,7 @@ textarea {
   margin-right: 0;
 }
 .tgmenu__navbar-wrap > ul > li a {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
   text-transform: capitalize;
   color: var(--tg-color-dark-blue);
@@ -2822,7 +2822,7 @@ textarea {
   }
 }
 .about__area-four {
-  padding: 120px 0;
+ padding: 120px 0; 
 }
 @media (max-width: 991.98px) {
   .about__area-four {
@@ -4037,7 +4037,7 @@ textarea {
 .services__bg-seven {
   background-size: cover;
   background-position: center;
-  padding: 120px 0 90px;
+  padding: 10px 0 90px;
   position: relative;
   z-index: 1;
 }

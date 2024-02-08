@@ -141,8 +141,8 @@
 
 
 
-<section class="services__area-three services__bg-three" data-background="assets/img/bg/h3_services_bg.jpg"
-    style="background-image: url(&quot;assets/img/bg/h3_services_bg.jpg&quot;);">
+<section class="services__area-three services__bg-three"
+    style="background-color: #1c1945;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
@@ -185,6 +185,7 @@
                         <p>Train them in the issue of sexual harassment and create awareness of the criminal
                             consequences of the Act on POSH. HR staff are trained to report incidents and explain sexual
                             harassment policies to new hires.</p>
+                            <br>
                         <!-- <a class="btn btn-two" href="/services-details">Read More</a> -->
                     </div>
                 </div>
@@ -204,6 +205,7 @@
                             nuances of sexual harassment investigations. We equip IC members with knowledge of the
                             procedures set out in the POSH Act, including conducting investigations and submitting the
                             annual POSH report.</p>
+                            <br>
                         <!-- <a class="btn btn-two" href="/services-details">Read More</a> -->
                     </div>
                 </div>
@@ -364,7 +366,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-8">
                 <div class="about__img-wrap-six">
-                    <img src="assets/img/images/h4_about_img01.jpg" alt="">
+                    <img src="assets/img/services/2151054237.jpg" alt="">
                     <!-- <img src="assets/img/images/h4_about_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(6.914px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(6.914px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
                     <!-- <div class="experience__box-four">
                                 <h2 class="title">25</h2>

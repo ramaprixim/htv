@@ -17,7 +17,9 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="/">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Who We Are</li>
+                            <li class="breadcrumb-item active" aria-current="page"><a href="">About Us</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Code Of Conduct</li>
+
                         </ol>
                     </nav>
                 </div>
@@ -33,7 +35,7 @@
     </div>
 </section>
 <section class="choose__area-two">
-            <div class="choose__bg" data-background="assets/img/services/view-professional-business-people-working-together_23-2150917010.jpg" style="background-image: url(&quot;assets/img/services/view-professional-business-people-working-together_23-2150917010.jpg&quot;);"></div>
+            <div class="choose__bg" data-background="assets/img/services/still-life-illustrating-ethics-concept.jpg" style="background-image: url(&quot;assets/img/services/still-life-illustrating-ethics-concept.jpg&quot;);"></div>
             <div class="container">
                 <div class="row justify-content-end">
                     <div class="col-lg-8 col-md-10">

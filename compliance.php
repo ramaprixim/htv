@@ -117,29 +117,9 @@
                                 <!-- <span class="sub-title">Why We Are The Best</span> -->
                                 <h2 class="title">Statutory Compliance</h2>
                             </div>
-                            <p>Companies, big and small, must comply with legal laws and regulations to keep businesses out of any legal trouble and avoid penalties. Keeping up with ever-changing government standards and regulations is not easy and is a challenge in most companies.</p>
-                            <div class="choose-list">
-                                <ul class="list-wrap">
-                                    <li>
-                                        <!-- <div class="icon">
-                                            <i class="flaticon-investment"></i>
-                                        </div> -->
-                                        <div class="content">
-                                            <!-- <h4 class="title">Business Solutions</h4> -->
-                                            <p>Humantroop Ventures offers a range of compliance services to help companies deal with such issues. This includes but is not limited to your Provident Fund, ESIC, Profession Tax, Social Welfare Fund and other statutory deductions applicable to your particular organisation.</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <!-- <div class="icon">
-                                            <i class="flaticon-investment-1"></i>
-                                        </div> -->
-                                        <div class="content">
-                                            <!-- <h4 class="title">Market Analysis</h4> -->
-                                            <p>Humantroop Ventures' dedicated compliance management team monitors changing laws and updates them for clients, in addition to managing all regular monthly activities. Through our services, we minimize the risk associated with non-compliance.</p>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
+                            <p>Companies, big and small, must comply with legal laws and regulations to keep businesses out of any legal trouble and avoid penalties. Keeping up with ever-changing government standards and regulations is not easy and is a challenge in most companies.
+                            Humantroop Ventures offers a range of compliance services to help companies deal with such issues. This includes but is not limited to your Provident Fund, ESIC, Profession Tax, Social Welfare Fund and other statutory deductions applicable to your particular organisation.</p>
+                            <p>Humantroop Ventures' dedicated compliance management team monitors changing laws and updates them for clients, in addition to managing all regular monthly activities. Through our services, we minimize the risk associated with non-compliance.</p>
                         </div>
                     </div>
                 </div>

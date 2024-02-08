@@ -206,7 +206,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="blog__post-four shine-animate-item">
                             <div class="blog__post-thumb-four">
-                                <a class="shine-animate" href="/blog-details"><img src="assets/img/blog/h5_blog_post01.jpg" alt=""></a>
+                                <img src="assets/img/blog/h5_blog_post01.jpg" alt="">
                             </div>
                             <div class="blog__post-content-four">
                                 <br>
@@ -218,7 +218,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="blog__post-four shine-animate-item">
                             <div class="blog__post-thumb-four">
-                                <a class="shine-animate" href="/blog-details"><img src="assets/img/blog/h5_blog_post02.jpg" alt=""></a>
+                                <img src="assets/img/blog/h5_blog_post02.jpg" alt="">
                             </div>
                             <div class="blog__post-content-four">
                                 <br>
@@ -230,7 +230,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="blog__post-four shine-animate-item">
                             <div class="blog__post-thumb-four">
-                                <a class="shine-animate" href="/blog-details"><img src="assets/img/services/services_img08.jpg" alt=""></a>
+                                <img src="assets/img/services/services_img08.jpg" alt="">
                             </div>
                             <div class="blog__post-content-four">
                                 <br>
@@ -731,13 +731,13 @@
                                         <p class="text-light">Humantroop Ventures is a well-known search and staffing company in India. With a solid foundation of quality and excellence</p>
                                         <h5 class="text-light">Staffing</h5>
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 80%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                            <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
                                           </div>
                                           <br>
                                           <h5 class="text-light">Recruitment</h5>
                                           <div class="progress">
 
-                                            <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 60%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                                            <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>
                                           </div>
                                     </div>
                                     

@@ -31,22 +31,19 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-8">
-                        <div class="about__img-wrap-two">
-                            <img src="assets/img/images/our services - Outsourcing- HR outsourcing.png" alt="">
-                            <div class="shape">
-                                <img src="assets/img/images/h2_about_img_shape.png" alt="" class="alltuchtopdown">
+                        <div class="about-img-wrap">
+                            <div class="mask-img-wrap">
+                                <img src="assets/img/images/our services - Outsourcing- HR outsourcing.png" alt="">
                             </div>
-                            <div class="experience__box-two">
-                                <div class="experience__shape">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 295" fill="none" preserveAspectRatio="none">
-                                        <path d="M70.7685 260.479C77.6405 257.127 82 250.15 82 242.503L82 44.8205C82 36.5032 76.8524 29.054 69.0724 26.1128L-3.51784e-06 9.7784e-07L0 295L70.7685 260.479Z" fill="currentcolor"></path>
-                                    </svg>
+                           
+                            <!-- <div class="experience-year">
+                                <div class="icon">
+                                    <i class="flaticon-trophy"></i>
                                 </div>
-                                <!-- <div class="experience__content">
-                                    <h4 class="title">25</h4>
-                                    <p>Years Of <br> Experiences</p>
-                                </div> -->
-                            </div>
+                                <div class="content">
+                                    <h6 class="circle rotateme">Years Of - Experience 25 -</h6>
+                                </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -143,12 +140,11 @@
                             </div> -->
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-9 col-sm-10 mb-30">
-                        <div class="about__img-wrap-four about__img-wrap-home8">
-                            <img src="assets/img/home8/img-about.png" alt="">
-                            <img src="assets/img/home8/img-about2.png" alt="">
+                    <div class="col-lg-6 col-md-9 col-sm-10">
+                        <div class="about__img-wrap-four">
+                            <img src="assets/img/services/business-people-shaking-hands-together.jpg" alt="">
                             <div class="shape">
-                                <img src="assets/img/home8/shape-circle.png" alt="" class="alltuchtopdown">
+                                <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                             </div>
                         </div>
                     </div>

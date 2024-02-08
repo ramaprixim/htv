@@ -98,7 +98,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center gutter-24">
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-profit"></i>
@@ -129,7 +129,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-light-bulb"></i>
@@ -154,11 +154,12 @@
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Domestic Help Screening</a></h2>
                                 <p>Households that want to have drivers, maids, babysitters, etc. verified</p>
+                                <br>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-startup"></i>
@@ -182,14 +183,14 @@
                             </div>
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Tenant Screening</a></h2>
-                                <p>Landlords who want to pre-screen their tenants</p><br><br>
+                                <p>Landlords who want to pre-screen their tenants</p><br>
                                 <!-- <a class="btn" href="/services-details">Read More</a> -->
                             </div>
                         </div>
                     </div>
                     </div>
                     <div class="row justify-content-center gutter-24">
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-target"></i>
@@ -219,7 +220,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-five">
                             <div class="services__icon-five">
                                 <i class="flaticon-budget"></i>
@@ -244,7 +245,7 @@
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Candidate Self Verification</a></h2>
                                 <p>A candidate who wants to verify their resume/resume to have an edge and more credibility when applying for a job.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                <br>
                             </div>
                         </div>
                     </div>

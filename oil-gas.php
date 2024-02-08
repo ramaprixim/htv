@@ -64,7 +64,7 @@
         </div>
     </div>
 </section>
-<section class="services__area-five services__bg-five" data-background="assets/img/services/5409.jpg" style="background-image: url(&quot;assets/img/bg/services/5409.jpg&quot;);">
+<section class="services__area-five services__bg-five" data-background="" style="background-image: url(&quot;assets/img/bg/services/5409.jpg&quot;);">
             <div class="container">
                 <div class="services-item-wrap">
                     <div class="row justify-content-center">

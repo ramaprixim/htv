@@ -67,6 +67,8 @@
                                     </div>
                                     <h4 class="title"><a href="services-details.html">TRANSPARENT PRICING</a></h4>
                                     <p>Our team of specialists is ready to assist you.</p>
+                                    <br>
+                                    <br>
                                     <!-- <a href="services-details.html" class="btn">Read More</a> -->
                                 </div>
                             </div>
@@ -84,6 +86,7 @@
                                     <p>Need assistance after business hours? No problem. Our team of specialists is ready to assist you.
 
                                     </p>
+                                    <br>
                                     <!-- <a href="services-details.html" class="btn">Read More</a> -->
                                 </div>
                             </div>
