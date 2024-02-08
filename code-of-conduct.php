@@ -1,4 +1,4 @@
-<?php include("includes/second-header.php"); ?>
+<?php $page="code-of-conduct"; include("includes/second-header.php"); ?>
 
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg"
     style="background-image: url(&quot;assets/img/bg/breadcrumb_bg.jpg&quot;);">

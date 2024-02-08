@@ -1,4 +1,4 @@
-<?php include("includes/second-header.php"); ?>
+<?php $page="tours-travel"; include("includes/second-header.php"); ?>
 <style>
     .services-thumb img{
         height: 400px;

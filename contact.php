@@ -1,4 +1,4 @@
-﻿<?php include("includes/second-header.php"); ?>
+﻿<?php $page="contact-us"; include("includes/second-header.php"); ?>
 
         <!-- breadcrumb-area -->
         <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">

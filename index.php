@@ -1,4 +1,4 @@
-﻿<?php include("includes/second-header.php"); ?>
+﻿<?php $page="home"; include("includes/second-header.php"); ?>
 <style>
     /* .slider__area{
         margin-top:145px;
