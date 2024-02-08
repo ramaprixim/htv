@@ -143,7 +143,7 @@
                                 <li><a href="terms-conditions.php">Terms &amp; Conditions</a></li>
                                 <li><a href="privacy-policy.php">Privacy Policy</a></li>
                                 <li><a href="disclaimer.php">Disclaimer</a></li>
-                                <li><a href="refunds-policy.php">Refunds Policy</a></li>
+                                <li><a href="refund-policy.php">Refunds Policy</a></li>
                             </ul>
                                 </div>
                             
