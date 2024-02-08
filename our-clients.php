@@ -1,4 +1,4 @@
-<?php include("includes/second-header.php"); ?>
+<?php $page="our-clients"; include("includes/second-header.php"); ?>
 <style>
     .client-card{
         background-color: #f9f9f9;

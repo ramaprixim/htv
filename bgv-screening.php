@@ -1,4 +1,4 @@
-<?php include("includes/second-header.php"); ?>
+<?php $page="bgv-screening"; include("includes/second-header.php"); ?>
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
         <div class="row">

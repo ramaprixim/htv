@@ -1,4 +1,4 @@
-<?php include("includes/second-header.php"); ?>
+<?php $page="oil-gas"; include("includes/second-header.php"); ?>
 <style>
     .services-thumb img{
         height: 400px;

@@ -112,86 +112,100 @@
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                     <ul class="navigation">
-                                        <li class="active"><a href="index.php">Home</a>
+                                        <li class="<?php if($page=='home') {echo 'active';} ?>"><a href="index.php">Home</a>
 
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">About Us</a>
+                                        <li class="menu-item-has-children <?php 
+                                    if($page=='vision-values' || $page=='code-of-coduct' || $page=='our-approach')
+                                     {echo 'active';}
+                                      ?>"><a href="#">About Us</a>
                                             <ul class="sub-menu">
-                                                <li><a href="vision-values.php">Vision & Values</a></li>
-                                                <li><a href="code-of-conduct.php">Code Of Conduct</a></li>
-                                                <li><a href="our-approach.php">Our Approach</a></li>
+                                                <li class="<?php if($page=='vision-values') {echo 'active';} ?>"><a href="vision-values.php">Vision & Values</a></li>
+                                                <li class="<?php if($page=='code-of-conduct') {echo 'active';} ?>"><a href="code-of-conduct.php">Code Of Conduct</a></li>
+                                                <li class="<?php if($page=='our-approach') {echo 'active';} ?>"><a href="our-approach.php">Our Approach</a></li>
 
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="#">Services</a>
+                                        <li class="menu-item-has-children <?php 
+                                    if($page=='staffing' || $page=='payroll' || $page=='compliance' || $page=='training' || $page=='outsourcing' || $page=='bgv-screening' || $page=='posh-training')
+                                     {echo 'active';}
+                                      ?>"><a href="#">Services</a>
                                             <ul class="sub-menu">
-                                                <li><a href="staffing.php">Staffing</a></li>
-                                                <li><a href="payroll.php">Payroll</a></li>
-                                                <li><a href="compliance.php">Compliance</a></li>
-                                                <li><a href="training.php">Training</a></li>
-                                                <li><a href="outsourcing.php">Outsourcing</a></li>
-                                                <li><a href="bgv-screening.php">BGV Screening</a></li>
-                                                <li><a href="posh-traning.php">POSH Traning</a></li>
+                                                <li class="<?php if($page=='staffing') {echo 'active';} ?>"><a href="staffing.php">Staffing</a></li>
+                                                <li class="<?php if($page=='payroll') {echo 'active';} ?>"><a href="payroll.php">Payroll</a></li>
+                                                <li class="<?php if($page=='compliance') {echo 'active';} ?>"><a href="compliance.php">Compliance</a></li>
+                                                <li class="<?php if($page=='training') {echo 'active';} ?>"><a href="training.php">Training</a></li>
+                                                <li class="<?php if($page=='outsourcing') {echo 'active';} ?>"><a href="outsourcing.php">Outsourcing</a></li>
+                                                <li class="<?php if($page=='bgv-screening') {echo 'active';} ?>"><a href="bgv-screening.php">BGV Screening</a></li>
+                                                <li class="<?php if($page=='posh-training') {echo 'active';} ?>"><a href="posh-traning.php">POSH Traning</a></li>
 
                                             </ul>
                                         </li>
-                                        <li class="menu-item-has-children" ><a href="#">Industries</a>
+                                        <li class="menu-item-has-children <?php 
+                                    if($page=='power-renewable-energy' || $page=='aviation-airline' || $page=='banking-finance' || $page=='bpo-kpo' || $page=='construction-engineering' || $page=='events-management'
+                                     || $page=='healthcare-wellness' || $page=='hospitality-tourism' || $page=='information-technology' || $page=='oil-gas' || $page=='manufacturing' || $page=='metal-mining' || $page=='export-import' || $page=='retail' || $page=='automotive'
+                                     || $page=='shipping-logistics' || $page=='telecommunication' || $page=='tours-travel' || $page=='life-science-pharmaceuticals' || $page=='fmcg')
+                                     {echo 'active';}
+                                      ?>" ><a href="#">Industries</a>
                                             <ul class="sub-menu sub-sub-menu" style="left: 277px;">
-                                                <li><a href="power-renewable-energy.php">Power and Renewable</a></li>
-                                                <li><a href="aviation-airline.php">Aviation & Airline</a></li>
-                                                <li><a href="banking-finance.php">Banking & Finance</a></li>
-                                                <li><a href="bpo-kpo.php">BPO/ KPO</a></li>
-                                                <li><a href="construction-engineering.php">Construction &
+                                                <li class="<?php if($page=='power-renewable-energy') {echo 'active';} ?>"><a href="power-renewable-energy.php">Power and Renewable</a></li>
+                                                <li class="<?php if($page=='aviation-airline') {echo 'active';} ?>"><a href="aviation-airline.php">Aviation & Airline</a></li>
+                                                <li class="<?php if($page=='banking-finance') {echo 'active';} ?>"><a href="banking-finance.php">Banking & Finance</a></li>
+                                                <li class="<?php if($page=='bpo-kpo') {echo 'active';} ?>"><a href="bpo-kpo.php">BPO/ KPO</a></li>
+                                                <li class="<?php if($page=='construction-engineering') {echo 'active';} ?>"><a href="construction-engineering.php">Construction &
                                                         Engineering</a></li>
-                                                <li><a href="events-management.php">Events Management</a></li>
-                                                <li><a href="events-management.php">&nbsp;</a></li>
+                                                <li class="<?php if($page=='events-management') {echo 'active';} ?>"><a href="events-management.php">Events Management</a></li>
+                                                <li class=""><a href="#">&nbsp;</a></li>
                                             </ul>
                                             <ul class="sub-menu sub-sub-menu" >
                                                 
-                                                <li><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
-                                                <li><a href="hospitality-tourism.php">Hospitality Tourism</a></li>
-                                                <li><a href="information-technology.php">Information Technology</a></li>
-                                                <li><a href="oil-gas.php">Oil & Gas</a></li>
-                                                <li><a href="manufacturing.php">Manufacturing</a></li>
-                                                <li><a href="metals-mining.php">Metals & Mining</a></li>
-                                                <li><a href="export-import.php">Export/ Import</a></li>
+                                                <li class="<?php if($page=='healthcare-wellness') {echo 'active';} ?>"><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
+                                                <li class="<?php if($page=='hospitality-tourism') {echo 'active';} ?>"><a href="hospitality-tourism.php">Hospitality Tourism</a></li>
+                                                <li class="<?php if($page=='information-technology') {echo 'active';} ?>"><a href="information-technology.php">Information Technology</a></li>
+                                                <li class="<?php if($page=='oil-gas') {echo 'active';} ?>"><a href="oil-gas.php">Oil & Gas</a></li>
+                                                <li class="<?php if($page=='manufacturing') {echo 'active';} ?>"><a href="manufacturing.php">Manufacturing</a></li>
+                                                <li class="<?php if($page=='metal-mining') {echo 'active';} ?>"><a href="metals-mining.php">Metals & Mining</a></li>
+                                                <li class="<?php if($page=='export-import') {echo 'active';} ?>"><a href="export-import.php">Export/ Import</a></li>
                                             </ul>
                                             <ul class="sub-menu sub-sub-menu" style="left: -277px;">
-                                                <li><a href="automotive.php">Automotive</a></li>
+                                                <li class="<?php if($page=='automotive') {echo 'active';} ?>"><a href="automotive.php">Automotive</a></li>
                                                 
-                                                <li><a href="retails.php">Retails</a></li>
-                                                <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
-                                                <li><a href="telecommunications.php">Telecommunications</a></li>
-                                                <li><a href="tours-travels.php">Tours And Travels</a></li>
-                                                <li><a href="life-science-pharmaceuticals.php">Life Science
+                                                <li class="<?php if($page=='retail') {echo 'active';} ?>"><a href="retails.php">Retails</a></li>
+                                                <li class="<?php if($page=='shipping-logistics') {echo 'active';} ?>"><a href="shipping-logistics.php">Shipping & Logistics</a></li>
+                                                <li class="<?php if($page=='telecommunication') {echo 'active';} ?>"><a href="telecommunications.php">Telecommunications</a></li>
+                                                <li class="<?php if($page=='tours-travel') {echo 'active';} ?>"><a href="tours-travels.php">Tours And Travels</a></li>
+                                                <li class="<?php if($page=='life-science-pharmaceuticals') {echo 'active';} ?>"><a href="life-science-pharmaceuticals.php">Life Science
                                                     Pharmaceuticals</a></li>
-                                                    <li><a href="fmcg.php">FMCG</a></li>
+                                                    <li class="<?php if($page=='fmcg') {echo 'active';} ?>"><a href="fmcg.php">FMCG</a></li>
                                             </ul>
 
                                         </li>
-                                        <li class=""><a href="our-clients.php">Our Clients</a>
+                                        <li class="<?php if($page=='our-clients') {echo 'active';} ?>"><a href="our-clients.php">Our Clients</a>
 
                                         </li>
                                         </li>
-                                        <li class="menu-item-has-children"><a href="work-with-us.php">Work With Us</a>
+                                        <li class="menu-item-has-children <?php 
+                                    if($page=='join-our-team' || $page=='channel-partners')
+                                     {echo 'active';}
+                                      ?>"><a href="work-with-us.php">Work With Us</a>
                                             <ul class="sub-menu">
-                                                <li><a href="join-our-team.php">Join Us</a></li>
-                                                <li><a href="channel-partners.php">Channel Partners</a></li>
+                                                <li class="<?php if($page=='join-our-team') {echo 'active';} ?>"><a href="join-our-team.php">Join Us</a></li>
+                                                <li class="<?php if($page=='channel-partners') {echo 'active';} ?>"><a href="channel-partners.php">Channel Partners</a></li>
 
                                             </ul>
                                         </li>
                                         </li>
-                                        <li class=""><a href="current-openings.php">Live Jobs</a>
+                                        <li class="<?php if($page=='current-openings') {echo 'active';} ?>"><a href="current-openings.php">Live Jobs</a>
                                             <!-- <ul class="sub-menu">
                                                 <li><a href="team.html">Join Us</a></li>
                                                 <li><a href="team-2.html">Channel Partners</a></li>
                                                 
                                             </ul> -->
                                         </li>
-                                        <li class="menu-item-has-children"><a href="blog.php">Blog</a>
+                                        <li class=""><a href="blog.php">Blogs</a>
 
                                         </li>
-                                        <li><a href="contact.php">contacts</a></li>
+                                        <li class="<?php if($page=='contact-us') {echo 'active';} ?>"><a href="contact.php">contacts</a></li>
                                     </ul>
                                 </div>
                                  <div class="tgmenu__action d-none d-md-block">
