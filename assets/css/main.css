@@ -3514,6 +3514,7 @@ textarea {
 .footer-nav{
   display: flex;
   justify-content: space-between;
+  list-style: none;
 }
 .about__phone {
   display: flex;
@@ -10449,12 +10450,14 @@ blockquote p {
 .footer-bottom {
   background: var(--tg-color-gray-3);
   border-top: 1px solid var(--tg-border-1);
-  padding: 35px 0;
+  padding: 20px 0;
 }
 @media (max-width: 767.98px) {
   .footer-bottom {
     padding: 25px 0;
   }
+  .ribbon {
+    font-size: 14px !important;}
 }
 .footer__bottom-two {
   border-top: 1px solid #272A68;
