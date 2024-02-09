@@ -66,43 +66,6 @@
     </div>
 </section>
 
-<section class="choose-area">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 order-0 order-lg-2">
-                <div class="choose-img-wrap">
-                    <img src="assets/img/images/choose_img01.jpg" alt="">
-                </div>
-            </div>
-            <div class="col-lg-6">
-                    <p style="color:white;"> Our style centers around an unrelenting drive to act with integrity and honesty, along with an
-                        unyielding determination to ensure that the people we work with are empowered and trusted to
-                        deliver the best for our customers. We enjoy getting people's support for ideas and providing
-                        others with goals, plans, and structures that move everyone in the same direction and help them
-                        work toward an overall goal. As we operate at the senior management level and act as a 'trusted
-                        advisor', it is important to demonstrate decisiveness, the ability to take responsibility for
-                        pressing issues and directly challenge others and make critical decisions in problem areas. It
-                        is important to design a delivery style that is engaging, creative, and strategic, but also
-                        'takes charge', decisive and analytical.</p>
-                    <br>
-                    <p style="color:white;">With a high level of customer satisfaction and a commitment to excellence, Humantroop Ventures is
-                        the go-to Manpower Company in Navi Mumbai. We use an engagement and design thinking approach
-                        that builds ownership among employees and key stakeholders. We have deep experience in
-                        organizational design, alignment, and transformation and have proven methodologies, but we
-                        always try to understand your challenges first before helping you create a plan. We don't have
-                        preconceived notions about how you must do things.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="choose-shape-wrap">
-        <img src="assets/img/images/choose_shape01.png" alt="" data-aos="fade-right" data-aos-delay="400"
-            class="aos-init aos-animate">
-        <img src="assets/img/images/choose_shape02.png" alt="" data-aos="fade-left" data-aos-delay="400"
-            class="aos-init aos-animate">
-    </div>
-</section>
-
 <section class="call-back-area">
     <div class="container">
         <div class="row">

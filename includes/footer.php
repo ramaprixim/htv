@@ -60,7 +60,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="footer-widget">
                             <h4 class="fw-title"><a href="our-clients.php">Our Clients</a></h4>
-                            <h4 class="fw-title"><a href="work-with-us.php">Work With Us</a></h4>
+                            <h4 class="fw-title">Work With Us</h4>
                             <div class="footer-info-list">
                                 <ul class="list-wrap">
                                     <li><a href="join-us.php">Join Us</a></li>
@@ -70,63 +70,6 @@
                             <br>
                             <h4 class="fw-title"><a href="contact-us.php">Contact Us</a></h4>
                             <h4 class="fw-title"><a href="blog.php">Blogs</a></h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                        <div class="footer-widget">
-                            <h4 class="fw-title">Industries</h4>
-                            <div class="footer-link-list">
-                                <ul class="list-wrap">
-                                    <li><a href="automotive.php">Automotive</a></li>
-                                    <li><a href="aviation-airline.php">Aviation & Airline</a></li>
-                                    <li><a href="banking-finance.php">Banking & Finance</a></li>
-                                    <li><a href="bpo-kpo.php">BPO/ KPO</a></li>
-                                    <li><a href="construction-engineering.php">Construction & Engineering</a></li>
-                                    <li><a href="eventsmanagement.php">Events Management</a></li>
-                                    <li><a href="export-import.php">Export/ Import</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                        <div class="footer-widget">
-                            <div class="footer-link-list">
-                                <br>
-                                <br>
-                                <br>
-                                <ul class="list-wrap">
-                                    <li><a href="fmcg.php">FMCG</a></li>
-                                    <li><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
-                                    <li><a href="hospitality-tourism.php">Hospitality & Tourism</a></li>
-                                    <li><a href="information-technology.php">Information Technology</a></li>
-                                    <li><a href="lifescience-pharmaceuticals.php">Life Science & Pharmaceuticals</a></li>
-                                    <li><a href="manufacturing.php">Manufacturing</a></li>
-                                    <li><a href="metals-mining.php">Metals & Mining</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="footer-widget">
-                            <div class="footer-link-list">
-                                <br>
-                                <br>
-                                <br>
-                                <ul class="list-wrap">
-                                    <li><a href="oil-gas.php">Oil & Gas</a></li>
-                                    <li><a href="power-renewableenergy.php">Power & Renewable Energy</a></li>
-                                    <li><a href="retails.php">Retails</a></li>
-                                    <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
-                                    <li><a href="telecommunications.php">Telecommunications</a></li>
-                                    <li><a href="tours-travels.php">Tours & Travels</a></li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                 </div>

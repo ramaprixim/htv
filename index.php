@@ -118,8 +118,6 @@
                                 <div class="col-lg-6">
                                     <div class="slider__content">
                                         <h2 class="title">Humantroop Ventures fluent in finding leaders</h2>
-                                        <p>We offer HR services from qualified HR consultants that can analyze your business
-                                            operations and design the people management solution that will work best for you.</p>
                                         <a class="btn" href="contact-us.php">Contact Us</a>
                                         
                                         
@@ -487,81 +485,7 @@
         <!-- counter-area-end -->
 
         <!-- project-area -->
-        <section class="project__area-two">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-5 col-lg-6">
-                        <div class="section-title mb-50 tg-heading-subheading animation-style3">
-                            <span class="sub-title">Industry</span>
-                            <h2 class="title tg-element-title" style="perspective: 400px;">Our Industries</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row gutter-24">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project__item-two">
-                            <div class="project__thumb-two">
-                                <img src="assets/img/project/h2_project_img01.jpg" alt="">
-                            </div>
-                            <div class="project__content-two">
-                                <h2 class="title">Construction and Engineering</h2>
-                                <span>Business</span>
-                                <div class="link-arrow link-arrow-two">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project__item-two">
-                            <div class="project__thumb-two">
-                                <img src="assets/img/project/h2_project_img02.jpg" alt="">
-                            </div>
-                            <div class="project__content-two">
-                                <h2 class="title">Information Technology</h2>
-                                <span>Business</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project__item-two">
-                            <div class="project__thumb-two">
-                                <img src="assets/img/services/mechanic-hand-checking-fixing-broken-car-car-service-garage.jpg" alt="">
-                            </div>
-                            <div class="project__content-two">
-                                <h2 class="title">Automotive</h2>
-                                <span>Business</span>
-                            
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="project__item-two">
-                            <div class="project__thumb-two">
-                                <img src="assets/img/services/view-air-plane-wing-during-take-off-landing.jpg" alt="">
-                            </div>
-                            <div class="project__content-two">
-                                <h2 class="title">Aviation and Airline</h2>
-                                <span>Business</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="project__item-two">
-                            <div class="project__thumb-two">
-                                <img src="assets/img/project/h2_project_img05.jpg" alt="">
-                            </div>
-                            <div class="project__content-two">
-                                <h2 class="title">Banking and Finance</h2>
-                                <span>Business</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="project__shape-wrap-two">
-                <img src="assets/img/project/h2_project_shape.png" alt="" data-aos="fade-left" data-aos-delay="400" class="aos-init aos-animate">
-            </div>
-        </section>
+    
         <section class="choose__area-two services__area-two" style="background-color: rgb(20 23 108);padding-bottom: 40px;">
             <div class="container">
                 <div class="row">
@@ -576,7 +500,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-two">
                             <div class="services__icon-two">
-                                <i class="flaticon-pie-chart"></i>
+                                <i class="flaticon"></i>
                             </div>
                             <div class="services__content-two">
                                 <h2 class="title">Dedicated Lead HR

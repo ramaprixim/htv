@@ -2822,7 +2822,7 @@ textarea {
   }
 }
 .about__area-four {
- padding: 120px 0; 
+ padding: 50px 0; 
 }
 @media (max-width: 991.98px) {
   .about__area-four {
@@ -4041,7 +4041,7 @@ textarea {
 .services__bg-seven {
   background-size: cover;
   background-position: center;
-  padding: 10px 0 90px;
+  padding: 50px 0 90px;
   position: relative;
   z-index: 1;
 }
@@ -10449,7 +10449,7 @@ blockquote p {
 .footer-bottom {
   background: var(--tg-color-gray-3);
   border-top: 1px solid var(--tg-border-1);
-  padding: 35px 0;
+  padding: 20px 0;
 }
 @media (max-width: 767.98px) {
   .footer-bottom {

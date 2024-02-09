@@ -97,7 +97,7 @@
         </section>
 
 
-        <section class="services__area-seven services__bg-seven" data-background="assets/img/bg/h5_services_bg.jpg" style="background-image: url(&quot;assets/img/bg/h5_services_bg.jpg&quot;);">
+        <section class="services__area-seven services__bg-seven" data-background="assets/img/bg/h5_services_bg.jpg" style="background-image: url(&quot;assets/img/bg/h5_services_bg.jpg&quot;);background-color: #e7e7e7;">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-7">

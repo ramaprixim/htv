@@ -62,45 +62,6 @@
 
 
 
-        <section class="about__area-four">
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 mb-30">
-                        <div class="about__content-four">
-                            <div class="section-title mb-30">
-                               
-                                <h2 class="title">How can HR outsourcing benefit my business?</h2>
-                            </div>
-                            <p>Outsourcing HR can help you save time and money and take the worry out of certain areas of compliance. You can choose to outsource some or all of the day-to-day administrative duties of HR, talent management, payroll, benefits and more.</p>
-                            <div class="about__content-inner-three">
-                                <div class="about__list-box">
-                                    <ul class="list-wrap">
-                                        <li><i class="flaticon-arrow-button"></i>1. Take administrative tasks off your plate and free up time to focus on strategic goals like employee retention and growing your business.</li>
-                                        <li><i class="flaticon-arrow-button"></i>2. Reduce time spent troubleshooting and answering employee questions related to HR, benefits or salary.</li>
-                                        <li><i class="flaticon-arrow-button"></i>3. Save money on hiring additional HR staff.</li>
-                                        <li><i class="flaticon-arrow-button"></i>4. Reduce onboarding and training costs.</li>
-                                        <li><i class="flaticon-arrow-button"></i>5. Get support for compliance with employment, workplace safety, payroll and tax laws and regulations and more – potentially saving your business compliance fees and penalties.</li>
-                                    </ul>
-                                </div>
-                                
-                            </div>
-                           
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-9 col-sm-10">
-                        <div class="about__img-wrap-four">
-                            <img src="assets/img/services/business-people-shaking-hands-together.jpg" alt="">
-                            <div class="shape">
-                                <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-
 <section class="call-back-area">
             <div class="container">
                 <div class="row">
