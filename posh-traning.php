@@ -20,7 +20,7 @@
     }
 
     .accordion-header {
-        background-color: #6C63FF;
+        background-color: #1c1945;
         /* Soft purple */
         color: #FFFFFF;
         /* White text */
@@ -34,13 +34,13 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        border-radius: 8px 8px 0 0;
+        border-radius: 8px 8px 8px 8px;
         transition: background-color 0.3s ease;
     }
 
     .accordion-header:hover {
-        background-color: #5753C9;
-        /* Darker shade of purple */
+        background-color: #1c1945;
+        color: #f4f4f4;
     }
 
     .accordion-content {
@@ -50,6 +50,7 @@
         padding: 0 15px;
         max-height: 0;
         transition: max-height 0.3s ease;
+        border-radius:8px;
     }
 
     .accordion-content p {
