@@ -74,7 +74,7 @@
                 </div>
                 <div class="services-item-wrap">
                     <div class="row justify-content-center">
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/paperwork.jpg" alt=""></a>
@@ -83,22 +83,12 @@
                                     
                                     <h4 class="title">PAPERWORK</h4>
                                     <p>We will take care of invoicing, concluding contracts, monitoring payments.</p>
+                                    <br><br>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="services-item shine-animate-item">
-                                <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/businessman-touching-glowing.jpg" alt=""></a>
-                                </div>
-                                <div class="services-content">
-                                 
-                                    <h4 class="title">SALES</h4>
-                                    <p>We have the right group of traders who can offer and close deals with clients.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                       
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/modern-equipped.jpg" alt=""></a>
@@ -107,10 +97,11 @@
                                    
                                     <h4 class="title">SOW</h4>
                                     <p>A well-defined scope of work before signing the contract.</p>
+                                    <br><br><br>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/two-happy-partners.jpg" alt=""></a>
@@ -119,11 +110,11 @@
                                    
                                     <h4 class="title">CLIENT COORDINATION</h4>
                                     <p>Forget about account management and delivery hassles and save bandwidth so you can focus on your core expertise.</p>
-                                    <br>
+                                    
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/western-chinese.jpg" alt=""></a>
@@ -132,6 +123,7 @@
                                   
                                     <h4 class="title">TRANSPARENCY</h4>
                                     <p>Utilizing a technology platform to coordinate and manage the candidate lifecycle to ensure transparency and speed.</p>
+                                    <br>
                                 </div>
                             </div>
                         </div>
