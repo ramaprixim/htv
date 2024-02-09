@@ -1,8 +1,8 @@
 <?php $page="staffing"; include("includes/second-header.php"); ?>
 <style>
-    .services__bg-five{
+    .services__bg-five {
         padding: 80px 0;
-    } 
+    }
 </style>
 
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
@@ -37,8 +37,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                <img src="assets/img/images/our services - Staffing -  Staffing Services.png" alt="" class="alltuchtopdown">
-                  
+                    <img src="assets/img/images/our services - Staffing -  Staffing Services.png" alt=""
+                        class="alltuchtopdown">
+
                 </div>
             </div>
 
@@ -73,70 +74,66 @@
         <div class="services-item-wrap">
             <div class="row justify-content-center">
                 <div class="section-title text-center mb-50">
-                     <h2 class="title">Our Expertise in Staffing</h2>    
+                    <h2 class="title">Our Expertise in Staffing</h2>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
 
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
                                 <i class="flaticon-profit"></i>
                             </div>
                             <h4>High-Volume Recruiting</h4>
-                            <p>Are you preparing to hire a large number of employees? Recruitment bandwidth and
-                                coordination skills are essential when hiring large numbers of people. Through a proven
-                                methodology that leverages Strategic Recruiting Centers across the nation, we quickly
-                                and consistently meet high-volume staffing needs.
-
-
+                            <p>Efficiently handle large-scale hiring needs through our Strategic Recruiting Centers
+                                nationwide, ensuring swift and consistent staffing solutions with a proven methodology.
                             </p>
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img src="assets/img/images/Niche Skilled Trades.jpg" alt=""></a>
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/images/Niche Skilled Trades.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
                                 <i class="flaticon-investment-1"></i>
                             </div>
                             <h4>Niche Skilled Trades</h4>
-                            <p>It is difficult to find workers with hard-to-find technical skills, so it can drain your
-                                company's resources and slow its growth. Our Strategic Recruiting Centers provide access
-                                to the in-demand skills that companies are seeking, so they can attract and retain
-                                talent from a pool of qualified candidates. Staff one or multiple job sites with vetted
-                                skilled tradespeople.
-
-
-
+                            <p>
+                                Access hard-to-find technical skills effortlessly. Our Strategic Recruiting Centers
+                                connect you with qualified candidates, streamlining the recruitment process for skilled
+                                trades, and supporting your company's growth.
                             </p>
+                            <br>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img src="assets/img/images/Network of Offices.jpg" alt=""></a>
+                            <a class="shine-animate" href="/services-details"><img
+                                    src="assets/img/images/Network of Offices.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
                             <div class="icon">
                                 <i class="flaticon-pie-chart"></i>
                             </div>
                             <h4>Network of Offices</h4>
-                            <p>Humantroop Ventures provides clients with the best human capital after a strategic
-                                selection process, whether the client is a corporate firm or a multinational company,
-                                our recruitment process enables us to source the best candidates.
-
-                            </p>
+                            <p>Humantroop Ventures delivers top-tier human capital through a strategic selection
+                                process. Whether you're a corporate firm or a multinational company, our recruitment
+                                expertise ensures the sourcing of the best candidates for your specific needs.</p>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>
