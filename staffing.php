@@ -82,17 +82,14 @@
                             <a class="shine-animate" href="/services-details"><img src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-profit"></i>
-                            </div>
+                          
                             <h4>High-Volume Recruiting</h4>
                             <p>Are you preparing to hire a large number of employees? Recruitment bandwidth and
                                 coordination skills are essential when hiring large numbers of people. Through a proven
                                 methodology that leverages Strategic Recruiting Centers across the nation, we quickly
                                 and consistently meet high-volume staffing needs.
-
-
                             </p>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -102,18 +99,13 @@
                             <a class="shine-animate" href="/services-details"><img src="assets/img/images/Niche Skilled Trades.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-investment-1"></i>
-                            </div>
+                           
                             <h4>Niche Skilled Trades</h4>
                             <p>It is difficult to find workers with hard-to-find technical skills, so it can drain your
                                 company's resources and slow its growth. Our Strategic Recruiting Centers provide access
                                 to the in-demand skills that companies are seeking, so they can attract and retain
                                 talent from a pool of qualified candidates. Staff one or multiple job sites with vetted
                                 skilled tradespeople.
-
-
-
                             </p>
                         </div>
                     </div>
@@ -124,15 +116,14 @@
                             <a class="shine-animate" href="/services-details"><img src="assets/img/images/Network of Offices.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-pie-chart"></i>
-                            </div>
                             <h4>Network of Offices</h4>
                             <p>Humantroop Ventures provides clients with the best human capital after a strategic
                                 selection process, whether the client is a corporate firm or a multinational company,
                                 our recruitment process enables us to source the best candidates.
-
                             </p>
+                            <br>
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>
