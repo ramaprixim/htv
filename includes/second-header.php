@@ -116,7 +116,7 @@
 
                                         </li>
                                         <li class="menu-item-has-children <?php 
-                                    if($page=='vision-values' || $page=='code-of-coduct' || $page=='our-approach')
+                                    if($page=='vision-values' || $page=='code-of-conduct' || $page=='our-approach')
                                      {echo 'active';}
                                       ?>"><a href="#">About Us</a>
                                             <ul class="sub-menu">

@@ -1,5 +1,6 @@
 <?php
 $menuactive = basename($_SERVER['PHP_SELF']);
+echo $menuactive;
 
 switch ($menuactive) {
     case 'index.php':
