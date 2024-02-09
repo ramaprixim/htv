@@ -80,7 +80,8 @@
 
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                          
+                        <a class="shine-animate" href="/services-details"><img
                                     src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
