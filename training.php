@@ -33,17 +33,7 @@
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="about__img-wrap-four">
                               <img src="assets/img/images/our services - Training -Training Services.png" alt="">
-                           <!-- <img src="assets/img/images/inner_about01.jpg" alt=""> -->
-                            <!--<img src="assets/img/images/inner_about02.jpg" alt=""> -->
-                            <!-- <div class="about__award-box">
-                                <div class="icon">
-                                    <i class="flaticon-trophy"></i>
-                                </div>
-                                <div class="content">
-                                    <h2 class="title">15+</h2>
-                                    <p>World Best Agency <br> Award Got</p>
-                                </div>
-                            </div> -->
+                          
                             <div class="shape">
                                 <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                             </div>
@@ -52,7 +42,7 @@
                     <div class="col-lg-6">
                         <div class="about__content-four">
                             <div class="section-title mb-30">
-                                <!-- <span class="sub-title">Simply Know About</span> -->
+                             
                                 <h2 class="title">Training Services</h2>
                                 <p>Humantroop Ventures presents the Humantroop Ventures training program for companies and business owners. We would train from scratch, helping you grow your business by better managing your organization and your employees.</p>
                             </div>
@@ -68,12 +58,9 @@
                                         <li><i class="flaticon-arrow-button"></i>Less resources and more profits.</li>
                                     </ul>
                                 </div>
-                                <!-- <div class="about__list-img-two">
-                                    <img src="assets/img/images/about_list_img02.png" alt="">
-                                </div> -->
+                               
                             </div>
-                            <!-- <p>We successfully cope with tasks of varying complexityprovide longerty term guarantees and regularly master new Practice Area technol ogiesOur portfolio includes dozen</p>
-                            <a class="btn" href="/contact">Contact With Us</a> -->
+                            
                         </div>
                     </div>
                 </div>
@@ -88,15 +75,7 @@
                     <div class="col-lg-6 col-md-9 order-0 order-lg-2">
                         <div class="about__img-wrap-seven">
                             <img src="assets/img/images/inner04_about_img.jpg" alt="">
-                            <!-- <div class="about__award-box about__award-box-two">
-                                <div class="icon">
-                                    <i class="flaticon-trophy"></i>
-                                </div>
-                                <div class="content">
-                                    <h2 class="title">15+</h2>
-                                    <p>World Best Agency <br> Award Got</p>
-                                </div>
-                            </div> -->
+                          
                             <div class="shape">
                                 <img src="assets/img/images/h5_about_shape.png" alt="" class="ribbonRotate">
                             </div>
@@ -105,14 +84,12 @@
                     <div class="col-lg-6">
                         <div class="about__content-seven">
                             <div class="section-title mb-25">
-                                <!-- <span class="sub-title">ABOUT COMPANY</span> -->
+                               
                                 <h2 class="title wow animated" style="visibility: visible;">Features of Humantroop Ventures Training Program</h2>
                             </div>
                             <p>We successfully cope with tasks of varying complexity provide area longerty guarantees and regularly master.We successfully cope varying complexity provide area longerty guarantees.</p>
                             <div class="about__content-inner-five">
-                                <!-- <div class="about__list-img-four">
-                                    <img src="assets/img/images/about_list_img04.png" alt="">
-                                </div> -->
+                               
                                 <div class="about__list-box">
                                     <ul class="list-wrap">
                                         <li><i class="flaticon-arrow-button"></i>Learn from Industrial Experts.</li>
@@ -123,7 +100,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <a class="btn btn-two" href="/contact">Contact With Us</a> -->
+                           
                         </div>
                     </div>
                 </div>

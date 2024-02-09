@@ -101,11 +101,7 @@
             </div>
             <div class="col-lg-6 col-md-9">
                 <div class="choose__img-wrap-five">
-                  
-                
-                    <!-- <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
-                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
-                    <!-- <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
+        
                 </div>
                 <img src = "assets/img/images/who we are -Code Of Conduct - Our responsibilities to the Clients.png">
             </div>
@@ -121,11 +117,7 @@
             <div class="col-lg-6 col-md-9">
                 <div class="choose__img-wrap-five">
                      <img src = "assets/img/images/who we are -Code Of Conduct - Our responsibilities to the Candidates.png">
-                    <!-- <img src="assets/img/images/h5_choose_img01.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_img02.jpg" alt="">
-                    <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}"
-                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                    <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
+                    
                 </div>
             </div>
 

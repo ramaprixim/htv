@@ -1,8 +1,6 @@
 ﻿<?php $page="home"; include("includes/second-header.php"); ?>
 <style>
-    /* .slider__area{
-        margin-top:145px;
-    } */
+   
     .consulting-area{
         margin-top: -80px;
     }
@@ -89,9 +87,7 @@
  .ssp{
     margin: 0px 85px;
 } 
-/* .swiper-container>.swiper-wrapper>.swiper-slide{
-    width: 48% !important;
-} */
+
 
 </style>
         <!-- banner-area -->
@@ -125,7 +121,7 @@
                                         <p>We offer HR services from qualified HR consultants that can analyze your business
                                             operations and design the people management solution that will work best for you.</p>
                                         <a class="btn" href="contact-us.php">Contact Us</a>
-                                        <!-- <span class="sub-title"></span> -->
+                                        
                                         
                                     </div>
                                 </div>
@@ -142,7 +138,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="slider__content">
-                                        <!-- <span class="sub-title"> Expert</span> -->
+                                        
                                         <h2 class="title">Members with NHRDN. Keeping you ahead in HR Race</h2>
                                         <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
                                             for HR Professionals</p>
@@ -274,14 +270,7 @@
                             <div class="shape">
                                 <img src="assets/img/images/about_shape01.png" alt="">
                             </div>
-                            <!-- <div class="experience-year">
-                                <div class="icon">
-                                    <i class="flaticon-trophy"></i>
-                                </div>
-                                <div class="content">
-                                    <h6 class="circle rotateme">Years Of - Experience 25 -</h6>
-                                </div>
-                            </div> -->
+                           
                         </div>
                     </div>
                     <div class="col-lg-6">

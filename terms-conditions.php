@@ -67,11 +67,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-
-
-           
-
+</div>
 
         </section>
 <?php include("includes/footer.php"); ?>

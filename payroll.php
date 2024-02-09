@@ -34,9 +34,7 @@
                         <div class="section-title text-center mb-40 tg-heading-subheading animation-style3">
                             <h2>Looking For Payroll Outsourcing?</h2>
                             <span class="sub-title">BEST PAYROLL MANAGEMENT FIRM</span>
-                            <!-- <h2 class="title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">v</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">d</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> </div><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">B</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div></div></h2> -->
-
-                        </div>
+                              </div>
                     </div>
                 </div>
                 <div class="services-item-wrap">
@@ -52,7 +50,7 @@
                                     </div>
                                     <h4 class="title"><a href="services-details.html">DEDICATED PAYROLL SPECIALIST</a></h4>
                                     <p>We are here to assist you with all your payroll and tax needs through our highly trained, dedicated payroll specialists.</p>
-                                    <!-- <a href="services-details.html" class="btn">Read More</a> -->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -69,7 +67,7 @@
                                     <p>Our team of specialists is ready to assist you.</p>
                                     <br>
                                     <br>
-                                    <!-- <a href="services-details.html" class="btn">Read More</a> -->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -87,7 +85,7 @@
 
                                     </p>
                                     <br>
-                                    <!-- <a href="services-details.html" class="btn">Read More</a> -->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -134,7 +132,7 @@
                             <div class="services__content-five">
                                 <h2 class="title">Payroll Services for Corporate</h2>
                                 <p>Payroll services must adhere to statutory compliance. Assistance in combating with tax-related issues.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -163,7 +161,7 @@
                             <div class="services__content-five">
                                 <h2 class="title">Payroll Services for Expatriate</h2>
                                 <p>Our online payroll services take the complexity out of expatriate payroll management.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                              
                             </div>
                         </div>
                     </div>
@@ -192,7 +190,7 @@
                             <div class="services__content-five">
                                 <h2 class="title">Compliance Management</h2>
                                 <p>Compliance is an 'affordable must' for businesses of every type, regardless of size or purpose.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                             
                             </div>
                         </div>
                     </div>
@@ -221,7 +219,7 @@
                             <div class="services__content-five">
                                 <h2 class="title">Compensation Consulting</h2>
                                 <p>Brooks Consulting helps clients ensure that their payment strategy is designed and executed to meet distinct business requirements.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                            
                             </div>
                         </div>
                     </div>
@@ -250,7 +248,7 @@
                             <div class="services__content-five">
                                 <h2 class="title">Paperless Services</h2>
                                 <p>Paperless payroll services help companies reduce costs and increase efficiency. Our paperless payroll system is fast and convenient.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                             
                             </div>
                         </div>
                     </div>
@@ -279,7 +277,7 @@
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Internal Audit for Payroll</a></h2>
                                 <p>In order to ensure a decisive share of a company's total expenditures, payroll accounts for a large part of the total company's expenses.</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                               
                             </div>
                         </div>
                     </div>

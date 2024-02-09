@@ -98,11 +98,7 @@
             <div class="col-lg-6 col-md-8">
                 <div class="about__img-wrap-six">
                   <img src="assets/img/images/our services -POSH Training - Anti-Sexual Harassment POSH Training In India (POSH Act).png">
-                    <!-- <img src="assets/img/images/h4_about_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(20.482px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(20.482px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
-                    <!-- <div class="experience__box-four">
-                                <h2 class="title">25</h2>
-                                <p>Years Experience <br> in This Field</p>
-                            </div> -->
+                   
                     <div class="shape">
                         <img src="assets/img/images/h4_about_img_shape.png" alt="" class="alltuchtopdown">
                     </div>
@@ -111,7 +107,7 @@
             <div class="col-lg-6">
                 <div class="about__content-six">
                     <div class="section-title mb-25">
-                        <!-- <span class="sub-title">About Us</span> -->
+                       
                         <h2 class="title">Anti-Sexual Harassment POSH Training In India (POSH Act)</h2>
                     </div>
                     <p>Humantroop Ventures Services regularly holds awareness and gender sensitization sessions mandated
@@ -147,9 +143,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section-title white-title text-center mb-50">
-                    <!-- <span class="sub-title">WHAT WE OFFER</span>
-                            <h2 class="title">Let’s Discover Our Service Features Charter</h2> -->
-                </div>
+                    </div>
             </div>
         </div>
         <div class="row justify-content-center gutter-24">
@@ -167,7 +161,7 @@
                         <p>Manage the entire workforce of the organization. Every employee will have a clear
                             understanding of the POSH Act, what constitutes sexual harassment, tips to prevent
                             online/virtual sexual harassment, complainant and respondent rights, and more.</p>
-                        <!-- <a class="btn btn-two" href="/services-details">Read More</a> -->
+                      
                     </div>
                 </div>
             </div>
@@ -186,7 +180,7 @@
                             consequences of the Act on POSH. HR staff are trained to report incidents and explain sexual
                             harassment policies to new hires.</p>
                             <br>
-                        <!-- <a class="btn btn-two" href="/services-details">Read More</a> -->
+                       
                     </div>
                 </div>
             </div>
@@ -206,7 +200,7 @@
                             procedures set out in the POSH Act, including conducting investigations and submitting the
                             annual POSH report.</p>
                             <br>
-                        <!-- <a class="btn btn-two" href="/services-details">Read More</a> -->
+                        
                     </div>
                 </div>
             </div>
@@ -225,7 +219,7 @@
                             to build and sustain a culture that inspires trust, respect and gender equality. We also
                             equip them to take proactive measures to prevent incidents, objectively document a complaint
                             and cooperate with the IC in an investigation.</p>
-                        <!-- <a class="btn btn-two" href="/services-details">Read More</a> -->
+                    
                     </div>
                 </div>
             </div>
@@ -244,18 +238,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <!-- <img src="assets/img/images/inner_about01.jpg" alt="">
-                    <img src="assets/img/images/inner_about02.jpg" alt=""> -->
+                    
                     <img src="assets/img/images/our services -POSH Training - POSH Act Compliance And Training.png">
-                    <!-- <div class="about__award-box">
-                                <div class="icon">
-                                    <i class="flaticon-trophy"></i>
-                                </div>
-                                <div class="content">
-                                    <h2 class="title">15+</h2>
-                                    <p>World Best Agency <br> Award Got</p>
-                                </div>
-                            </div> -->
+                   
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                     </div>
@@ -264,25 +249,14 @@
             <div class="col-lg-6">
                 <div class="about__content-four">
                     <div class="section-title mb-30">
-                        <!-- <span class="sub-title">Simply Know About</span> -->
+                     
                         <h2 class="title">POSH Act Compliance And Training</h2>
                         <br>
                         <h6>The Government of India introduced the Workplace Sexual Harassment of Women Act (also
                             colloquially known as the "POSH Act"), 2013 in India to effectively deal with matters
                             related to sexual harassment of women in their workplace.</h6>
                     </div>
-                    <!-- <div class="about__content-inner-three">
-                                <div class="about__list-box">
-                                    <ul class="list-wrap">
-                                        <li><i class="flaticon-arrow-button"></i>Medicare Advantage Plans</li>
-                                        <li><i class="flaticon-arrow-button"></i>Analysis &amp; Research</li>
-                                        <li><i class="flaticon-arrow-button"></i>100% Secure Money Back</li>
-                                    </ul>
-                                </div>
-                                <div class="about__list-img-two">
-                                    <img src="assets/img/images/about_list_img02.png" alt="">
-                                </div>
-                            </div> -->
+                    
                     <p>The POSH Act mandates that every organization with more than 10 employees must establish an
                         Internal Committee (IC) that can facilitate complaints about sexual harassment of women in the
                         workplace. Another critical requirement is coaching ICs on their responsibilities as well as
@@ -291,7 +265,7 @@
                         them effectively. These sessions aim to educate IC members and staff about the various forms of
                         sexual harassment and the redressal mechanism, thereby instilling confidence in them to speak up
                         if they witness any inappropriate behavior with a sexual overtone.</p>
-                    <!-- <a class="btn" href="/contact">Contact With Us</a> -->
+                   
                 </div>
             </div>
         </div>
@@ -303,8 +277,6 @@
                   
                   <h2 class="title">FAQ's</h2>
                   
-              <!-- <span class="sub-title">We specialize in placing light industrial, skilled trades and construction talent to support your project-based, seasonal, high-volume or niche requirements.</span> -->
-              
              </div>
     <div class="container" >
         <div class="row">
@@ -367,11 +339,7 @@
             <div class="col-lg-6 col-md-8">
                 <div class="about__img-wrap-six">
                     <img src="assets/img/services/2151054237.jpg" alt="">
-                    <!-- <img src="assets/img/images/h4_about_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(6.914px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(6.914px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
-                    <!-- <div class="experience__box-four">
-                                <h2 class="title">25</h2>
-                                <p>Years Experience <br> in This Field</p>
-                            </div> -->
+                 
                     <div class="shape">
                         <img src="assets/img/images/h4_about_img_shape.png" alt="" class="alltuchtopdown">
                     </div>
@@ -392,13 +360,9 @@
                                 <li><i class="flaticon-arrow-button"></i>Available in Multiple Languages</li>
                             </ul>
                         </div>
-                        <!-- <div class="about__list-img-three">
-                            <img src="assets/img/images/about_list_img03.png" alt="">
-                            <a href="https://www.youtube.com/watch?v=6mkoGSqTqFI" class="play-btn popup-video"><i
-                                    class="fas fa-play"></i></a>
-                        </div> -->
+                       
                     </div>
-                    <!-- <a class="btn btn-two" href="/contact">Quick Contact Us</a> -->
+                   
                 </div>
             </div>
         </div>
@@ -420,9 +384,7 @@
             <div class="col-xl-6 col-lg-8">
                 <div class="section-title text-center mb-40 tg-heading-subheading animation-style3">
                     <h2>Penalties on the failure of POSH Compliance</h2>
-                    <!-- <span class="sub-title">WHAT WE OFFER</span>
-                            <h2 class="title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">v</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">d</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> </div><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">B</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div></div></h2> -->
-                </div>
+                 </div>
             </div>
         </div>
         <div class="services-item-wrap">
@@ -437,11 +399,11 @@
                             <div class="icon">
                                 <i class="flaticon-profit"></i>
                             </div>
-                            <!-- <h4 class="title"><a href="/services-details">Strategic marketing</a></h4> -->
+                          
                             <p>In many Indian states, employers are liable to a fine of fifty thousand rupees (INR
                                 50,000) if they do not form an internal committee or violate any of the conditions
                                 specified in the POSH Act.</p>
-                            <!-- <a class="btn" href="/services-details">Read More</a> -->
+                          
                         </div>
                     </div>
                 </div>
@@ -455,13 +417,13 @@
                             <div class="icon">
                                 <i class="flaticon-investment-1"></i>
                             </div>
-                            <!-- <h4 class="title"><a href="/services-details">Investment Planning</a></h4> -->
+                        
                             <p>There are other non-compliance provisions. Employers will face double punishment and will
                                 be re-sentenced if they have previously been convicted of an offense punishable under
                                 the POSH Act.
 
                             </p>
-                            <!-- <a class="btn" href="/services-details">Read More</a> -->
+                          
                         </div>
                     </div>
                 </div>
@@ -475,10 +437,10 @@
                             <div class="icon">
                                 <i class="flaticon-pie-chart"></i>
                             </div>
-                            <!-- <h4 class="title"><a href="/services-details">Insights &amp; analytics</a></h4> -->
+                       
                             <p>Employers may face having their license revoked and their business registration withdrawn
                                 or not renewed if there are enhanced penalties under the POSH Act.</p>
-                            <!-- <a class="btn" href="/services-details">Read More</a> -->
+                            
                         </div>
                     </div>
                 </div>
