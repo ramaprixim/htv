@@ -80,9 +80,7 @@
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/paperwork.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <!-- <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div> -->
+                                    
                                     <h4 class="title">PAPERWORK</h4>
                                     <p>We will take care of invoicing, concluding contracts, monitoring payments.</p>
                                 </div>
@@ -94,9 +92,7 @@
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/businessman-touching-glowing.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <!-- <div class="icon">
-                                        <i class="flaticon-investment-1"></i>
-                                    </div> -->
+                                 
                                     <h4 class="title">SALES</h4>
                                     <p>We have the right group of traders who can offer and close deals with clients.</p>
                                 </div>
@@ -108,9 +104,7 @@
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/modern-equipped.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <!-- <div class="icon">
-                                        <i class="flaticon-pie-chart"></i>
-                                    </div> -->
+                                   
                                     <h4 class="title">SOW</h4>
                                     <p>A well-defined scope of work before signing the contract.</p>
                                 </div>
@@ -122,9 +116,7 @@
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/two-happy-partners.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <!-- <div class="icon">
-                                        <i class="flaticon-light-bulb"></i>
-                                    </div> -->
+                                   
                                     <h4 class="title">CLIENT COORDINATION</h4>
                                     <p>Forget about account management and delivery hassles and save bandwidth so you can focus on your core expertise.</p>
                                     <br>
@@ -137,9 +129,7 @@
                                     <a class="shine-animate" href="/services-details"><img src="assets/img/services/western-chinese.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <!-- <div class="icon">
-                                        <i class="flaticon-investment"></i>
-                                    </div> -->
+                                  
                                     <h4 class="title">TRANSPARENCY</h4>
                                     <p>Utilizing a technology platform to coordinate and manage the candidate lifecycle to ensure transparency and speed.</p>
                                 </div>

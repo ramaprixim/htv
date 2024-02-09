@@ -32,15 +32,7 @@
                 <div class="about__img-wrap-four">
                    <img src="assets/img/images/work with us - Join Us - Would you like to join our team of business professionals.tif">
                     
-                    <!-- <div class="about__award-box">
-                        <div class="icon">
-                            <i class="flaticon-trophy"></i>
-                        </div>
-                        <div class="content">
-                            <h2 class="title">15+</h2>
-                            <p>World Best Agency <br> Award Got</p>
-                        </div>
-                    </div> -->
+                    
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                     </div>

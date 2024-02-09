@@ -37,57 +37,18 @@
                             <div class="shape">
                                 <img src="assets/img/images/about_shape01.png" alt="">
                             </div>
-                            <!-- <div class="experience-year">
-                                <div class="icon">
-                                    <i class="flaticon-trophy"></i>
-                                </div>
-                                <div class="content">
-                                    <h6 class="circle rotateme"><span style="transform: rotate(0deg);">Y</span><span style="transform: rotate(17deg);">e</span><span style="transform: rotate(34deg);">a</span><span style="transform: rotate(51deg);">r</span><span style="transform: rotate(68deg);">s</span> <span style="transform: rotate(85deg);">O</span><span style="transform: rotate(102deg);">f</span> <span style="transform: rotate(119deg);">-</span> <span style="transform: rotate(136deg);">E</span><span style="transform: rotate(153deg);">x</span><span style="transform: rotate(170deg);">p</span><span style="transform: rotate(187deg);">e</span><span style="transform: rotate(204deg);">r</span><span style="transform: rotate(221deg);">i</span><span style="transform: rotate(238deg);">e</span><span style="transform: rotate(255deg);">n</span><span style="transform: rotate(272deg);">c</span><span style="transform: rotate(289deg);">e</span> <span style="transform: rotate(306deg);">2</span><span style="transform: rotate(323deg);">5</span> <span style="transform: rotate(340deg);">-</span></h6>
-                                </div>
-                            </div> -->
+                         
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-content">
                             <div class="section-title mb-35 tg-heading-subheading animation-style3">
-                                <!-- <span class="sub-title">Simply Know About</span> -->
+                               
                                <h2>Minimize Risk, Ensure compliance with regulations</h2>
                             </div>
-                            <!-- <div class="about-list">
-                                <ul class="list-wrap">
-                                    <li>
-                                        <div class="icon">
-                                            <i class="flaticon-target"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="title">Business Solutions</h4>
-                                            <p>Semper egetuis tellus urna condi</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <i class="flaticon-profit"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4 class="title">Quality Services</h4>
-                                            <p>Semper egetuis tellus urna condi</p>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div> -->
+                           
                             <p>Humantroop Ventures monitors changes in regulations, updates its clients and ensures ongoing compliance. Humantroop Ventures offers a range of compliance and employment law services.</p>
-                            <!-- <div class="about-bottom">
-                                <div class="author-wrap">
-                                    <div class="thumb">
-                                        <img src="assets/img/images/author_img.png" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <img src="assets/img/images/sign.png" alt="">
-                                        <h4 class="title">Martinaze <span>, CEO</span></h4>
-                                    </div>
-                                </div>
-                                <a class="btn btn-two" href="/about">Read More</a>
-                            </div> -->
+                            
                             <div class="about-shape-wrap">
                                 <img src="assets/img/images/about_shape03.png" alt="">
                                 <img src="assets/img/images/about_shape04.png" alt="" class="ribbonRotate">
@@ -107,14 +68,14 @@
                     <div class="col-lg-6 order-0 order-lg-2">
                         <div class="choose-img-wrap">
                             <img src="assets/img/images/female-professional-explaining-document-details-client-workplace-serious-business-leader-consulting-financial-legal-expert-teamwork-cooperation-concept_74855-14235.avif" alt="">
-                            <!-- <img src="assets/img/images/choose_img02.jpg" alt="" data-parallax="{&quot;x&quot; : 50 }" style="transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.464px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
+                           
                             <img src="assets/img/images/choose_img_shape.png" alt="" class="alltuchtopdown">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="choose-content">
                             <div class="section-title white-title mb-30">
-                                <!-- <span class="sub-title">Why We Are The Best</span> -->
+                                
                                 <h2 class="title">Statutory Compliance</h2>
                             </div>
                             <p>Companies, big and small, must comply with legal laws and regulations to keep businesses out of any legal trouble and avoid penalties. Keeping up with ever-changing government standards and regulations is not easy and is a challenge in most companies.
@@ -137,46 +98,20 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9">
                         <div class="choose__img-wrap-five">
-                        <!-- <img src="assets/img/images/our services - Compliance - Minimize Risk, Ensure compliance with regulations.png"> -->
+                    
                             <img src="assets/img/images/our services - Compliance - Labour Law Compliance.png">
-                            <!-- <img src="assets/img/images/h5_choose_shape01.jpg" alt="" data-parallax="{&quot;x&quot; : 40}" style="transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(1.003px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
-                            <!-- <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown"> -->
+                           
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="choose__content-five">
                             <div class="section-title mb-30 tg-heading-subheading animation-style3">
-                                <!-- <span class="sub-title">Labour Law Compliance</span> -->
+                                
                                 <h2>Labour Law Compliance</h2>
                             </div>
                             <p>Compliance with labor law refers to a set of accepted employment conditions. It deals with several regulatory enactments including Minimum Wages Act, Workmen's Compensation Act, Contractual Labor Act, Factories Act etc.</p>
                             <p>There are various laws and statutes that a business must comply with or face criminal penalties. There are central level laws and there are state government laws that apply to business.</p>
-                            <!-- <div class="choose__box-wrap">
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <div class="choose__box">
-                                            <div class="icon">
-                                                <i class="flaticon-email"></i>
-                                            </div>
-                                            <div class="content">
-                                                <h4 class="title">E-mail Marketing</h4>
-                                                <p>Apexa helps youcona doing <br> tempor incididunt.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="choose__box">
-                                            <div class="icon">
-                                                <i class="flaticon-finance"></i>
-                                            </div>
-                                            <div class="content">
-                                                <h4 class="title">Business Growth</h4>
-                                                <p>Apexa helps youcona doing <br> tempor incididunt.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
+                            
                             <div class="shape">
                                 <img src="assets/img/images/h5_choose_shape02.png" alt="" class="rotateme">
                             </div>
@@ -192,9 +127,9 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-7">
                         <div class="section-title text-center mb-50">
-                            <!-- <span class="sub-title">Services we offer</span> -->
+                          
                             <h2 class="title">Services we offer</h2>
-                            <!-- <p>Mauris ut enim sit amet lacus ornare ullamcorper Praesent plaacerat <br> neque eu purus rhoncus vel tincidunt odio ultrices.</p> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -222,9 +157,9 @@
                                 </div>
                             </div>
                             <div class="services__content-five">
-                                <!-- <h2 class="title">Payroll Services for Corporate</h2> -->
+                               
                                 <p>Calculation and deduction of all statutory payments (TDS, PF, PT, ESIC, LWF)</p>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -251,10 +186,10 @@
                                 </div>
                             </div>
                             <div class="services__content-five">
-                                <!-- <h2 class="title">Payroll Services for Expatriate</h2> -->
+                               
                                 <p>Uploading data to respective websites and creating Challans</p>
                                 <br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -281,10 +216,10 @@
                                 </div>
                             </div>
                             <div class="services__content-five">
-                                <!-- <h2 class="title">Compliance Management</h2> -->
+                              
                                 <p>Completion of transfer and withdrawal forms for PF</p>
                                 <br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                               
                             </div>
                         </div>
                     </div>
@@ -311,10 +246,10 @@
                                 </div>
                             </div>
                             <div class="services__content-five">
-                                <!-- <h2 class="title">Compensation Consulting</h2> -->
+                            
                                 <p>Filing of return with Govt. agencies.</p>
                                 <br><br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                               
                             </div>
                         </div>
                     </div>
@@ -341,10 +276,10 @@
                                 </div>
                             </div>
                             <div class="services__content-five">
-                                <!-- <h2 class="title">Paperless Services</h2> -->
+                               
                                 <p>Registration and renewals, repeat compliance services, audit services, POSH services</p>
                                 
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                               
                             </div>
                         </div>
                     </div>
@@ -371,10 +306,10 @@
                                 </div>
                             </div>
                             <div class="services__content-five">
-                                <!-- <h2 class="title"><a href="/services-details">Internal Audit for Payroll</a></h2> -->
+                               
                                 <p>Regulatory management and compliance monitoring</p>
                                 <br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                
                             </div>
                         </div>
                     </div>

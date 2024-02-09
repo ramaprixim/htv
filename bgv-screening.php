@@ -33,9 +33,9 @@
                         <div class="choose__img-wrap-three">
                             <div class="main-img">
                                 <img src="assets/img/images/h3_choose_img01.jpg" alt="">
-                                <!-- <a href="#" class="play-btn"><i class="fas fa-play"></i></a> -->
+                               
                             </div>
-                            <!-- <img src="assets/img/images/h3_choose_img02.jpg" alt="" data-parallax="{&quot;y&quot; : 80 }" style="transform:translate3d(0px, 42.743px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.743px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); "> -->
+                         
                             <div class="shape">
                                 <img src="assets/img/images/h3_choose_img_shape.jpg" alt="" class="alltuchtopdown">
                             </div>
@@ -44,37 +44,11 @@
                     <div class="col-lg-5">
                         <div class="choose__content-three">
                             <div class="section-title mb-25 tg-heading-subheading animation-style3">
-                                <!-- <span class="sub-title">Why We Are The Best</span> -->
+                              
                                 <h2>Background Verification Services</h2>
-                                <!-- <h2 class="title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: start; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">f</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">B</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">h</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div></div> </div><div class="split-line" style="display: block; text-align: start; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">d</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div></div></div></h2>
-                            </div> -->
+                               
                             <p>Humantroop Ventures provides accurate and reliable background verification services backed by strong technological processes. We perform various types of background checks according to the specific needs of the client. Our time-limited reporting ensures that you get the results you want accurately and on time. We focus on providing customized solutions that meet specific client needs and business requirements. Inaccurate resume information and information discrepancies are reasons why it is essential to conduct background checks on employees before hiring them to control data theft. We offer a wide range of employment screening and pre-employment screening services to organizations. Our quick turnaround time, strict quality controls, well-defined processes, online and automated BGV reporting, and nationwide delivery sets us apart from all other service providers.</p>
-                            <!-- <div class="choose__list">
-                                <ul class="list-wrap">
-                                    <li>
-                                        <div class="choose__list-box">
-                                            <div class="choose__list-icon">
-                                                <i class="flaticon-financial-profit"></i>
-                                            </div>
-                                            <div class="choose__list-content">
-                                                <h4 class="title">Finance Planning</h4>
-                                                <p>Apexa helps youcona doing <br> tempor incididunt.</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="choose__list-box">
-                                            <div class="choose__list-icon">
-                                                <i class="flaticon-report"></i>
-                                            </div>
-                                            <div class="choose__list-content">
-                                                <h4 class="title">Market Analysis</h4>
-                                                <p>Apexa helps youcona doing <br> tempor incididunt.</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div> -->
+                          
                         </div>
                     </div>
                 </div>
@@ -91,9 +65,9 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-7">
                         <div class="section-title text-center mb-50">
-                            <!-- <span class="sub-title">WHAT WE OFFER</span> -->
+                        
                             <h2 class="title">Our Comprehensive Background Verification Services</h2>
-                            <!-- <p>Mauris ut enim sit amet lacus ornare ullamcorper Praesent plaacerat <br> neque eu purus rhoncus vel tincidunt odio ultrices.</p> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -124,8 +98,7 @@
                                 <h2 class="title"><a href="/services-details">Employee Verification</a></h2>
                                 <p>Employers who hire a small or large number of employees.</p>
                                 <br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> --> 
-                                
+                               
                             </div>
                         </div>
                     </div>
@@ -155,7 +128,7 @@
                                 <h2 class="title"><a href="/services-details">Domestic Help Screening</a></h2>
                                 <p>Households that want to have drivers, maids, babysitters, etc. verified</p>
                                 <br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -184,7 +157,7 @@
                             <div class="services__content-five">
                                 <h2 class="title"><a href="/services-details">Tenant Screening</a></h2>
                                 <p>Landlords who want to pre-screen their tenants</p><br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                               
                             </div>
                         </div>
                     </div>
@@ -216,7 +189,7 @@
                                 <h2 class="title"><a href="/services-details">Fraud Control Unit (FCU)</a></h2>
                                 <p>Banks, NBFCs, MFIs and HFCs requiring FCU, FI and background services</p>
                                 <br><br>
-                                <!-- <a class="btn" href="/services-details">Read More</a> -->
+                                
                             </div>
                         </div>
                     </div>

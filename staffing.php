@@ -33,8 +33,7 @@
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
                 <img src="assets/img/images/our services - Staffing -  Staffing Services.png" alt="" class="alltuchtopdown">
-                    <!-- <img src="assets/img/images/staffing_03.jpg" alt=""> -->
-                    
+                  
                 </div>
             </div>
 
@@ -138,39 +137,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                    <div class="services-item shine-animate-item">
-                        <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img04.jpg" alt=""></a>
-                        </div>
-                        <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-light-bulb"></i>
-                            </div>
-                     
-                            <p>Humantroop Ventures operates a unified network of over 250 offices delivering specialized staffing and services. We efficiently locate and deliver talent across industries, markets, and job sites to efficiently provide workforce management solutions.
-                            </p>
-                  
-                        </div>
-                    </div>
-                </div> -->
-                <!-- <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                    <div class="services-item shine-animate-item">
-                        <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img src="assets/img/services/services_img05.jpg" alt=""></a>
-                        </div>
-                        <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-investment"></i>
-                            </div>
-                        
-                            <p>The ITES sector provides functional services for information technology, HR, administration, banking and finance, and healthcare. This industry has always been able to define itself as providing the best customer service through the professionals they hire. They also maintain itself as a leading organization in terms of business and employment.
-
-                            </p>
-                        
-                        </div>
-                    </div>
-                </div> -->
+                
             </div>
         </div>
     </div>
