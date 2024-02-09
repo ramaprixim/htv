@@ -152,30 +152,9 @@
     </div>
 </section>
 
-<section class="call-back-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="call-back-content">
-                    <div class="section-title white-title mb-10">
-                        <h2 class="title">Conflict of Interest</h2>
-                    </div>
-                    <p>We will either avoid any conflict or disclose it an interest that could influence or be perceived
-                        to influence personal actions or judgments.</p>
-                    <div class="shape">
-                        <img src="assets/img/images/call_back_shape.png" alt="" data-aos="fade-right"
-                            data-aos-delay="400" class="aos-init aos-animate">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<section class="all_services__area-six ">
+<section class="all_services__area-six " style="background-color: #e7e7e7;">
     <div class="row">
-        <div class="col-lg-12 container mt-100 mb-100" style="text-align:center;">
+        <div class="col-lg-12 container mt-100 mb-100" style="text-align:center; ">
             <h1>Our Clients Requirements</h1>
             <p>We will not knowingly or otherwise engage in or condone any activity or attempt to circumvent the clear
                 intent of the law by which we and our clients are governed.</p>

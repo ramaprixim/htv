@@ -1,4 +1,9 @@
 <?php $page="staffing"; include("includes/second-header.php"); ?>
+<style>
+    .services__bg-five{
+        padding: 80px 0;
+    } 
+</style>
 
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
@@ -46,8 +51,6 @@
                         and quality Staffing solutions for businesses of all sizes. We provide an entire gamut of
                         Staffing Services (Permanent and Contractual) to our clients. We screen each candidate’s profile
                         thoroughly and only the relevant profiles are forwarded to our clients.
-
-
                     </p>
                     <p>We are the leading force of industrial recruiters, and with a commitment to service, Humantroop
                         Ventures will help you find top-quality talent when and where you need them. And with an
@@ -65,16 +68,12 @@
 
 
 <section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg"
-    style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);">
+    style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #e7e7e7;">
     <div class="container">
         <div class="services-item-wrap">
             <div class="row justify-content-center">
                 <div class="section-title text-center mb-50">
-                  
-                     <h2 class="title">Our All Services List</h2>
-                     <br>
-                 <span class="sub-title">We specialize in placing light industrial, skilled trades and construction talent to support your project-based, seasonal, high-volume or niche requirements.</span>
-                    
+                     <h2 class="title">Our Expertise in Staffing</h2>    
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
 
