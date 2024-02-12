@@ -78,7 +78,10 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
                     <div class="services__icon-two">
-                        <i class="flaticon-pie-chart"></i>
+                    <div class="imgg">
+                            <img style="height:65px;" src="assets/img/images/integrity.png">
+                        </div>
+                        <br>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Integrity</a></h2>
@@ -95,7 +98,10 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
                     <div class="services__icon-two">
-                        <i class="flaticon-budget"></i>
+                    <div class="imgg">
+                            <img style="height:80px;" src="assets/img/images/responsibility.png">
+                        </div>
+                        <br>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Responsibility</a></h2>
@@ -109,7 +115,10 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
                     <div class="services__icon-two">
-                        <i class="flaticon-piggy-bank"></i>
+                    <div class="imgg">
+                            <img style="height:80px;" src="assets/img/images/excellence.png">
+                    </div>
+                    <br>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Passion for Excellence</a></h2>
@@ -121,8 +130,8 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
-                    <div class="services__icon-two">
-                        <i class="flaticon-financial-profit"></i>
+                    <div class="imgg">
+                        <img style="height:80px;" src="assets/img/images/business-finance.png">
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Empowerment</a></h2>
@@ -133,9 +142,9 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
-                    <div class="services__icon-two">
-                        <i class="flaticon-profit"></i>
-                    </div>
+                    <div class="imgg">
+                        <img style="height:80px;" src="assets/img/images/teamwork_10523234.png">
+                </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Collaboration</a></h2>
                         <p>We work as a team and share knowledge for continuous improvement, learning and innovation.</p>
@@ -145,9 +154,9 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
-                    <div class="services__icon-two">
-                        <i class="flaticon-report"></i>
-                    </div>
+                    <div class="imgg">
+                        <img style="height:80px;" src="assets/img/images/care_7653890.png">
+                </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Respect</a></h2>
                         <p>We treat everyone with uncompromising respect, civility and fairness. And we always welcome diversity and differences of opinion.</p>
