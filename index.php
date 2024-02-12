@@ -499,9 +499,6 @@
                 <div class="row justify-content-center gutter-24">
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-two">
-                            <div class="services__icon-two">
-                                <i class="flaticon"></i>
-                            </div>
                             <div class="services__content-two">
                                 <h2 class="title">Dedicated Lead HR
                                     Consultant</h2>
@@ -511,9 +508,6 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-two">
-                            <div class="services__icon-two">
-                                <i class="flaticon-budget"></i>
-                            </div>
                             <div class="services__content-two">
                                 <h2 class="title">24/7 Support &
                                     Advice Access</h2>
@@ -524,9 +518,6 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="services__item-two">
-                            <div class="services__icon-two">
-                                <i class="flaticon-piggy-bank"></i>
-                            </div>
                             <div class="services__content-two">
                                 <h2 class="title">Your Own Legal Team Available All Times</h2>
                                 <p>For advanced support, complex cases and trials, your team is on call when you need them 24/7.</p>
