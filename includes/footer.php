@@ -40,7 +40,7 @@
         <div class="footer-top">
             <div class="container">
                 <div class="footer-info clearfix">
-                    <div class="single-item" style="background-color: antiquewhite;">
+                    <div class="single-item" style="background-color: #fff9f0;">
                         <div class="inner">
                             <div><img src="assets/img/icon/email (1).png" alt=""></div>
                             <div>
@@ -50,15 +50,15 @@
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color: rgb(255, 192, 109);">
+                    <div class="single-item" style="background-color: #ffc062;">
                         <div class="inner">
                             <div><img src="assets/img/icon/telephone.png" alt=""></div>
                             <div><h6>Call</h6>
-                                <p><a href="tel:+919137655589">+919137655589</a></p></div>
+                                <p ><a class="text-light" href="tel:+919137655589">+919137655589</a></p></div>
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color: rgb(253, 143, 0);">
+                    <div class="single-item" style="background-color: #fff9f0;">
                         <div class="inner">
                             <div><img src="assets/img/icon/placeholder.png" alt="" style="margin-right: 60px;"></div>
                             <div>
