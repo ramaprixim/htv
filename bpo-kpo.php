@@ -34,7 +34,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                            <a class="shine-animate" href="#"><img
                                     src="assets/img/services/sales-assistant-being-employed.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -48,7 +48,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                            <a class="shine-animate" href="#"><img
                                     src="assets/img/services/confident-call.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -64,7 +64,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                            <a class="shine-animate" href="#"><img
                                     src="assets/img/services/colleagues-working.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -78,7 +78,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                            <a class="shine-animate" href="#"><img
                                     src="assets/img/services/manager-luxury-wear.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -92,7 +92,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details">
+                            <a class="shine-animate" href="#">
                                 <img src="assets/img/services/operator-answering-client.jpg" alt=""></a>
                         </div>
                         <div class="services-content">

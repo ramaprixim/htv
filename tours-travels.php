@@ -70,12 +70,9 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg" alt=""></a>
+                                    <a class="shine-animate" href="tours-travels.php"><img src="assets/img/services/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div>
                                     <h4 class="title">Travel & Tourism HR Support & Tourism Human Resources Consultants</h4>
                                     <p>Human resources in tourism may not be the first thing that comes to mind when you think of a travel agency, but they are an important part of any business. Having a smooth working environment where your employees and management work with excellent communication is essential to running any successful business. Managing human resources in the tourism industry can be tricky with employees often working in different parts of the world. HR in the travel industry requires a highly experienced team and at Humantroop Ventures we have experienced professionals that your company can rely on. Let us take care of all your travel HR</p>
                                 </div>

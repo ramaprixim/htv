@@ -41,9 +41,6 @@
                                     <a class="shine-animate" href="#"><img src="assets/img/services/port-de-barcelona-night.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div>
                                     <h4 class="title">Shipping & Logistics Industries</h4>
                                     <p>The Shipping & Logistics Services Market is one of the fastest-growing sectors. The international shipping industry contributes about 90% to world trade. It has immense contribution to the global economy, especially to the global oil industry. The import and export of food and goods throughout the world highly depend on this industry. A country’s export potential is directly linked to its shipping machinery. The shipping industry provides amazing career opportunities for skilled individuals who are enthusiastic to work in this field.</p>
                                <p>At Humantroop Ventures, we offer a unique recruitment service in the niche Shipping and Logistics sector. And our deep understanding of this sector ensures we anticipate and appreciate the needs of employers and job seekers. It is this understanding that helps us provide a service that is efficient, and professional and offers our clients a good return on investment. Our ethos requires that we provide each of our Clients and Candidates with a professional and friendly service at all times. Whether you are a shipping company looking for an ideal candidate, or you are a specialist looking for a career in the industry, Our experienced consultants will work with you to find the right solution for your needs.</p>

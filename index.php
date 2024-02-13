@@ -583,8 +583,8 @@
                             <img style="height:65px;" src="assets/img/images/skill.png">
                         </div>
                         <br>
-                        <h2 class="title">Your Own Legal Team Available All Times</h2>
-                        <p>For advanced support, complex cases and trials, your team is on call when you need them 24/7.
+                        <h2 class="title">Talent And Skill Management</h2>
+                        <p>HumanTroop Venture provides many candidates with services to level up their talent and assign them as per their potential and capacity.
                         </p>
                     </div>
                 </div>

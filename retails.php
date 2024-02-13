@@ -38,12 +38,9 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/40842.jpg" alt=""></a>
+                                    <a class="shine-animate" href="retails.php"><img src="assets/img/services/40842.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
-                                    <div class="icon">
-                                        <i class="flaticon-profit"></i>
-                                    </div>
                                     <h4 class="title">RETAIL</h4>
                                     <p>Retail is the fastest-growing sector at home and abroad. With the increase in non-essential income and affordability for consumers, the industry is experiencing growth. Due to foreign direct investment regulation, multinational companies are investing in India. Organized Retailing is an accelerated workforce and is known as the second largest employer in India. We at Humantroop Ventures stay in tune with the developments that are changing the dynamics of the industry. We have an enthusiastic team of consultants who are passionate about operational structures and understand the critical requirements of our clients. We help our clients with the identification, designation, and recruitment of experienced professionals. Our comprehensive cross-sector experience covers all functional areas, from senior to mid-level positions.</p>
                                     <h4 class="title">Retail Sector Human Resources Support & Retail HR Consultancy Service</h4>
