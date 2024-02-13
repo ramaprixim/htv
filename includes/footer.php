@@ -14,6 +14,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(228 232 255);
+    border-radius: 0px 0px 10px 10px;
     }
     .footer-top .footer-info .single-item .inner{
         display: flex;
@@ -29,9 +31,14 @@
     margin-top: -32px;
     }
     .inner>div>img{
-        height: 48px;
+        height: 40px;
     margin-right: 25px;
     margin-top: -32px;
+    }
+    .inner-anchor{
+        color: #000000;
+        font-size: 15px;
+
     }
 </style>
 </main>
@@ -41,29 +48,29 @@
         <div class="footer-top">
             <div class="container">
                 <div class="footer-info clearfix">
-                    <div class="single-item" style="background-color: rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
+                    <div class="single-item">
                         <div class="inner">
                             <div><img src="assets/img/icon/email.png" alt="" style="margin-top: 0px;"></div>
                             <div>
                                 <h6 style="font-size: 20px;">Email</h6>
                                 <p style="font-size: 13px;
                             line-height: 18px;
-                            font-weight: 700;"><a href="mailto:support@humantroop.in" style="color: #000000;font-size: 15px;">support@humantroop.in</a></p>
+                            font-weight: 700;"><a class="inner-anchor" href="mailto:support@humantroop.in" style="">support@humantroop.in</a></p>
                             </div>
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color: rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
+                    <div class="single-item">
                         <div class="inner">
                             <div><img src="assets/img/icon/telephone.png" alt="" style="margin-top: 0px;"></div>
                             <div><h6 style="font-size: 20px;">Call</h6>
                                 <p style="
                                 line-height: 18px;
-                                font-weight: 700;"><a href="tel:+919137655589" style="color: #000000;font-size: 15px;">+919137655589</a></p></div>
+                                font-weight: 700;"><a class="inner-anchor" href="tel:+919137655589">+919137655589</a></p></div>
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color:rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
+                    <div class="single-item">
                         <div class="inner">
                             <div><img src="assets/img/icon/placeholder.png" alt="" style="margin-right: 60px;margin-top: 0px;"></div>
                             <div>
