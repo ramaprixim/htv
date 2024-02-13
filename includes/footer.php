@@ -8,7 +8,8 @@
 
     }
     .single-item{
-        width: 33.33%;
+    width: 31.33%;
+    height:140px;
     padding: 10px 25px;
     display: flex;
     justify-content: center;
@@ -40,30 +41,37 @@
         <div class="footer-top">
             <div class="container">
                 <div class="footer-info clearfix">
-                    <div class="single-item" style="background-color: #fff9f0;">
+                    <div class="single-item" style="background-color: rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
                         <div class="inner">
-                            <div><img src="assets/img/icon/email (1).png" alt=""></div>
+                            <div><img src="assets/img/icon/email.png" alt="" style="margin-top: 0px;"></div>
                             <div>
-                                <h6>Email</h6>
-                                <p><a href="mailto:support@humantroop.in">support@humantroop.in</a></p>
+                                <h6 style="font-size: 20px;">Email</h6>
+                                <p style="font-size: 13px;
+                            line-height: 18px;
+                            font-weight: 700;"><a href="mailto:support@humantroop.in" style="color: #000000;font-size: 15px;">support@humantroop.in</a></p>
                             </div>
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color: #ffc062;">
+                    <div class="single-item" style="background-color: rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
                         <div class="inner">
-                            <div><img src="assets/img/icon/telephone.png" alt=""></div>
-                            <div><h6>Call</h6>
-                                <p ><a class="text-light" href="tel:+919137655589">+919137655589</a></p></div>
+                            <div><img src="assets/img/icon/telephone.png" alt="" style="margin-top: 0px;"></div>
+                            <div><h6 style="font-size: 20px;">Call</h6>
+                                <p style="
+                                line-height: 18px;
+                                font-weight: 700;"><a href="tel:+919137655589" style="color: #000000;font-size: 15px;">+919137655589</a></p></div>
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color: #fff9f0;">
+                    <div class="single-item" style="background-color:rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
                         <div class="inner">
-                            <div><img src="assets/img/icon/placeholder.png" alt="" style="margin-right: 60px;"></div>
+                            <div><img src="assets/img/icon/placeholder.png" alt="" style="margin-right: 60px;margin-top: 0px;"></div>
                             <div>
-                                <h6>Address</h6>
-                            <p> HumanTroop Ventures
+                                <h6 style="font-size: 19px;">Address</h6>
+                            <p style="font-size: 13px;
+                            line-height: 18px;
+                            font-weight: 700;
+                            color: #000000;"> HumanTroop Ventures
                                 <br> office 807, Realtech Park, Sector 30A, Near Vashi Railway Station, Vashi, Navi
                                 Mumbai - 400703.Maharashtra
                             </p>

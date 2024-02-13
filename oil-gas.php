@@ -71,7 +71,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/5409.jpg" alt=""></a>
+                                    <a class="shine-animate" href="oil-gas.php"><img src="assets/img/services/5409.jpg" alt=""></a>
                                 </div>
                                 <div class="services-content">
                                   

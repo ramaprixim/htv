@@ -4212,14 +4212,9 @@ textarea {
   margin-bottom: 20px;
 }
 .services__icon-three {
-  width: 70px;
-  height: 70px;
-  display: flex;
+ 
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
-  background: var(--tg-color-gray-3);
-  border: 1px solid var(--tg-color-gray-2);
   flex: 0 0 auto;
   line-height: 0;
   font-size: 42px;

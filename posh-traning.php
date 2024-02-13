@@ -50,7 +50,7 @@
         padding: 0 15px;
         max-height: 0;
         transition: max-height 0.3s ease;
-        border-radius:8px;
+        border-radius: 8px;
     }
 
     .accordion-content p {
@@ -156,7 +156,9 @@
                 <div class="services__item-three">
                     <div class="services__item-top">
                         <div class="services__icon-three">
-                            <i class="flaticon-profit"></i>
+                            <div class="imgg">
+                                <img style="height:80px;" src="assets/img/images/posh_awareness.png">
+                            </div>
                         </div>
                         <div class="services__item-top-title">
                             <h2 class="title">POSH Training for Employee Awareness</h2>
@@ -174,7 +176,9 @@
                 <div class="services__item-three">
                     <div class="services__item-top">
                         <div class="services__icon-three">
-                            <i class="flaticon-target"></i>
+                            <div class="imgg">
+                                <img style="height:80px;" src="assets/img/images/hr.png">
+                            </div>
                         </div>
                         <div class="services__top-title">
                             <h2 class="title">POSH Training for In-House HR Professionals</h2>
@@ -193,7 +197,9 @@
                 <div class="services__item-three">
                     <div class="services__item-top">
                         <div class="services__icon-three">
-                            <i class="flaticon-financial-profit"></i>
+                            <div class="imgg">
+                                <img style="height:80px;" src="assets/img/images/comitee.png">
+                            </div>
                         </div>
                         <div class="services__top-title">
                             <h2 class="title">POSH Training for Internal Committee (IC)</h2>
@@ -213,7 +219,9 @@
                 <div class="services__item-three">
                     <div class="services__item-top">
                         <div class="services__icon-three">
-                            <i class="flaticon-piggy-bank"></i>
+                            <div class="imgg">
+                                <img style="height:80px;" src="assets/img/images/team_leader.png">
+                            </div>
                         </div>
                         <div class="services__top-title">
                             <h2 class="title">POSH Training for Managers / Team Leaders</h2>
