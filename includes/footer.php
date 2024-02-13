@@ -41,7 +41,7 @@
         <div class="footer-top">
             <div class="container">
                 <div class="footer-info clearfix">
-                    <div class="single-item" style="background-color: rgb(228 232 255);">
+                    <div class="single-item" style="background-color: rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
                         <div class="inner">
                             <div><img src="assets/img/icon/email.png" alt="" style="margin-top: 0px;"></div>
                             <div>
@@ -53,7 +53,7 @@
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color: rgb(228 232 255);">
+                    <div class="single-item" style="background-color: rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
                         <div class="inner">
                             <div><img src="assets/img/icon/telephone.png" alt="" style="margin-top: 0px;"></div>
                             <div><h6 style="font-size: 20px;">Call</h6>
@@ -63,7 +63,7 @@
                             
                         </div>
                     </div>
-                    <div class="single-item" style="background-color:rgb(228 232 255);">
+                    <div class="single-item" style="background-color:rgb(228 232 255);border-radius: 0px 0px 10px 10px;">
                         <div class="inner">
                             <div><img src="assets/img/icon/placeholder.png" alt="" style="margin-right: 60px;margin-top: 0px;"></div>
                             <div>
