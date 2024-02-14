@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <button type="submit" class="btn btn-dark">Register Here</button>
+                <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
             </div>
         </div>
 </section>

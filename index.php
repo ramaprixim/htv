@@ -131,7 +131,7 @@
                         <div class="col-lg-6">
                             <div class="slider__content">
                                 <h2 class="title">Humantroop Ventures fluent in finding leaders</h2>
-                                <a class="btn" href="contact-us.php">Contact Us</a>
+                                <a class="btn" href="contact.php">Contact Us</a>
 
 
                             </div>
@@ -161,7 +161,7 @@
                                 <img src="assets/img/icon/NHRDN logo.png" alt="">
 
 
-                                <a class="btn mx-2" href="contact-us.php">Contact Us</a>
+                                <a class="btn mx-2" href="contact.php">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -345,7 +345,7 @@
 <!-- about-area-end -->
 
 <!-- services-area -->
-<section class="services-area services-bg" data-background="assets/img/bg/services_bg.jpg">
+<section class="services-area services-bg" data-background="assets/img/bg/services_bg.jpg" style="background-color: #e7e7e7;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8">
@@ -360,14 +360,11 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="services-details.html" class="shine-animate"><img
+                            <a href="" class="shine-animate"><img
                                     src="assets/img/services/businessmen-hands-white-table-with-documents-drafts.jpg"
                                     alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-profit"></i>
-                            </div>
                             <h4 class="title">Payroll Outsourcing</h4>
                             <p>Payroll is able to provide accurate and timely payroll processing and tax filing services
                             </p>
@@ -377,13 +374,10 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="services-details.html" class="shine-animate"><img
-                                    src="assets/img/services/services_img02.jpg" alt=""></a>
+                            <a href="" class="shine-animate"><img src="assets/img/services/services_img02.jpg"
+                                    alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-investment-1"></i>
-                            </div>
                             <h4 class="title">Recruitment</h4>
                             <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.
                             </p>
@@ -393,13 +387,10 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="services-details.html" class="shine-animate"><img
-                                    src="assets/img/services/services_img03.jpg" alt=""></a>
+                            <a href="" class="shine-animate"><img src="assets/img/services/services_img03.jpg"
+                                    alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
-                                <i class="flaticon-pie-chart"></i>
-                            </div>
                             <h4 class="title">Compliances</h4>
                             <p>Humantroop Ventures helps clients ensure compliance with legal regulations such as labor
                                 law.
@@ -551,7 +542,7 @@
                     <div class="services__content-two">
                         <div class="imgg">
                             <img style="height:80px;" src="assets/img/images/hrconsult.png">
-                           
+
                         </div>
                         <br>
                         <h2 class="title">Dedicated Lead HR
@@ -565,7 +556,7 @@
                     <div class="services__content-two">
                         <div class="imgg">
                             <img style="height:65px;" src="assets/img/images/24hours.png">
-                           
+
                         </div>
                         <br>
                         <h2 class="title">24/7 Support &
@@ -584,7 +575,8 @@
                         </div>
                         <br>
                         <h2 class="title">Talent And Skill Management</h2>
-                        <p>HumanTroop Venture provides many candidates with services to level up their talent and assign them as per their potential and capacity.
+                        <p>HumanTroop Venture provides many candidates with services to level up their talent and assign
+                            them as per their potential and capacity.
                         </p>
                     </div>
                 </div>
@@ -773,7 +765,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <button type="submit" class="btn btn-dark">Register Here</button>
+                <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
             </div>
         </div>
 </section>

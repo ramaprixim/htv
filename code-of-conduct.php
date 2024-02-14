@@ -158,7 +158,7 @@
             <h1>Our Clients Requirements</h1>
             <p>We will not knowingly or otherwise engage in or condone any activity or attempt to circumvent the clear
                 intent of the law by which we and our clients are governed.</p>
-            <a class="btn aos-init aos-animate" data-aos-delay="600" data-aos="fade-up" href="/about">Contact Us</a>
+            <a class="btn aos-init aos-animate" data-aos-delay="600" data-aos="fade-up" href="contact.php">Contact Us</a>
         </div>
     </div>
 </section>
@@ -174,7 +174,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <button type="submit" class="btn btn-dark">Register Here</button>
+                <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
             </div>
         </div>
     </div>

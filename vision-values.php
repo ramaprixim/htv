@@ -79,7 +79,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                            <img style="height:65px;" src="assets/img/images/integrity.png">
+                            <img style="height:80px;" src="assets/img/images/integrity.png">
                         </div>
                         <br>
                     </div>
@@ -130,8 +130,10 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
+                    <div class="services__icon-two">
                     <div class="imgg">
                         <img style="height:80px;" src="assets/img/images/business-finance.png">
+                    </div>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Empowerment</a></h2>
@@ -142,9 +144,11 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
+                    <div class="services__icon-two">
                     <div class="imgg">
                         <img style="height:80px;" src="assets/img/images/teamwork_10523234.png">
                 </div>
+                    </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Collaboration</a></h2>
                         <p>We work as a team and share knowledge for continuous improvement, learning and innovation.</p>
@@ -154,9 +158,11 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services__item-two">
+                    <div class="services__icon-two">
                     <div class="imgg">
                         <img style="height:80px;" src="assets/img/images/care_7653890.png">
                 </div>
+                    </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Respect</a></h2>
                         <p>We treat everyone with uncompromising respect, civility and fairness. And we always welcome diversity and differences of opinion.</p>
@@ -186,7 +192,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                                <button type="submit" class="btn btn-dark">Register Here</button>
+            <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
         </div>
     </div>
 </div></section>
