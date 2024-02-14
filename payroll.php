@@ -43,14 +43,14 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="services-details.html" class="shine-animate"><img
+                            <a href="" class="shine-animate"><img
                                     src="assets/img/images/DEDICATED PAYROLL SPECIALIST.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
+                            <!-- <div class="icon">
                                 <i class="flaticon-profit"></i>
-                            </div>
-                            <h4 class="title"><a href="services-details.html">DEDICATED PAYROLL SPECIALIST</a></h4>
+                            </div> -->
+                            <h4 class="title"><a href="">DEDICATED PAYROLL SPECIALIST</a></h4>
                             <p>We are here to assist you with all your payroll and tax needs through our highly trained,
                                 dedicated payroll specialists.</p>
 
@@ -60,14 +60,14 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="services-details.html" class="shine-animate"><img
+                            <a href="" class="shine-animate"><img
                                     src="assets/img/images/TRANSPARENT PRICING.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
+                            <!-- <div class="icon">
                                 <i class="flaticon-investment-1"></i>
-                            </div>
-                            <h4 class="title"><a href="services-details.html">TRANSPARENT PRICING</a></h4>
+                            </div> -->
+                            <h4 class="title"><a href="">TRANSPARENT PRICING</a></h4>
                             <p>Our team of specialists is ready to assist you.</p>
                             <br>
                             <br>
@@ -78,14 +78,14 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="services-details.html" class="shine-animate"><img
+                            <a href="" class="shine-animate"><img
                                     src="assets/img/images/247 SUPPORT.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <div class="icon">
+                            <!-- <div class="icon">
                                 <i class="flaticon-pie-chart"></i>
-                            </div>
-                            <h4 class="title"><a href="services-details.html">24/7 SUPPORT</a></h4>
+                            </div> -->
+                            <h4 class="title"><a href="">24/7 SUPPORT</a></h4>
                             <p>Need assistance after business hours? No problem. Our team of specialists is ready to
                                 assist you.
 
@@ -220,7 +220,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <button type="submit" class="btn btn-dark">Register Here</button>
+                <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
             </div>
         </div>
     </div>

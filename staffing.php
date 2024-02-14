@@ -81,7 +81,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                           
-                        <a class="shine-animate" href="/services-details"><img
+                        <a class="shine-animate" href=""><img
                                     src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -98,7 +98,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                            <a class="shine-animate" href=""><img
                                     src="assets/img/images/Niche Skilled Trades.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -116,7 +116,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a class="shine-animate" href="/services-details"><img
+                            <a class="shine-animate" href=""><img
                                     src="assets/img/images/Network of Offices.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
@@ -145,7 +145,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <button type="submit" class="btn btn-dark">Register Here</button>
+                <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
             </div>
         </div>
     </div>
