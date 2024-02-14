@@ -14,8 +14,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(228 232 255);
+    background-color: rgb(236 246 250);
     border-radius: 0px 0px 10px 10px;
+    transition: ease;
+    }
+    .single-item:hover{
+    background-color: rgb(225 247 255);
+    box-shadow: 1px 1px 3px #c6bfbf;
+    transition: ease .5s;
     }
     .footer-top .footer-info .single-item .inner{
         display: flex;
@@ -40,6 +46,20 @@
         font-size: 15px;
 
     }
+    @media only screen and (max-width: 600px) {
+        .clearfix{
+            display:grid;
+            margin-top: -100px;
+        }
+        .single-item{
+            width:100%;
+        }
+        .single-item{
+            justify-content:left;
+            border-radius:0px;
+        }  
+}
+
 </style>
 </main>
 <footer>
@@ -55,7 +75,11 @@
                                 <h6 style="font-size: 20px;">Email</h6>
                                 <p style="font-size: 13px;
                             line-height: 18px;
+<<<<<<< HEAD
                             font-weight: 700;"><a class="inner-anchor" href="mailto:support@humantroop.in">support@humantroop.in</a></p>
+=======
+                            font-weight: 400;"><a class="inner-anchor" href="mailto:support@humantroop.in" style="">support@humantroop.in</a></p>
+>>>>>>> fbf7735c42175a489dd3813dcba36fb09ba29842
                             </div>
                             
                         </div>
@@ -66,7 +90,7 @@
                             <div><h6 style="font-size: 20px;">Call</h6>
                                 <p style="
                                 line-height: 18px;
-                                font-weight: 700;"><a class="inner-anchor" href="tel:+919137655589">+919137655589</a></p></div>
+                                font-weight: 400;"><a class="inner-anchor" href="tel:+919137655589">+919137655589</a></p></div>
                             
                         </div>
                     </div>
@@ -77,7 +101,7 @@
                                 <h6 style="font-size: 19px;">Address</h6>
                             <p style="font-size: 13px;
                             line-height: 18px;
-                            font-weight: 700;
+                            font-weight: 400;
                             color: #000000;"> HumanTroop Ventures
                                 <br> office 807, Realtech Park, Sector 30A, Near Vashi Railway Station, Vashi, Navi
                                 Mumbai - 400703.Maharashtra
@@ -159,64 +183,6 @@
         </div>
     </div>
 </div>
-
-            <div class="footer-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                            <div class="footer-widget">
-                                <h4 class="fw-title">Industries</h4>
-                                <div class="footer-link-list">
-                                    <ul class="list-wrap">
-                                        <li><a href="automotive.php">Automotive</a></li>
-                                        <li><a href="aviation-airline.php">Aviation & Airline</a></li>
-                                        <li><a href="banking-finance.php">Banking & Finance</a></li>
-                                        <li><a href="bpo-kpo.php">BPO/ KPO</a></li>
-                                        <li><a href="construction-engineering.php">Construction & Engineering</a></li>
-                                        <li><a href="eventsmanagement.php">Events Management</a></li>
-                                        <li><a href="export-import.php">Export/ Import</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                            <div class="footer-widget">
-                                <div class="footer-link-list">
-                                    <br>
-                                    <br>
-                                    <br>
-                                    <ul class="list-wrap">
-                                        <li><a href="fmcg.php">FMCG</a></li>
-                                        <li><a href="healthcare-wellness.php">Healthcare & Wellness</a></li>
-                                        <li><a href="hospitality-tourism.php">Hospitality & Tourism</a></li>
-                                        <li><a href="information-technology.php">Information Technology</a></li>
-                                        <li><a href="lifescience-pharmaceuticals.php">Life Science & Pharmaceuticals</a></li>
-                                        <li><a href="manufacturing.php">Manufacturing</a></li>
-                                        <li><a href="metals-mining.php">Metals & Mining</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6">
-                            <div class="footer-widget">
-                                <div class="footer-link-list">
-                                    <br>
-                                    <br>
-                                    <br>
-                                    <ul class="list-wrap">
-                                        <li><a href="oil-gas.php">Oil & Gas</a></li>
-                                        <li><a href="power-renewableenergy.php">Power & Renewable Energy</a></li>
-                                        <li><a href="retails.php">Retails</a></li>
-                                        <li><a href="shipping-logistics.php">Shipping & Logistics</a></li>
-                                        <li><a href="telecommunications.php">Telecommunications</a></li>
-                                        <li><a href="tours-travels.php">Tours & Travels</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="footer-bottom">
                 <div class="container">
                     <div class="row align-items-center">
