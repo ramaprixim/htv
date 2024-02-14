@@ -46,6 +46,20 @@
         font-size: 15px;
 
     }
+    @media only screen and (max-width: 600px) {
+        .clearfix{
+            display:grid;
+            margin-top: -100px;
+        }
+        .single-item{
+            width:100%;
+        }
+        .single-item{
+            justify-content:left;
+            border-radius:0px;
+        }  
+}
+
 </style>
 </main>
 <footer>
@@ -61,7 +75,7 @@
                                 <h6 style="font-size: 20px;">Email</h6>
                                 <p style="font-size: 13px;
                             line-height: 18px;
-                            font-weight: 700;"><a class="inner-anchor" href="mailto:support@humantroop.in" style="">support@humantroop.in</a></p>
+                            font-weight: 400;"><a class="inner-anchor" href="mailto:support@humantroop.in" style="">support@humantroop.in</a></p>
                             </div>
                             
                         </div>
@@ -72,7 +86,7 @@
                             <div><h6 style="font-size: 20px;">Call</h6>
                                 <p style="
                                 line-height: 18px;
-                                font-weight: 700;"><a class="inner-anchor" href="tel:+919137655589">+919137655589</a></p></div>
+                                font-weight: 400;"><a class="inner-anchor" href="tel:+919137655589">+919137655589</a></p></div>
                             
                         </div>
                     </div>
@@ -83,7 +97,7 @@
                                 <h6 style="font-size: 19px;">Address</h6>
                             <p style="font-size: 13px;
                             line-height: 18px;
-                            font-weight: 700;
+                            font-weight: 400;
                             color: #000000;"> HumanTroop Ventures
                                 <br> office 807, Realtech Park, Sector 30A, Near Vashi Railway Station, Vashi, Navi
                                 Mumbai - 400703.Maharashtra
