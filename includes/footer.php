@@ -75,11 +75,7 @@
                                 <h6 style="font-size: 20px;">Email</h6>
                                 <p style="font-size: 13px;
                             line-height: 18px;
-<<<<<<< HEAD
-                            font-weight: 700;"><a class="inner-anchor" href="mailto:support@humantroop.in">support@humantroop.in</a></p>
-=======
                             font-weight: 400;"><a class="inner-anchor" href="mailto:support@humantroop.in" style="">support@humantroop.in</a></p>
->>>>>>> fbf7735c42175a489dd3813dcba36fb09ba29842
                             </div>
                             
                         </div>
