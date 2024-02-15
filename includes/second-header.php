@@ -40,7 +40,7 @@
     color: #ffffff;
 }
 .tgmenu__navbar-wrap > ul > li .sub-menu{
-    width: 278px;
+    width: 305px;
 }
 .sac{
     background-color: #ec8b00 !important;
@@ -160,7 +160,7 @@
                                      || $page=='shipping-logistics' || $page=='telecommunication' || $page=='tours-travel' || $page=='life-science-pharmaceuticals' || $page=='fmcg')
                                      {echo 'active';}
                                       ?>" ><a href="#">Industries</a>
-                                            <ul class="sub-menu sub-sub-menu" style="left: 277px;">
+                                            <ul class="sub-menu sub-sub-menu" style="left: 304px;">
                                                 <li class="<?php if($page=='power-renewable-energy') {echo 'active';} ?>"><a href="power-renewable-energy.php">Power and Renewable</a></li>
                                                 <li class="<?php if($page=='aviation-airline') {echo 'active';} ?>"><a href="aviation-airline.php">Aviation & Airline</a></li>
                                                 <li class="<?php if($page=='banking-finance') {echo 'active';} ?>"><a href="banking-finance.php">Banking & Finance</a></li>
@@ -180,7 +180,7 @@
                                                 <li class="<?php if($page=='metal-mining') {echo 'active';} ?>"><a href="metals-mining.php">Metals & Mining</a></li>
                                                 <li class="<?php if($page=='export-import') {echo 'active';} ?>"><a href="export-import.php">Export/ Import</a></li>
                                             </ul>
-                                            <ul class="sub-menu sub-sub-menu" style="left: -277px;">
+                                            <ul class="sub-menu sub-sub-menu" style="left: -304px;">
                                                 <li class="<?php if($page=='automotive') {echo 'active';} ?>"><a href="automotive.php">Automotive</a></li>
                                                 
                                                 <li class="<?php if($page=='retail') {echo 'active';} ?>"><a href="retails.php">Retails</a></li>
