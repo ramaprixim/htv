@@ -319,8 +319,8 @@
                                     <div class="icon">
                                         <i class="flaticon-target"></i>
                                     </div>
-                                    <h4 class="title">Increased Productivity</h4>
-                                    <p>A happy workforce is productive and helps you focus on increasing profitability.
+                                    <h4 class="title">Experienced Team</h4>
+                                    <p>HumanTroop has experienced experts who have experience more than decades working in this industry and making big contributions to businesses and candidates.
                                     </p>
                                 </div>
                             </li>
