@@ -209,11 +209,7 @@
                                         </li>
                                         </li>
                                         <li class="<?php if($page=='current-openings') {echo 'active';} ?>"><a href="current-openings.php">Live Jobs</a>
-                                            <!-- <ul class="sub-menu">
-                                                <li><a href="team.html">Join Us</a></li>
-                                                <li><a href="team-2.html">Channel Partners</a></li>
-                                                
-                                            </ul> -->
+                                           
                                         </li>
                                         <li class=""><a href="blog.php">Blogs</a>
 

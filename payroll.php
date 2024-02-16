@@ -47,9 +47,7 @@
                                     src="assets/img/images/DEDICATED PAYROLL SPECIALIST.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <!-- <div class="icon">
-                                <i class="flaticon-profit"></i>
-                            </div> -->
+                          
                             <h4 class="title"><a href="">DEDICATED PAYROLL SPECIALIST</a></h4>
                             <p>We are here to assist you with all your payroll and tax needs through our highly trained,
                                 dedicated payroll specialists.</p>
@@ -64,9 +62,7 @@
                                     src="assets/img/images/TRANSPARENT PRICING.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <!-- <div class="icon">
-                                <i class="flaticon-investment-1"></i>
-                            </div> -->
+                            
                             <h4 class="title"><a href="">TRANSPARENT PRICING</a></h4>
                             <p>Our team of specialists is ready to assist you.</p>
                             <br>
@@ -82,9 +78,7 @@
                                     src="assets/img/images/247 SUPPORT.jpg" alt=""></a>
                         </div>
                         <div class="services-content">
-                            <!-- <div class="icon">
-                                <i class="flaticon-pie-chart"></i>
-                            </div> -->
+                           
                             <h4 class="title"><a href="">24/7 SUPPORT</a></h4>
                             <p>Need assistance after business hours? No problem. Our team of specialists is ready to
                                 assist you.

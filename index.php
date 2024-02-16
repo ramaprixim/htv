@@ -217,40 +217,46 @@
     <div class="container">
         <div class="row gutter-24 justify-content-center">
             <div class="col-lg-4 col-md-6">
-                <div class="blog__post-four shine-animate-item">
-                    <div class="blog__post-thumb-four">
-                        <img src="assets/img/blog/h5_blog_post01.jpg" alt="">
+                <a href="staffing.php">
+                    <div class="blog__post-four shine-animate-item">
+                        <div class="blog__post-thumb-four">
+                            <img src="assets/img/blog/h5_blog_post01.jpg" alt="">
+                        </div>
+                        <div class="blog__post-content-four">
+                            <br>
+                            <h2 class="title text-center">Training
+                                programs</h2>
+                        </div>
                     </div>
-                    <div class="blog__post-content-four">
-                        <br>
-                        <h2 class="title text-center">Training
-                            programs</h2>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="blog__post-four shine-animate-item">
-                    <div class="blog__post-thumb-four">
-                        <img src="assets/img/blog/h5_blog_post02.jpg" alt="">
+                <a href="payroll.php">
+                    <div class="blog__post-four shine-animate-item">
+                        <div class="blog__post-thumb-four">
+                            <img src="assets/img/blog/h5_blog_post02.jpg" alt="">
+                        </div>
+                        <div class="blog__post-content-four">
+                            <br>
+                            <h2 class="title text-center">HR
+                                Outsourcing</h2>
+                        </div>
                     </div>
-                    <div class="blog__post-content-four">
-                        <br>
-                        <h2 class="title text-center">HR
-                            Outsourcing</h2>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="blog__post-four shine-animate-item">
-                    <div class="blog__post-thumb-four">
-                        <img src="assets/img/services/services_img08.jpg" alt="">
+                <a href="posh-traning.php">
+                    <div class="blog__post-four shine-animate-item">
+                        <div class="blog__post-thumb-four">
+                            <img src="assets/img/services/services_img08.jpg" alt="">
+                        </div>
+                        <div class="blog__post-content-four">
+                            <br>
+                            <h2 class="title text-center">Quick
+                                Hiring</h2>
+                        </div>
                     </div>
-                    <div class="blog__post-content-four">
-                        <br>
-                        <h2 class="title text-center">Quick
-                            Hiring</h2>
-                    </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>
@@ -313,8 +319,8 @@
                                     <div class="icon">
                                         <i class="flaticon-target"></i>
                                     </div>
-                                    <h4 class="title">Increased Productivity</h4>
-                                    <p>A happy workforce is productive and helps you focus on increasing profitability.
+                                    <h4 class="title">Experienced Team</h4>
+                                    <p>HumanTroop has experienced experts who have experience more than decades working in this industry and making big contributions to businesses and candidates.
                                     </p>
                                 </div>
                             </li>
@@ -325,7 +331,7 @@
                                         <i class="flaticon-profit"></i>
                                     </div>
                                     <h4 class="title">Save Time & Money</h4>
-                                    <p>We will free up your valuable time, provide expert advice and guidance</p>
+                                    <p>Save time and money at the same time with humantroop services. We'll help you reclaim your precious time while offering expert advice and guidance to support you.</p>
                                 </div>
                             </li>
                         </ul>
@@ -345,7 +351,8 @@
 <!-- about-area-end -->
 
 <!-- services-area -->
-<section class="services-area services-bg" data-background="assets/img/bg/services_bg.jpg" style="background-color: #e7e7e7;">
+<section class="services-area services-bg" data-background="assets/img/bg/services_bg.jpg"
+    style="background-color: #e7e7e7;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8">
@@ -366,7 +373,7 @@
                         </div>
                         <div class="services-content">
                             <h4 class="title">Payroll Outsourcing</h4>
-                            <p>Payroll is able to provide accurate and timely payroll processing and tax filing services
+                            <p>Simplify your payroll processes with our outsourcing solutions. From accurate calculations to timely payments, allowing you to focus on your core business operations.
                             </p>
                         </div>
                     </div>
@@ -498,7 +505,7 @@
                         <i class="flaticon-china"></i>
                     </div>
                     <div class="content">
-                        <h2 class="count"><span class="odometer" data-count="15"></span>+</h2>
+                        <h2 class="count"><span class="odometer" data-count="50"></span>+</h2>
                         <p>Corporate Trainings Done</p>
                     </div>
                 </div>
@@ -547,7 +554,8 @@
                         <br>
                         <h2 class="title">Dedicated Lead HR
                             Consultant</h2>
-                        <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p>
+                        <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p><br><br>
+
                     </div>
                 </div>
             </div>
@@ -559,11 +567,10 @@
 
                         </div>
                         <br>
-                        <h2 class="title">24/7 Support &
-                            Advice Access</h2>
+                        <h2 class="title">365 Days Support</h2>
                         <br>
-                        <p>So you can call at any time even outside business hours for reassurance or confidential
-                            matters.</p>
+                        <p>HumanTroop offers the highest-quality services around every minute of every day, 365 days throughout the year. We delight businesses and candidates each day by offering the highest quality services.
+</p>
                     </div>
                 </div>
             </div>
@@ -574,10 +581,9 @@
                             <img style="height:65px;" src="assets/img/images/skill.png">
                         </div>
                         <br>
-                        <h2 class="title">Talent And Skill Management</h2>
-                        <p>HumanTroop Venture provides many candidates with services to level up their talent and assign
-                            them as per their potential and capacity.
-                        </p>
+                        <h2 class="title">Value-Based Services</h2>
+                        <p>With the help of our values human resources services, empower your staff and establish a culture of honesty, growth, and teamwork for a successful future.
+                        </p><br><br>
                     </div>
                 </div>
             </div>
