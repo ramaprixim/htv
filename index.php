@@ -217,40 +217,46 @@
     <div class="container">
         <div class="row gutter-24 justify-content-center">
             <div class="col-lg-4 col-md-6">
-                <div class="blog__post-four shine-animate-item">
-                    <div class="blog__post-thumb-four">
-                        <img src="assets/img/blog/h5_blog_post01.jpg" alt="">
+                <a href="staffing.php">
+                    <div class="blog__post-four shine-animate-item">
+                        <div class="blog__post-thumb-four">
+                            <img src="assets/img/blog/h5_blog_post01.jpg" alt="">
+                        </div>
+                        <div class="blog__post-content-four">
+                            <br>
+                            <h2 class="title text-center">Training
+                                programs</h2>
+                        </div>
                     </div>
-                    <div class="blog__post-content-four">
-                        <br>
-                        <h2 class="title text-center">Training
-                            programs</h2>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="blog__post-four shine-animate-item">
-                    <div class="blog__post-thumb-four">
-                        <img src="assets/img/blog/h5_blog_post02.jpg" alt="">
+                <a href="payroll.php">
+                    <div class="blog__post-four shine-animate-item">
+                        <div class="blog__post-thumb-four">
+                            <img src="assets/img/blog/h5_blog_post02.jpg" alt="">
+                        </div>
+                        <div class="blog__post-content-four">
+                            <br>
+                            <h2 class="title text-center">HR
+                                Outsourcing</h2>
+                        </div>
                     </div>
-                    <div class="blog__post-content-four">
-                        <br>
-                        <h2 class="title text-center">HR
-                            Outsourcing</h2>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="blog__post-four shine-animate-item">
-                    <div class="blog__post-thumb-four">
-                        <img src="assets/img/services/services_img08.jpg" alt="">
+                <a href="posh-traning.php">
+                    <div class="blog__post-four shine-animate-item">
+                        <div class="blog__post-thumb-four">
+                            <img src="assets/img/services/services_img08.jpg" alt="">
+                        </div>
+                        <div class="blog__post-content-four">
+                            <br>
+                            <h2 class="title text-center">Quick
+                                Hiring</h2>
+                        </div>
                     </div>
-                    <div class="blog__post-content-four">
-                        <br>
-                        <h2 class="title text-center">Quick
-                            Hiring</h2>
-                    </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>
@@ -345,7 +351,8 @@
 <!-- about-area-end -->
 
 <!-- services-area -->
-<section class="services-area services-bg" data-background="assets/img/bg/services_bg.jpg" style="background-color: #e7e7e7;">
+<section class="services-area services-bg" data-background="assets/img/bg/services_bg.jpg"
+    style="background-color: #e7e7e7;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8">
