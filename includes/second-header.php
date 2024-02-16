@@ -214,7 +214,7 @@
                                         <li class=""><a href="blog.php">Blogs</a>
 
                                         </li>
-                                        <li class="<?php if($page=='contact-us') {echo 'active';} ?>"><a href="contact.php">Contact Us</a></li>
+                                        <li class="<?php if($page=='contact-us') {echo 'active';} ?>"><a href="contact-us.php">Contacts Us</a></li>
                                     </ul>
                                 </div>
                                  <div class="tgmenu__action d-none d-md-block">
