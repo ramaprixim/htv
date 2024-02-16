@@ -17,10 +17,11 @@
     background-color: rgb(236 246 250);
     border-radius: 0px 0px 10px 10px;
     transition: ease;
+    box-shadow: 1px 1px 20px 0px #e9e9e9;
     }
     .single-item:hover{
     background-color: rgb(225 247 255);
-    box-shadow: 1px 1px 3px #c6bfbf;
+    box-shadow: 1px 1px 20px 13px #e9e9e9;
     transition: ease .5s;
     }
     .footer-top .footer-info .single-item .inner{
