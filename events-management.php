@@ -31,7 +31,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/services/2150951233.jpg" alt="">
+                    <img src="assets/img/images/industries - Event Management.png" alt="">
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
                     </div>

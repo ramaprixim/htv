@@ -31,7 +31,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/services/bf.jpg" alt="">
+                    <img src="assets/img/images/industries - Banking Finance.png" alt="">
                     <div class="about__award-box">
                     </div>
                     <div class="shape">
@@ -60,7 +60,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-0 order-lg-2">
                 <div class="choose-img-wrap">
-                    <img src="assets/img/images/arrangement-economy.jpg" alt="">
+                    <img src="assets/img/images/industries - Banking Finance -Designed with input from.png" alt="">
                 </div>
             </div>
             <div class="col-lg-6">

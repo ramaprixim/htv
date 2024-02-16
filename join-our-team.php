@@ -30,7 +30,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                   <img src="assets/img/images/work with us - Join Us - Would you like to join our team of business professionals.tif">
+                   <img src="assets/img/images/work with us - Join Us - Would you like to join our team of business professionals copy (1).png">
                     
                     
                     <div class="shape">

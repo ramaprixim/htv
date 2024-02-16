@@ -31,9 +31,9 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/services/still-life-supply-chain-representation.jpg" alt="">
+                    <img src="assets/img/images/industries - Export , Import.png" alt="">
                     <div class="about__award-box">
-                     
+
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -44,8 +44,13 @@
                 <div class="about__content-three">
                     <div class="section-title mb-25">
                     </div>
-                    <p>Export and import activities in India have increased drastically due to globalization. At present, export/import contributes significantly to the growth of the Indian economy. Various large and small companies have ventured into this industry.</p>
-                    <p>Keeping in mind the manpower needs of the export/import sector, we have come up with effective recruitment solutions. The company's HR team works in close proximity to clients and searches for the most suitable candidates for positions such as Logistics Manager, Legal Expert, Supply Chain Manager, etc.</p>
+                    <p>Export and import activities in India have increased drastically due to globalization. At
+                        present, export/import contributes significantly to the growth of the Indian economy. Various
+                        large and small companies have ventured into this industry.</p>
+                    <p>Keeping in mind the manpower needs of the export/import sector, we have come up with effective
+                        recruitment solutions. The company's HR team works in close proximity to clients and searches
+                        for the most suitable candidates for positions such as Logistics Manager, Legal Expert, Supply
+                        Chain Manager, etc.</p>
                     <div class="about__content-inner about__content-inner-two">
                     </div>
                     <div class="about__shape-wrap-three">

@@ -31,9 +31,10 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                <img src="assets/img/services/group-medical-researchers-discussing-about-vaccine-development-standing-equipped-lab-pointing-tablet-taking-notes.jpg" alt="">
+                    <img src="assets/img/images/industries - Life Science Pharmaceuticals.png"
+                        alt="">
                     <div class="about__award-box">
-                      
+
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -46,10 +47,19 @@
                     </div>
                     <h2 class="title">
 
-                    Life Sciences & Pharmaceuticals</h2>
-<p>Rapidly evolving market dynamics, regulatory forces, and consumer demands are continually adding new layers of complexity to the healthcare industry. Humantroop Ventures helps pharmaceutical manufacturers to create optimized human resources in a rapidly evolving market characterized by unpredictable product pipelines and uncertain regulatory actions. We bring unmatched expertise in innovation, customer experience, cost management, organizational design, and other disciplines essential to achieving and maintaining industry leadership in pharma HR</p>
-<p>Humantroop Ventures works with life science and healthcare companies to fuel innovation, reduce the cost and complexity of operating HR systems, and drive value in today’s evolving market. Our teams bring diverse experiences and a collaborative spirit to every engagement. We work alongside client teams at all levels of the organization to develop practical HXM solutions that can deliver repeatable and sustainable results for the HR team.</p>
-<div class="about__content-inner about__content-inner-two">
+                        Life Sciences & Pharmaceuticals</h2>
+                    <p>Rapidly evolving market dynamics, regulatory forces, and consumer demands are continually adding
+                        new layers of complexity to the healthcare industry. Humantroop Ventures helps pharmaceutical
+                        manufacturers to create optimized human resources in a rapidly evolving market characterized by
+                        unpredictable product pipelines and uncertain regulatory actions. We bring unmatched expertise
+                        in innovation, customer experience, cost management, organizational design, and other
+                        disciplines essential to achieving and maintaining industry leadership in pharma HR</p>
+                    <p>Humantroop Ventures works with life science and healthcare companies to fuel innovation, reduce
+                        the cost and complexity of operating HR systems, and drive value in today’s evolving market. Our
+                        teams bring diverse experiences and a collaborative spirit to every engagement. We work
+                        alongside client teams at all levels of the organization to develop practical HXM solutions that
+                        can deliver repeatable and sustainable results for the HR team.</p>
+                    <div class="about__content-inner about__content-inner-two">
                     </div>
                     <div class="about__shape-wrap-three">
                         <img src="assets/img/images/h3_about_shape01.png" alt="" class="rotateme">

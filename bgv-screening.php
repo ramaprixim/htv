@@ -31,9 +31,8 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-7 col-md-9 order-0 order-lg-2">
                 <div class="choose__img-wrap-three">
-                    <div class="main-img">
-                        <img src="assets/img/images/h3_choose_img01.jpg" alt="">
-
+                    <div class="mask-img-wrap">
+                        <img src="assets/img/images/our services - BFV Screening - Background Verification Services.png" alt="">
                     </div>
 
                     <div class="shape">
