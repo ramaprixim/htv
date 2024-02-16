@@ -326,7 +326,5 @@ switch ($menuactive) {
         $url="";
         break;
 }
-
-
 ?>
 

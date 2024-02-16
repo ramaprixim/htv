@@ -505,7 +505,7 @@
                         <i class="flaticon-china"></i>
                     </div>
                     <div class="content">
-                        <h2 class="count"><span class="odometer" data-count="15"></span>+</h2>
+                        <h2 class="count"><span class="odometer" data-count="50"></span>+</h2>
                         <p>Corporate Trainings Done</p>
                     </div>
                 </div>
@@ -554,7 +554,8 @@
                         <br>
                         <h2 class="title">Dedicated Lead HR
                             Consultant</h2>
-                        <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p>
+                        <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p><br><br>
+
                     </div>
                 </div>
             </div>
@@ -566,11 +567,10 @@
 
                         </div>
                         <br>
-                        <h2 class="title">24/7 Support &
-                            Advice Access</h2>
+                        <h2 class="title">365 Days Support</h2>
                         <br>
-                        <p>So you can call at any time even outside business hours for reassurance or confidential
-                            matters.</p>
+                        <p>HumanTroop offers the highest-quality services around every minute of every day, 365 days throughout the year. We delight businesses and candidates each day by offering the highest quality services.
+</p>
                     </div>
                 </div>
             </div>
@@ -581,10 +581,9 @@
                             <img style="height:65px;" src="assets/img/images/skill.png">
                         </div>
                         <br>
-                        <h2 class="title">Talent And Skill Management</h2>
-                        <p>HumanTroop Venture provides many candidates with services to level up their talent and assign
-                            them as per their potential and capacity.
-                        </p>
+                        <h2 class="title">Value-Based Services</h2>
+                        <p>With the help of our values human resources services, empower your staff and establish a culture of honesty, growth, and teamwork for a successful future.
+                        </p><br><br>
                     </div>
                 </div>
             </div>

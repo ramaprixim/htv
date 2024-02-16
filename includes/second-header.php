@@ -209,16 +209,12 @@
                                         </li>
                                         </li>
                                         <li class="<?php if($page=='current-openings') {echo 'active';} ?>"><a href="current-openings.php">Live Jobs</a>
-                                            <!-- <ul class="sub-menu">
-                                                <li><a href="team.html">Join Us</a></li>
-                                                <li><a href="team-2.html">Channel Partners</a></li>
-                                                
-                                            </ul> -->
+                                           
                                         </li>
                                         <li class=""><a href="blog.php">Blogs</a>
 
                                         </li>
-                                        <li class="<?php if($page=='contact-us') {echo 'active';} ?>"><a href="contact.php">contacts</a></li>
+                                        <li class="<?php if($page=='contact-us') {echo 'active';} ?>"><a href="contact.php">Contact Us</a></li>
                                     </ul>
                                 </div>
                                  <div class="tgmenu__action d-none d-md-block">
