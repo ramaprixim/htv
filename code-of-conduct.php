@@ -152,16 +152,7 @@
     </div>
 </section>
 
-<section class="all_services__area-six " style="background-color: #e7e7e7;">
-    <div class="row">
-        <div class="col-lg-12 container mt-100 mb-100" style="text-align:center; ">
-            <h1>Our Clients Requirements</h1>
-            <p>We will not knowingly or otherwise engage in or condone any activity or attempt to circumvent the clear
-                intent of the law by which we and our clients are governed.</p>
-            <a class="btn aos-init aos-animate" data-aos-delay="600" data-aos="fade-up" href="contact.php">Contact Us</a>
-        </div>
-    </div>
-</section>
+
 
 <section class="call-back-area">
     <div class="container">
