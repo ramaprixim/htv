@@ -81,7 +81,6 @@
                     <div class="imgg">
                             <img style="height:80px;" src="assets/img/images/integrity.png">
                         </div>
-                        <br>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Integrity</a></h2>
@@ -101,7 +100,6 @@
                     <div class="imgg">
                             <img style="height:80px;" src="assets/img/images/responsibility.png">
                         </div>
-                        <br>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Responsibility</a></h2>
@@ -118,7 +116,6 @@
                     <div class="imgg">
                             <img style="height:80px;" src="assets/img/images/excellence.png">
                     </div>
-                    <br>
                     </div>
                     <div class="services__content-two">
                         <h2 class="title"><a href="/services-details">Passion for Excellence</a></h2>

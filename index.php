@@ -331,7 +331,7 @@
                                         <i class="flaticon-profit"></i>
                                     </div>
                                     <h4 class="title">Save Time & Money</h4>
-                                    <p>We will free up your valuable time, provide expert advice and guidance</p>
+                                    <p>Save time and money at the same time with humantroop services. We'll help you reclaim your precious time while offering expert advice and guidance to support you.</p>
                                 </div>
                             </li>
                         </ul>
@@ -373,7 +373,7 @@
                         </div>
                         <div class="services-content">
                             <h4 class="title">Payroll Outsourcing</h4>
-                            <p>Payroll is able to provide accurate and timely payroll processing and tax filing services
+                            <p>Simplify your payroll processes with our outsourcing solutions. From accurate calculations to timely payments, allowing you to focus on your core business operations.
                             </p>
                         </div>
                     </div>
