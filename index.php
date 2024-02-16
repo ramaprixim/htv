@@ -292,7 +292,7 @@
             <div class="col-lg-6">
                 <div class="about-img-wrap">
                     <div class="mask-img-wrap">
-                        <img src="assets/img/images/humantroop 1.png" alt="">
+                        <img src="assets/img/images/1 humantroop 1.png" alt="">
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/about_shape01.png" alt="">
@@ -388,6 +388,8 @@
                             <h4 class="title">Recruitment</h4>
                             <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.
                             </p>
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -402,6 +404,8 @@
                             <p>Humantroop Ventures helps clients ensure compliance with legal regulations such as labor
                                 law.
                             </p>
+                            <br>
+                            <br>
                         </div>
                     </div>
                 </div>
@@ -555,7 +559,7 @@
                         <h2 class="title">Dedicated Lead HR
                             Consultant</h2>
                         <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p><br><br>
-
+                        <br>
                     </div>
                 </div>
             </div>

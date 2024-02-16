@@ -74,7 +74,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 order-0 order-lg-2">
                         <div class="about__img-wrap-seven">
-                            <img src="assets/img/images/inner04_about_img.jpg" alt="">
+                            <img src="assets/img/images/our services - Training - Features of Humantroop Ventures Training Program.png" alt="">
                           
                             <div class="shape">
                                 <img src="assets/img/images/h5_about_shape.png" alt="" class="ribbonRotate">

@@ -31,9 +31,10 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/services/biotechnology-specialist-laboratory-conducting-experiments.jpg" alt="">
+                    <img src="assets/img/images/industries - Healthcare & Wellness.png"
+                        alt="">
                     <div class="about__award-box">
-                      
+
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -45,8 +46,13 @@
                     <div class="section-title mb-25">
                     </div>
                     <h2 class="title">Healthcare HR Support & Healthcare HR Consultancy Service</h2>
-                    <p>Healthcare HR can be a challenging department due to the heavy regulation in the sector. At Humantroop Ventures, we provide top-notch healthcare HR support that can take your team to the next level. Our healthcare HR consulting service will help you develop robust corporate HR policies to keep your workforce running smoothly.
-Workers in the healthcare industry face many specific challenges, and most of them can be addressed with great policy and proper documentation. Contact us today to learn more about our healthcare HR consulting programs.</p>
+                    <p>Healthcare HR can be a challenging department due to the heavy regulation in the sector. At
+                        Humantroop Ventures, we provide top-notch healthcare HR support that can take your team to the
+                        next level. Our healthcare HR consulting service will help you develop robust corporate HR
+                        policies to keep your workforce running smoothly.
+                        Workers in the healthcare industry face many specific challenges, and most of them can be
+                        addressed with great policy and proper documentation. Contact us today to learn more about our
+                        healthcare HR consulting programs.</p>
                     <div class="about__content-inner about__content-inner-two">
                     </div>
                     <div class="about__shape-wrap-three">

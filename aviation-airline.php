@@ -31,7 +31,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/services/2151022210.jpg" alt="">
+                    <img src="assets/img/images/industries - Aviation Airline.png" alt="">
                     <div class="about__award-box">
                     </div>
                     <div class="shape">
@@ -44,8 +44,17 @@
                     <div class="section-title mb-30">
                     </div>
                     <p>
-                        Human Resource Management (HRM) is considered an integral part of business operations and hence the need for management to design a structured HRM program. As this aviation industry provides a pleasant and convenient mode of transportation to its clients, its workforce is crucial. Although the workforce of the airline industry faces various challenges due to economic fluctuations, it is the presence of a strong union framework in the airline segment that prevents employees from being exploited by the airlines and their management.</p>
-<p>HRM examines the system's strengths and weaknesses to determine the competitive landscape of the airline industry. Aviation is extremely competitive but safe and responsive and has a high technology service industry. It plays the role of strategy, mutually supporting culture change, new generation of leadership talent and change of strategic business partners and leads to positive change.</p>
+                        Human Resource Management (HRM) is considered an integral part of business operations and hence
+                        the need for management to design a structured HRM program. As this aviation industry provides a
+                        pleasant and convenient mode of transportation to its clients, its workforce is crucial.
+                        Although the workforce of the airline industry faces various challenges due to economic
+                        fluctuations, it is the presence of a strong union framework in the airline segment that
+                        prevents employees from being exploited by the airlines and their management.</p>
+                    <p>HRM examines the system's strengths and weaknesses to determine the competitive landscape of the
+                        airline industry. Aviation is extremely competitive but safe and responsive and has a high
+                        technology service industry. It plays the role of strategy, mutually supporting culture change,
+                        new generation of leadership talent and change of strategic business partners and leads to
+                        positive change.</p>
                 </div>
             </div>
         </div>

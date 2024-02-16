@@ -69,8 +69,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 order-0 order-lg-2">
                 <div class="choose-img-wrap">
-                    <img src="assets/img/images/female-professional-explaining-document-details-client-workplace-serious-business-leader-consulting-financial-legal-expert-teamwork-cooperation-concept_74855-14235.avif"
-                        alt="">
+                    <img src="assets/img/images/our services -Compliance -Statutory Compliance.png" alt="">
 
                     <img src="assets/img/images/choose_img_shape.png" alt="" class="alltuchtopdown">
                 </div>
@@ -109,9 +108,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9">
                 <div class="choose__img-wrap-five">
-
                     <img src="assets/img/images/our services - Compliance - Labour Law Compliance.png">
-
                 </div>
             </div>
             <div class="col-lg-6">

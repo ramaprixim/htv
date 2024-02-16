@@ -35,20 +35,8 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
-                        <div class="about__img-wrap-four">
-                            <img src="assets/img/services/full-shot-travel-concept-with-landmarks.jpg" alt="">
-                            <img src="assets/img/services/traveling-concept-with-landmarks.jpg" alt="">
-                            <div class="about__award-box">
-                                <div class="icon">
-                                    <i class="flaticon-happy"></i>
-                                </div>
-                                <div class="content">
-                                    <p>Happiness Is <br> Travelling</p>
-                                </div>
-                            </div>
-                            <div class="shape">
-                                <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
-                            </div>
+                        <div class="choose__img-wrap-five">
+                            <img src="assets/img/images/industries - Tours And Travels.png">
                         </div>
                     </div>
                     <div class="col-lg-6">
