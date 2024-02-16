@@ -131,7 +131,7 @@
                         <div class="col-lg-6">
                             <div class="slider__content">
                                 <h2 class="title">Humantroop Ventures fluent in finding leaders</h2>
-                                <a class="btn" href="contact.php">Contact Us</a>
+                                <a class="btn" href="contact-us.php">Contact Us</a>
 
 
                             </div>
@@ -161,7 +161,7 @@
                                 <img src="assets/img/icon/NHRDN logo.png" alt="">
 
 
-                                <a class="btn mx-2" href="contact.php">Contact Us</a>
+                                <a class="btn mx-2" href="contact-us.php">Contact Us</a>
                             </div>
                         </div>
                     </div>

@@ -96,7 +96,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <a href="contact.php" type="submit" class="btn btn-dark">Register Here</a>
+                <a href="candidate-registration.php" type="submit" class="btn btn-dark">Register Here</a>
             </div>
         </div>
 </section>
