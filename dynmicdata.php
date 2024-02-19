@@ -1,7 +1,7 @@
 <?php
 $menuactive = basename($_SERVER['PHP_SELF']);
 switch ($menuactive) {
-    
+
     case 'index.php':
         $title = "Top HR Consultant in Navi Mumbai | HR Company - Humantroop";
         $description = "Humantroop HR is one of the Top HR Company in Mumbai providing effiecient hiring solutions and recruitment services for various industries.Contact Now";
@@ -223,8 +223,8 @@ switch ($menuactive) {
         $title = "Human Resource Solutions for Import & Export | HR Import & Export";
         $description = "We are leading Human Resource Solutions for Import & Export. Our team of HR professionals can help you develop and implement strategies for recruitment, training, etc...";
         $keywords = "HR Export, Exports HR Services, Human Resource Export Services HR Services, HR Import, Import and Export Management, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRM, HR Solutions, HR Recruitment Solution, Recruitment Process Outsourcing, Import and Export Industry, Import Industry, Import Sector, Human Resources";
-        $name="Export/ Import";
-        $alternateName="Export/ Import";
+        $name="Export Import";
+        $alternateName="Export Import";
         $url="https://humantroop.in/export-import.php";
         break;
 
@@ -232,8 +232,8 @@ switch ($menuactive) {
         $title = "Best HR Services For Power & Renewable Energy Sector | Human Resources";
         $description = "Are you in the Power and Renewable Energy Sector? Get the Best Human Resources Services to help you Build a Successful business. For More details Contact us today...";
         $keywords = "HR Services For Power & Renewable, HR Services Power & Renewable, Renewable Energy Industries, Renewable Energy Companies, Renewable Energy Consultant, Renewable Energy, Renewable, The Renewable Energy Company, Renewable Power, Human Resource Services, HR Solutions, Human Resource Development, Human Resource Management, HRM, HRM Services";
-        $name="Power & Renewable Energy";
-        $alternateName="Power & Renewable Energy";
+        $name="Power and Renewable";
+        $alternateName="Power and Renewable";
         $url="https://humantroop.in/power-renewable-energy.php";
         break;
 
@@ -241,8 +241,8 @@ switch ($menuactive) {
         $title = "Aviation Human Resource Services | Airlines Human Resource Solutions";
         $description = "Humantroop Ventures Provides Comprehensive Human Resource Solutions to the Airline Industry, Helping Businesses Streamline Operations, & Increase Efficiency, contact us.";
         $keywords = "HR Aviation Industry, Human Resource Management In Airline Industry, HR In Airline Industry, Aviation Industry, Aviation Sector, Human Resources In The Aviation Industry, Airlines HR, Aviation HR, Human Resources In Aviation, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HR Support Services,Hrms Airline Industry, Aviation Industry Sectors, Human Resources, HRM Program";
-        $name="Aviation & Airline";
-        $alternateName="Aviation & Airline";
+        $name="Aviation Airline";
+        $alternateName="Aviation Airline";
         $url="https://humantroop.in/aviation-airline.php";
         break;
 
@@ -250,8 +250,8 @@ switch ($menuactive) {
         $title = "Banking and Finance HR Solutions | Human Resource Management Support";
         $description = "Are you Looking for Comprehensive HR Solutions for Banking and Finance? Our Team of HRM experts is here to provide you with the support you need. Contact us today...";
         $keywords = "Human Resources In Banking, Banking HR, Banking And Finance, Bank Financial, Human Resource Management In Banking, HR In Finance Industry, HRM In Banking Sector, HR In Banking Sector, HR Financial Services, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRMS, Finance For Banking";
-        $name="Banking & Finance";
-        $alternateName="Banking & Finance";
+        $name="Banking Finance";
+        $alternateName="Banking Finance";
         $url="https://humantroop.in/banking-finance.php";
         break;
 
@@ -259,8 +259,8 @@ switch ($menuactive) {
         $title = "Human Resource KPO Services | HR BPO Solutions | HR BPO Services";
         $description = "We Provide Comprehensive HR BPO Solutions and HR BPO Services to help you Increase Efficiency, Improve Decision-Making, and ensure Compliance with Industry Standards...";
         $keywords = "HR BPO Services, BPO Human Resources, HR Business Process Outsourcing, Human Resources Business Process Outsourcing, HR Process Outsourcing Services, HR Outsourcing Services For KPO, HR Outsourcing Services, HR KPO, HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HRMS, Outsourcing BPO And KPO, BPO Call Center, BPO KPO Services, BPO Business Process";
-        $name="BPO/ KPO";
-        $alternateName="BPO/ KPO";
+        $name="BPO KPO";
+        $alternateName="BPO KPO";
         $url="https://humantroop.in/bpo-kpo.php";
         break;
 
@@ -277,8 +277,8 @@ switch ($menuactive) {
         $title = "Human Resource Solutions for Event Management | HR Events Services";
         $description = "We offer Comprehensive HR Services & Strategies to ensure that your Event is successful and your staff is managed Efficiently. For more information contact us today...";
         $keywords = "Human Resources In Event Management, HR Event Management Services, HR Event Management, Event Management Services, HR Event Management Companies , HR Outsourcing Services, HR Outsourcing, Human Resource Development , Human Resource Management, HR Event Services, HRMS, HR Support Services, HR Solution, Event Management Services, Event Management Industry";
-        $name="Events Management";
-        $alternateName="Events Management";
+        $name="Event Management";
+        $alternateName="Event Management";
         $url="https://humantroop.in/events-management.php";
         break;
 
@@ -322,9 +322,9 @@ switch ($menuactive) {
         $title = "Search Jobs Online | Candidate Registration | Careers Placements";
         $description = "Making an application If you wish to apply to register with HumanTroop, please complete our online form below and upload your CV.  For more information contact us today.";
         $keywords = "Candidates Registration, Candidate Info, Best Human Resources Consultant In Mumbai, Best Recruitment Agency In Navi Mumbai, HR Consultants In Mumbai, HR Consultancy In Mumbai, Human Resource Consultancy Services, Consulting, Hire, Top HR Company In Mumbai, Top HR Consultant In Navi Mumbai, Hr Company, HR Services, HR Consultant, HR Solutions, Human Resource Services, HR Solutions, HRM, HR Outsourcing Services, HR Outsourcing, Candidate Contact Information, Online Registration";
-        $name="Contact Us";
-        $alternateName="Contact Us";
-        $url="https://humantroop.in/contact.php";
+        $name="Candidate Registration";
+        $alternateName="Candidate Registration";
+        $url="https://humantroop.in/candidate-registration.php";
         break;
 
     default:
