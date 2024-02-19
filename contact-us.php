@@ -123,7 +123,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4">
-                        <button type="submit" class="btn btn-dark">Register Here</button>
+                    <a href="candidate-registration.php" type="submit" class="btn btn-dark">Register Here</a>
                     </div>
                 </div>
         </section>

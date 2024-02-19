@@ -59,6 +59,17 @@
             justify-content:left;
             border-radius:0px;
         }  
+        .footer-nav {
+    display: grid;
+    justify-content: left;
+    list-style: none;
+    text-align: left;
+}
+.footer-nav2{
+    text-align:center;
+    padding-top: 20px;
+
+}
 }
 
 </style>
@@ -197,7 +208,7 @@
                         </div>
                         </div>
                         <div class="col-lg-7">
-                            <div class="footer-nav">
+                            <div class="footer-nav footer-nav2">
                                 <p>© Copyright 2022-2023 by <a href="index.html">HumanTroop Ventures | All Rights
                                     Reserved.</a></p>
                             </div>
