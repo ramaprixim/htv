@@ -248,27 +248,28 @@
     }
 </script>
 <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Organization",
-          "name": "<?php echo $name ?>",
-          "alternateName": "<?php echo $alternateName ?>",
-          "url": "<?php echo $url ?>",
-          "logo": "https://humantroop.in/assets/images/logo.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+919137655589",
-        "contactType": "customer service",
-        "availableLanguage": "en"
-          },
-          "sameAs": [
-            "https://twitter.com/humantroop_v",
-            "https://www.instagram.com/humantroop_v/",
-            "https://www.linkedin.com/company/humantroop/",
-            "https://www.facebook.com/Humantroop"
-          ]
-        }
-        </script>
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "<?php echo $name ?>",
+"alternateName": "<?php echo $alternateName ?>",
+    "url": "<?php echo $url ?>",
+  "logo": "https://humantroop.in/assets/img/logo/1%20humantroop%20iso%20black.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+919137655589",
+    "contactType": "customer service",
+    "areaServed": "IN",
+    "availableLanguage": "en"
+  },
+  "sameAs": [
+    "https://www.facebook.com/Humantroop/",
+    "https://twitter.com/humantroop_v",
+    "https://www.instagram.com/humantroop_v/",
+    "https://in.linkedin.com/company/humantroop"
+  ]
+}
+</script>
 </body>
 
 </html>
