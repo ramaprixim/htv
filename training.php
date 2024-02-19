@@ -32,7 +32,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="about__img-wrap-four">
-                              <img src="assets/img/images/our services - Training -Training Services.png" alt="">
+                              <img src="assets/img/images/our services - Training -Training Services.png" alt="training services">
                           
                             <div class="shape">
                                 <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">
@@ -74,7 +74,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 order-0 order-lg-2">
                         <div class="about__img-wrap-seven">
-                            <img src="assets/img/images/our services - Training - Features of Humantroop Ventures Training Program.png" alt="">
+                            <img src="assets/img/images/our services - Training - Features of Humantroop Ventures Training Program.png" alt="features of humantroop ventures training program">
                           
                             <div class="shape">
                                 <img src="assets/img/images/h5_about_shape.png" alt="" class="ribbonRotate">

@@ -4,7 +4,7 @@
         height: 400px;
     }
 </style>
-        <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
+        <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg" >
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -36,7 +36,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="choose__img-wrap-five">
-                            <img src="assets/img/images/industries - Tours And Travels.png">
+                            <img src="assets/img/images/industries - Tours And Travels.png" alt="travel & tourism">
                         </div>
                     </div>
                     <div class="col-lg-6">

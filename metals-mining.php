@@ -77,7 +77,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="metals-mining.php"><img
-                                    src="assets/img/services/coal-moving-along.jpg" alt=""></a>
+                                    src="assets/img/services/coal-moving-along.jpg" alt="metals & mining industries"></a>
                         </div>
                         <div class="services-content">
                             <h4 class="title">Metals & Mining Industries</h4>

@@ -150,7 +150,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/calculating_3898801.png">
+                            <img style="height:80px;" src="assets/img/images/calculating_3898801.png" alt="calculation">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -162,7 +162,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/link_4351698.png">
+                            <img style="height:80px;" src="assets/img/images/link_4351698.png" alt="uploading data">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -177,7 +177,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/exchange_2091926.png">
+                            <img style="height:80px;" src="assets/img/images/exchange_2091926.png" alt=" withdrawal forms">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -222,7 +222,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/projects_6213784.png">
+                            <img style="height:80px;" src="assets/img/images/projects_6213784.png" alt="regulatory management " >
                         </div>
                     </div>
                     <div class="services__content-five">

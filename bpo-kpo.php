@@ -35,7 +35,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="#"><img
-                                    src="assets/img/services/sales-assistant-being-employed.jpg" alt=""></a>
+                                    src="assets/img/services/sales-assistant-being-employed.jpg" alt="bpo"></a>
                         </div>
                         <div class="services-content">
                             <p>BPO stands for Business Process Outsourcing, which is generally the outsourcing of
@@ -49,7 +49,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="#"><img
-                                    src="assets/img/services/confident-call.jpg" alt=""></a>
+                                    src="assets/img/services/confident-call.jpg" alt="bpo"></a>
                         </div>
                         <div class="services-content">
                             <p>BPO organizations are growing rapidly. With the increase in business, human resources are
@@ -65,7 +65,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="#"><img
-                                    src="assets/img/services/colleagues-working.jpg" alt=""></a>
+                                    src="assets/img/services/colleagues-working.jpg" alt="humantroop ventures "></a>
                         </div>
                         <div class="services-content">
                             <p>Humantroop Ventures provides clients with the best human capital after a strategic
@@ -79,7 +79,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="#"><img
-                                    src="assets/img/services/manager-luxury-wear.jpg" alt=""></a>
+                                    src="assets/img/services/manager-luxury-wear.jpg" alt="knowledge process"></a>
                         </div>
                         <div class="services-content">
                             <p>Knowledge process outsourcing organizations provide essential information related to the
@@ -93,7 +93,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href="#">
-                                <img src="assets/img/services/operator-answering-client.jpg" alt=""></a>
+                                <img src="assets/img/services/operator-answering-client.jpg" alt="the ites"></a>
                         </div>
                         <div class="services-content">
 

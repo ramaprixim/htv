@@ -122,7 +122,7 @@
                     <div class="col-xl-3 col-lg-4 col-md-6">
                         <div class="footer-widget">
                             <div class="fw-logo mb-25">
-                                <a href="index.html"><img src="assets/img/logo/1 humantroop iso black.png" alt=""></a>
+                                <a href="index.html"><img src="assets/img/logo/1 humantroop iso black.png" alt="humantroop ventures"></a>
                             </div>
                             <div class="footer-content">
                                 <p>Humantroop Ventures is a leading HR consulting firm focused on team building and

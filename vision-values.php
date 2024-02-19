@@ -31,7 +31,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-8">
                 <div class="about__img-wrap-three">
-                <img src="assets/img/images/who we are - vision and values - our vision.png">
+                <img src="assets/img/images/who we are - vision and values - our vision.png" alt="our vision">
                   
                     <div class="shape">
                         <img src="assets/img/images/h3_about_img_shape.png" alt="" class="alltuchtopdown">
@@ -79,7 +79,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/integrity.png">
+                            <img style="height:80px;" src="assets/img/images/integrity.png" alt="our values">
                         </div>
                     </div>
                     <div class="services__content-two">
@@ -98,7 +98,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/responsibility.png">
+                            <img style="height:80px;" src="assets/img/images/responsibility.png" alt="responsibility">
                         </div>
                     </div>
                     <div class="services__content-two">
@@ -114,7 +114,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/excellence.png">
+                            <img style="height:80px;" src="assets/img/images/excellence.png" alt="passion for excellence">
                     </div>
                     </div>
                     <div class="services__content-two">
@@ -129,7 +129,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                        <img style="height:80px;" src="assets/img/images/business-finance.png">
+                        <img style="height:80px;" src="assets/img/images/business-finance.png" alt="empowerment">
                     </div>
                     </div>
                     <div class="services__content-two">
@@ -143,7 +143,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                        <img style="height:80px;" src="assets/img/images/teamwork_10523234.png">
+                        <img style="height:80px;" src="assets/img/images/teamwork_10523234.png" alt="collaboration">
                 </div>
                     </div>
                     <div class="services__content-two">
@@ -157,7 +157,7 @@
                 <div class="services__item-two">
                     <div class="services__icon-two">
                     <div class="imgg">
-                        <img style="height:80px;" src="assets/img/images/care_7653890.png">
+                        <img style="height:80px;" src="assets/img/images/care_7653890.png" alt="respect">
                 </div>
                     </div>
                     <div class="services__content-two">

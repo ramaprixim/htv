@@ -33,7 +33,7 @@
                     <div class="col-lg-6 col-md-8">
                         <div class="about-img-wrap">
                             <div class="mask-img-wrap">
-                                <img src="assets/img/images/our services - Outsourcing- HR outsourcing.png" alt="">
+                                <img src="assets/img/images/our services - Outsourcing- HR outsourcing.png" alt="hr outsourcing">
                             </div>
                            
                         </div>

@@ -158,7 +158,7 @@
                                     Network
                                     for HR Professionals</p>
 
-                                <img src="assets/img/icon/NHRDN logo.png" alt="">
+                                <img src="assets/img/icon/NHRDN logo.png" alt="members with NHRDN">
 
 
                                 <a class="btn mx-2" href="contact-us.php">Contact Us</a>

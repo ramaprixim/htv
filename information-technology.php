@@ -1,4 +1,4 @@
-<?php $page="information-technology"; include("includes/second-header.php"); ?>
+<?php $page="information-technology"; include("includes/second-header.php"); ?>Technology
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
         <div class="row">
