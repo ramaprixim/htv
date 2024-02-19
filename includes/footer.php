@@ -152,7 +152,7 @@
                                 </ul>
                             </div>
                             <br>
-                            <h4 class="fw-title"><a href="current-openings.php">Current Openings</a></h4>
+                            <h4 class="fw-title"><a href="live-jobs.php">Live Jobs</a></h4>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">

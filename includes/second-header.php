@@ -40,8 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="preload" href="assets/css/odometer.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="assets/css/odometer.css"></noscript>
 
-<link rel="preload" href="assets/css/swiper-bundle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="assets/css/swiper-bundle.css"></noscript>
+<link rel="stylesheet" href="assets/css/swiper-bundle.css">
 
 <link rel="preload" href="assets/css/aos.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="assets/css/aos.css"></noscript>
@@ -51,8 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link rel="preload" href="assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="assets/css/main.css"></noscript>
-<link rel="preload" href="css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="css/font-awesome.min.css"></noscript>
+<link rel="stylesheet" href="assets/css/main.css">
 
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -254,7 +252,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </ul>
                                         </li>
                                         </li>
-                                        <li class="<?php if($page=='current-openings') {echo 'active';} ?>"><a href="current-openings.php">Live Jobs</a>
+                                        <li class="<?php if($page=='live-jobs') {echo 'active';} ?>"><a href="live-jobs.php">Live Jobs</a>
                                            
                                         </li>
                                         <li class=""><a href="https://humantroop.in/blogs">Blogs</a>

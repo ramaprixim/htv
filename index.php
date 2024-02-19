@@ -558,8 +558,9 @@
                         <br>
                         <h2 class="title">Dedicated Lead HR
                             Consultant</h2>
-                        <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p><br><br>
-                        <br>
+                        <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.
+                            
+                        </p>
                     </div>
                 </div>
             </div>
@@ -587,7 +588,7 @@
                         <br>
                         <h2 class="title">Value-Based Services</h2>
                         <p>With the help of our values human resources services, empower your staff and establish a culture of honesty, growth, and teamwork for a successful future.
-                        </p><br><br>
+                        </p>
                     </div>
                 </div>
             </div>

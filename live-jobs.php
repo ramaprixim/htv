@@ -1,14 +1,14 @@
-<?php $page="current-openings"; include("includes/second-header.php"); ?>
+<?php $page="live-jobs"; include("includes/second-header.php"); ?>
 <section class="breadcrumb__area breadcrumb__bg" data-background="assets/img/bg/breadcrumb_bg.jpg">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="breadcrumb__content">
-                    <h2 class="title">Current Opening</h2>
+                    <h2 class="title">Live Jobs</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href='/'>Home</a></li>
-                            <li class="breadcrumb-item" aria-current="page"><a href='/'>Current Opening</a></li>
+                            <li class="breadcrumb-item" aria-current="page">Live Jobs</li>
                         </ol>
                     </nav>
                 </div>

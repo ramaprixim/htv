@@ -4,12 +4,14 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="breadcrumb__content">
-                    <h2 class="title">Our Approch</h2>
+                    <h2 class="title">Our approach
+</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href='/'>Home</a></li>
                             <li class="breadcrumb-item" aria-current="page"><a href='/'>About Us</a></li>
-                            <li class="breadcrumb-item" aria-current="page">Our Approch</li>
+                            <li class="breadcrumb-item" aria-current="page">Our approach
+</li>
                         </ol>
                     </nav>
                 </div>
@@ -30,7 +32,8 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9">
                 <div class="choose__img-wrap-five">
-                    <img src = "assets/img/images/who we are - Our Approch - our approach.png">
+                    <img src = "assets/img/images/who we are - Our approach
+ - our approach.png">
                   
                     <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown">
                 </div>
@@ -39,7 +42,8 @@
                 <div class="choose__content-five">
                     <div class="section-title mb-30 mt-30  tg-heading-subheading animation-style3">
 
-                        <h1>Our Approch</h1>
+                        <h1>Our approach
+</h1>
                     </div>
                     <p>Humantroop Ventures is the leading Manpower Company in Navi Mumbai, providing highly-skilled
                         personnel to businesses and organizations across the region. Our team of dedicated professionals
