@@ -1,6 +1,7 @@
 <?php
 $menuactive = basename($_SERVER['PHP_SELF']);
 switch ($menuactive) {
+    
     case 'index.php':
         $title = "Top HR Consultant in Navi Mumbai | HR Company - Humantroop";
         $description = "Humantroop HR is one of the Top HR Company in Mumbai providing effiecient hiring solutions and recruitment services for various industries.Contact Now";
@@ -83,23 +84,23 @@ switch ($menuactive) {
         $url="https://humantroop.in/outsourcing.php";
         break;
 
-        case 'bgv-screening.php':
-            $title ="Background Verification & Screening Company | BGV Screening Services";
-            $description ="Keep your Employees safe with BGV Screening Services background screening services. Our background verification services are reliable and accurate, Contact us today.";
-            $keywords ="Background Verification, Background Screening, Employment Screening, Employee Background Verification, BGV Verification, Background Verification Check, Background Verification Services, Background Checking For Employment, Employment Screening Services, Background Check Services, Employment Verification Background Check, Employee Background Check Services, Screening Services, Employment Verification Check, Employment Background Screening, Background Screening Services, Verification Services, BGV Background Verification, Background Check And Screening, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services";
-            $name="BGV Screening";
-            $alternateName="BGV Screening";
-            $url="https://humantroop.in/bgv-screening.php";
-            break;
+    case 'bgv-screening.php':
+        $title ="Background Verification & Screening Company | BGV Screening Services";
+        $description ="Keep your Employees safe with BGV Screening Services background screening services. Our background verification services are reliable and accurate, Contact us today.";
+        $keywords ="Background Verification, Background Screening, Employment Screening, Employee Background Verification, BGV Verification, Background Verification Check, Background Verification Services, Background Checking For Employment, Employment Screening Services, Background Check Services, Employment Verification Background Check, Employee Background Check Services, Screening Services, Employment Verification Check, Employment Background Screening, Background Screening Services, Verification Services, BGV Background Verification, Background Check And Screening, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services";
+        $name="BGV Screening";
+        $alternateName="BGV Screening";
+        $url="https://humantroop.in/bgv-screening.php";
+        break;
 
-        case 'posh-traning.php':
-            $title ="Posh Training for Employees | Posh Consultants in Navi Mumbai";
-            $description ="Humantroop Ventures offer the Best Posh Consulting Services, This will help your Employees reach their highest potential while promoting a positive work environment.";
-            $keywords ="Posh Compliance, Harassment Prevention, Posh At Workplace, Harassment Training, Workplace Harassment Training, Harassment Prevention Training, Harassment Training For Employees, Posh Training India, Prevention Training, Posh Compliance India, Workplace Under Posh Act, Workplace Harassment Course, Posh Workplace, Posh Act Compliance, Compliance Under Posh Act, Harassment Awareness Training, Harassment Compliance Training, Harassment Prevention Training For Employees, HR Industries, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services";
-            $name="POSH Training";
-            $alternateName="POSH Training";
-            $url="https://humantroop.in/posh-traning.php";
-            break;
+    case 'posh-traning.php':
+        $title ="Posh Training for Employees | Posh Consultants in Navi Mumbai";
+        $description ="Humantroop Ventures offer the Best Posh Consulting Services, This will help your Employees reach their highest potential while promoting a positive work environment.";
+        $keywords ="Posh Compliance, Harassment Prevention, Posh At Workplace, Harassment Training, Workplace Harassment Training, Harassment Prevention Training, Harassment Training For Employees, Posh Training India, Prevention Training, Posh Compliance India, Workplace Under Posh Act, Workplace Harassment Course, Posh Workplace, Posh Act Compliance, Compliance Under Posh Act, Harassment Awareness Training, Harassment Compliance Training, Harassment Prevention Training For Employees, HR Industries, Human Resource Management, HR Outsourcing, HR Solutions, HR Outsourcing Services";
+        $name="POSH Training";
+        $alternateName="POSH Training";
+        $url="https://humantroop.in/posh-traning.php";
+        break;
 
     case 'automotive.php':
         $title = "Reliable Automotive HR Consulting Service | Automotive HR Support";
@@ -129,22 +130,22 @@ switch ($menuactive) {
         break;
 
     case 'telecommunications.php':
-            $title = "Reliable HR Services in Telecommunication | Telecom HR Solutions";
-            $description = "Our HR solutions for telecommunication companies provide comprehensive and tailored support to meet the specific needs of your industry. With our specialized expertise.";
-            $keywords = "Telecom HR, Telecom HR Solutions, Human Resources, Hrm, Recruitment, HR Recruitment, Telecom Recruitment, Human Resource Management, Human Resource Planning, Human Resource Development, HR Outsourcing Services, Staffing, HR Management, HR Agencies In Mumbai, Human Resource Recruitment, HR Industries, Telecom Industry, Telecom Sector In HRM, Telecom Sector In Human Resource Management, HR Outsourcing, HR Solutions,";
-            $name="Telecommunications";
-            $alternateName="Telecommunications";
-            $url="https://humantroop.in/telecommunications.php";
-            break;
+        $title = "Reliable HR Services in Telecommunication | Telecom HR Solutions";
+        $description = "Our HR solutions for telecommunication companies provide comprehensive and tailored support to meet the specific needs of your industry. With our specialized expertise.";
+        $keywords = "Telecom HR, Telecom HR Solutions, Human Resources, Hrm, Recruitment, HR Recruitment, Telecom Recruitment, Human Resource Management, Human Resource Planning, Human Resource Development, HR Outsourcing Services, Staffing, HR Management, HR Agencies In Mumbai, Human Resource Recruitment, HR Industries, Telecom Industry, Telecom Sector In HRM, Telecom Sector In Human Resource Management, HR Outsourcing, HR Solutions,";
+        $name="Telecommunications";
+        $alternateName="Telecommunications";
+        $url="https://humantroop.in/telecommunications.php";
+        break;
 
     case 'tours-travels.php':
-                $title = "HR Support for Travel & Tourism | HR Consultancy for Tourism & Travel";
-                $description ="First Class HR Support for the Travel & Tourism Sector! Specialist Consultancy for Human Resources in Tourism Industry. Admin Assistance & Legal Advice.Contact us today.";
-                $keywords = "Travel Tours, Travel Agency Travel Agency, Tours &Travels, Human Resource Planning, Human Resource Management, Human Resources, Human Resources In Tourism Industry, HRM In Tourism, Human Resources Tourism, Tourism HRM, Hospitality In Tourism, Human Resource Management In Tourism, Human Resources In Tourism Industry, HRM  In Tourism, HR In Tourism Industry, HRM In Tourism Industry, Human Resource Management In Tourism Industry, Human Resource Management In Travel and Tourism, Tourism HRM";
-                $name="Tours And Travels";
-                $alternateName="Tours And Travels";
-                $url="https://humantroop.in/tours-travels.php";
-                break;
+        $title = "HR Support for Travel & Tourism | HR Consultancy for Tourism & Travel";
+        $description ="First Class HR Support for the Travel & Tourism Sector! Specialist Consultancy for Human Resources in Tourism Industry. Admin Assistance & Legal Advice.Contact us today.";
+        $keywords = "Travel Tours, Travel Agency Travel Agency, Tours &Travels, Human Resource Planning, Human Resource Management, Human Resources, Human Resources In Tourism Industry, HRM In Tourism, Human Resources Tourism, Tourism HRM, Hospitality In Tourism, Human Resource Management In Tourism, Human Resources In Tourism Industry, HRM  In Tourism, HR In Tourism Industry, HRM In Tourism Industry, Human Resource Management In Tourism Industry, Human Resource Management In Travel and Tourism, Tourism HRM";
+        $name="Tours And Travels";
+        $alternateName="Tours And Travels";
+        $url="https://humantroop.in/tours-travels.php";
+        break;
 
     case 'life-science-pharmaceuticals.php':
         $title = "HR Services for Life Sciences & Pharmaceuticals | Outsourced HR";
@@ -317,14 +318,14 @@ switch ($menuactive) {
         $url="https://humantroop.in/contact.php";
         break;
 
-        case 'candidate-registration.php':
-            $title = "Search Jobs Online | Candidate Registration | Careers Placements";
-            $description = "Making an application If you wish to apply to register with HumanTroop, please complete our online form below and upload your CV.  For more information contact us today.";
-            $keywords = "Candidates Registration, Candidate Info, Best Human Resources Consultant In Mumbai, Best Recruitment Agency In Navi Mumbai, HR Consultants In Mumbai, HR Consultancy In Mumbai, Human Resource Consultancy Services, Consulting, Hire, Top HR Company In Mumbai, Top HR Consultant In Navi Mumbai, Hr Company, HR Services, HR Consultant, HR Solutions, Human Resource Services, HR Solutions, HRM, HR Outsourcing Services, HR Outsourcing, Candidate Contact Information, Online Registration";
-            $name="Contact Us";
-            $alternateName="Contact Us";
-            $url="https://humantroop.in/contact.php";
-            break;
+    case 'candidate-registration.php':
+        $title = "Search Jobs Online | Candidate Registration | Careers Placements";
+        $description = "Making an application If you wish to apply to register with HumanTroop, please complete our online form below and upload your CV.  For more information contact us today.";
+        $keywords = "Candidates Registration, Candidate Info, Best Human Resources Consultant In Mumbai, Best Recruitment Agency In Navi Mumbai, HR Consultants In Mumbai, HR Consultancy In Mumbai, Human Resource Consultancy Services, Consulting, Hire, Top HR Company In Mumbai, Top HR Consultant In Navi Mumbai, Hr Company, HR Services, HR Consultant, HR Solutions, Human Resource Services, HR Solutions, HRM, HR Outsourcing Services, HR Outsourcing, Candidate Contact Information, Online Registration";
+        $name="Contact Us";
+        $alternateName="Contact Us";
+        $url="https://humantroop.in/contact.php";
+        break;
 
     default:
         $title = "Title Here";
