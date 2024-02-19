@@ -220,7 +220,7 @@
                 <a href="staffing.php">
                     <div class="blog__post-four shine-animate-item">
                         <div class="blog__post-thumb-four">
-                            <img src="assets/img/blog/h5_blog_post01.jpg" alt="">
+                            <img src="assets/img/blog/h5_blog_post01.webp" alt="">
                         </div>
                         <div class="blog__post-content-four">
                             <br>
@@ -234,7 +234,7 @@
                 <a href="payroll.php">
                     <div class="blog__post-four shine-animate-item">
                         <div class="blog__post-thumb-four">
-                            <img src="assets/img/blog/h5_blog_post02.jpg" alt="">
+                            <img src="assets/img/blog/h5_blog_post02.webp" alt="">
                         </div>
                         <div class="blog__post-content-four">
                             <br>
@@ -248,7 +248,7 @@
                 <a href="posh-traning.php">
                     <div class="blog__post-four shine-animate-item">
                         <div class="blog__post-thumb-four">
-                            <img src="assets/img/services/services_img08.jpg" alt="">
+                            <img src="assets/img/services/services_img08.webp" alt="">
                         </div>
                         <div class="blog__post-content-four">
                             <br>
@@ -381,7 +381,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="" class="shine-animate"><img src="assets/img/services/services_img02.jpg"
+                            <a href="" class="shine-animate"><img src="assets/img/services/services_img02.webp"
                                     alt=""></a>
                         </div>
                         <div class="services-content">
@@ -396,7 +396,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
-                            <a href="" class="shine-animate"><img src="assets/img/services/services_img03.jpg"
+                            <a href="" class="shine-animate"><img src="assets/img/services/services_img03.webp"
                                     alt=""></a>
                         </div>
                         <div class="services-content">
