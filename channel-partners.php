@@ -141,12 +141,12 @@
                             <div class="contact__form-wrap">
                                 <h2 class="title">Contact Us</h2>
                                 <br>
-                                <form action="assets/mail.php" method="POST">
+                                <form action="contact.php" method="POST">
                                     
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-grp">
-                                                <input type="text" name="full_name" placeholder="Full Name">
+                                                <input type="text" name="name" placeholder="Full Name">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -168,7 +168,7 @@
                                             <textarea name="message" placeholder="Message"></textarea>
                                         </div>
                                     </div>
-                                   
+                                   <br>
                                     <button type="submit" class="btn">Submit post</button>
                                 </form>
                                 <p class="ajax-response mb-0"></p>
