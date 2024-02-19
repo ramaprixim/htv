@@ -124,8 +124,8 @@
             <div class="swiper-slide slider__single swiper-slide-prev swiper-slide-duplicate-next"
                 data-swiper-slide-index="0" role="group" aria-label="2 / 4"
                 style="width: 1903px; opacity: 1; transform: translate3d(-1903px, 0px, 0px); transition-duration: 0ms;">
-                <div class="slider__bg" data-background="assets/img/images/executives.jpg"
-                    style="background-image: url(&quot;assets/img/images/executives.jpg&quot;);"></div>
+                <div class="slider__bg" data-background="assets/img/images/executives.webp"
+                    style="background-image: url(&quot;assets/img/images/executives.webp&quot;);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
@@ -292,7 +292,7 @@
             <div class="col-lg-6">
                 <div class="about-img-wrap">
                     <div class="mask-img-wrap">
-                        <img src="assets/img/images/1 humantroop 1.png" alt="">
+                        <img src="assets/img/images/1 humantroop 1.webp" alt="">
                     </div>
                     <div class="shape">
                         <img src="assets/img/images/about_shape01.png" alt="">
@@ -368,7 +368,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a href="" class="shine-animate"><img
-                                    src="assets/img/services/businessmen-hands-white-table-with-documents-drafts.jpg"
+                                    src="assets/img/services/businessmen-hands-white-table-with-documents-drafts.webp"
                                     alt=""></a>
                         </div>
                         <div class="services-content">
@@ -414,8 +414,8 @@
     </div>
 </section>
 <section class="choose__area-two" style="margin:0 0 0 ;">
-    <div class="choose__bg" data-background="assets/img/services/standard-quality-control-collage-concept.jpg"
-        style="background-image: url(&quot;assets/img/standard-quality-control-collage-concept.jpg&quot;);"></div>
+    <div class="choose__bg" data-background="assets/img/services/standard-quality-control-collage-concept.webp"
+        style="background-image: url(&quot;assets/img/standard-quality-control-collage-concept.webp&quot;);"></div>
     <div class="container">
         <div class="row justify-content-end">
             <div class="col-lg-8 col-md-10">
