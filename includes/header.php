@@ -46,7 +46,7 @@
     <!--Preloader-end -->
 
     <!-- Scroll-top -->
-    <button class="scroll__top scroll-to-target" data-target="html">
+    <button class="scroll__top scroll-to-target">
         <i class="fas fa-angle-up"></i>
     </button>
     <!-- Scroll-top-end-->

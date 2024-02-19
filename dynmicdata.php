@@ -308,7 +308,7 @@ switch ($menuactive) {
         $url="https://humantroop.in/channel-partners.php";
         break;
 
-    case 'contact.php':
+    case 'contact-us.php':
         $title = "HR consultancy | Contact us | HR consultancy | Outsourcing services";
         $description = "We'd love to help you with all your Outsourcing needs. Fill out the form or call Contact Us and we will get in touch with you soon. For more details Get in touch with us.";
         $keywords = "Contact us,Top HR Company in Mumbai, Top HR Consultant in Navi Mumbai, hr company, hr services, hr consultant, hr solutions, hr payroll, hr consultancy services, hr consultancy services,hr consulting firms, human resources services, human resources consulting services, human resources company,hr consultancy near me, Manpower Company in Navi Mumbai, Staffing company in Navi Mumbai, HR Consultancy in Mumbai, HR Consultancy Firm in Mumbai, HR Consultancy Services Mumbai, best HR consultancy in Mumbai, best HR consultancy in India";
@@ -316,6 +316,15 @@ switch ($menuactive) {
         $alternateName="Contact Us";
         $url="https://humantroop.in/contact.php";
         break;
+
+        case 'candidate-registration.php':
+            $title = "Search Jobs Online | Candidate Registration | Careers Placements";
+            $description = "Making an application If you wish to apply to register with HumanTroop, please complete our online form below and upload your CV.  For more information contact us today.";
+            $keywords = "Candidates Registration, Candidate Info, Best Human Resources Consultant In Mumbai, Best Recruitment Agency In Navi Mumbai, HR Consultants In Mumbai, HR Consultancy In Mumbai, Human Resource Consultancy Services, Consulting, Hire, Top HR Company In Mumbai, Top HR Consultant In Navi Mumbai, Hr Company, HR Services, HR Consultant, HR Solutions, Human Resource Services, HR Solutions, HRM, HR Outsourcing Services, HR Outsourcing, Candidate Contact Information, Online Registration";
+            $name="Contact Us";
+            $alternateName="Contact Us";
+            $url="https://humantroop.in/contact.php";
+            break;
 
     default:
         $title = "Title Here";

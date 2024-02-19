@@ -14,16 +14,37 @@
     <!-- CSS here -->
     <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/odometer.css">
-    <link rel="stylesheet" href="assets/css/swiper-bundle.css">
-    <link rel="stylesheet" href="assets/css/aos.css">
-    <link rel="stylesheet" href="assets/css/default.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="canonical" href="https://humantroop.in/" />
+    <script src="https://kit.fontawesome.com/d9355482a9.js" crossorigin="anonymous"></script>
+    <link rel="preload" href="assets/css/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/animate.min.css"></noscript>
+
+<link rel="preload" href="assets/css/magnific-popup.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/magnific-popup.css"></noscript>
+
+<link rel="preload" href="assets/css/fontawesome-all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/fontawesome-all.min.css"></noscript>
+
+<link rel="preload" href="assets/css/flaticon.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/flaticon.css"></noscript>
+
+<link rel="preload" href="assets/css/odometer.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/odometer.css"></noscript>
+
+<link rel="preload" href="assets/css/swiper-bundle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/swiper-bundle.css"></noscript>
+
+<link rel="preload" href="assets/css/aos.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/aos.css"></noscript>
+
+<link rel="preload" href="assets/css/default.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/default.css"></noscript>
+
+<link rel="preload" href="assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="assets/css/main.css"></noscript>
+<link rel="preload" href="css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="css/font-awesome.min.css"></noscript>
+
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,6 +73,15 @@
 }
 .offCanvas__info{
     padding: 10px 0px;
+}
+@media only screen and (min-width: 1300px) {
+    .tgmenu__navbar-wrap > ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0 0;
+    margin: 0 0 0 50px;
+}
 }
 </style>
 <body>
