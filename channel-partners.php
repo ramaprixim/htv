@@ -32,7 +32,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="channel-partners.php"><img src="assets/img/services/handshake-businessmen.jpg" alt=""></a>
+                                    <a class="shine-animate" href="channel-partners.php"><img src="assets/img/services/handshake-businessmen.jpg" alt="are you looking for candidates "></a>
                                 </div>
                                 <div class="services-content">
                                     <p>Are you looking for candidates who are most suitable for your organization? Humantroop Ventures is the Best Human Resources Consultant in Mumbai. As a recruiter, we source, select, and assess candidates in accordance with client specifications, and we strive hard to ensure the right candidate is hired for your organization. Partner with India's leading talent solutions provider to help top organizations hire the best talent. Let's make it happen, together</p>
@@ -77,7 +77,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/paperwork.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/paperwork.jpg" alt="paperwork"></a>
                                 </div>
                                 <div class="services-content">
                                     
@@ -91,7 +91,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/modern-equipped.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/modern-equipped.jpg" alt="sow"></a>
                                 </div>
                                 <div class="services-content">
                                    
@@ -104,7 +104,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/two-happy-partners.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/two-happy-partners.jpg" alt="client coordination"></a>
                                 </div>
                                 <div class="services-content">
                                    
@@ -117,7 +117,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/western-chinese.jpg" alt=""></a>
+                                    <a class="shine-animate" href="/services-details"><img src="assets/img/services/western-chinese.jpg" alt="transparency"></a>
                                 </div>
                                 <div class="services-content">
                                   

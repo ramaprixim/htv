@@ -38,7 +38,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-6 col-sm-8">
                             <div class="services-item shine-animate-item">
                                 <div class="services-thumb">
-                                    <a class="shine-animate" href="#"><img src="assets/img/services/port-de-barcelona-night.jpg" alt=""></a>
+                                    <a class="shine-animate" href="#"><img src="assets/img/services/port-de-barcelona-night.jpg" alt="shipping & logistics"></a>
                                 </div>
                                 <div class="services-content">
                                     <h4 class="title">Shipping & Logistics Industries</h4>

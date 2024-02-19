@@ -37,7 +37,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9 col-sm-10">
                 <div class="about__img-wrap-four">
-                    <img src="assets/img/images/our services - Staffing -  Staffing Services.png" alt=""
+                    <img src="assets/img/images/our services - Staffing -  Staffing Services.png" alt="staffing services"
                         class="alltuchtopdown">
 
                 </div>
@@ -82,7 +82,7 @@
                         <div class="services-thumb">
                           
                         <a class="shine-animate" href=""><img
-                                    src="assets/img/images/High-Volume Recruiting.jpg" alt=""></a>
+                                    src="assets/img/images/High-Volume Recruiting.jpg" alt="high-volume recruiting"></a>
                         </div>
                         <div class="services-content">
                           
@@ -99,7 +99,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href=""><img
-                                    src="assets/img/images/Niche Skilled Trades.jpg" alt=""></a>
+                                    src="assets/img/images/Niche Skilled Trades.jpg" alt="niche skilled trades"></a>
                         </div>
                         <div class="services-content">
                            
@@ -117,7 +117,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a class="shine-animate" href=""><img
-                                    src="assets/img/images/Network of Offices.jpg" alt=""></a>
+                                    src="assets/img/images/Network of Offices.jpg" alt="network of offices"></a>
                         </div>
                         <div class="services-content">
                             <h4>Network of Offices</h4>

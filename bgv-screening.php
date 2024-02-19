@@ -87,7 +87,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/immigration_3125913.png">
+                            <img style="height:80px;" src="assets/img/images/immigration_3125913.png" alt="employee verification">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -102,7 +102,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/selection_10930916.png">
+                            <img style="height:80px;" src="assets/img/images/selection_10930916.png" alt="domestic help screening">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -117,7 +117,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/working-home_12203972.png">
+                            <img style="height:80px;" src="assets/img/images/working-home_12203972.png" alt="tenant screening">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -133,7 +133,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/tuning_8847505.png">
+                            <img style="height:80px;" src="assets/img/images/tuning_8847505.png" alt="fraud control unit(fcu)">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -148,7 +148,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/guilty_7506417.png">
+                            <img style="height:80px;" src="assets/img/images/guilty_7506417.png" alt="candidate self verification">
                         </div>
                     </div>
                     <div class="services__content-five">

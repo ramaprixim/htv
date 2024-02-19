@@ -59,7 +59,7 @@
     <div id="preloader">
         <div id="loader" class="loader">
             <div class="loader-container">
-                <div class="loader-icon"><img src="assets/img/logo/preloader.png" alt="Preloader"></div>
+                <div class="loader-icon"><img src="assets/img/logo/preloader.png" alt="preloader"></div>
             </div>
         </div>
     </div>
@@ -108,7 +108,7 @@
                             <nav class="tgmenu__nav">
                                 <div class="logo">
                                     <a href="index.html"><img src="assets/img/logo/1 humantroop iso black.png"
-                                            alt="Logo"></a>
+                                            alt="logo"></a>
                                 </div>
                                 <div class="mobile-nav-toggler">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none">
@@ -229,7 +229,7 @@
                             <nav class="tgmobile__menu-box">
                                 <div class="close-btn"><i class="fas fa-times"></i></div>
                                 <div class="nav-logo">
-                                    <a href='/'><img src="assets/img/logo/1 humantroop iso black.png" alt="Logo"></a>
+                                    <a href='/'><img src="assets/img/logo/1 humantroop iso black.png" alt="logo"></a>
                                 </div>
                                 <div class="tgmobile__search">
                                     

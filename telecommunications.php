@@ -31,7 +31,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-9 col-sm-10">
                         <div class="about__img-wrap-four">
-                            <img src="assets/img/images/industries - Telecommunications.png" alt="">
+                            <img src="assets/img/images/industries - Telecommunications.png" alt="telecommunications industry">
 
                             <div class="shape">
                                 <img src="assets/img/images/inner_about_shape.jpg" alt="" class="alltuchtopdown">

@@ -44,7 +44,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a href="" class="shine-animate"><img
-                                    src="assets/img/images/DEDICATED PAYROLL SPECIALIST.jpg" alt=""></a>
+                                    src="assets/img/images/DEDICATED PAYROLL SPECIALIST.jpg" alt="payroll"></a>
                         </div>
                         <div class="services-content">
                           
@@ -59,7 +59,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a href="" class="shine-animate"><img
-                                    src="assets/img/images/TRANSPARENT PRICING.jpg" alt=""></a>
+                                    src="assets/img/images/TRANSPARENT PRICING.jpg" alt="transparent"></a>
                         </div>
                         <div class="services-content">
                             
@@ -75,7 +75,7 @@
                     <div class="services-item shine-animate-item">
                         <div class="services-thumb">
                             <a href="" class="shine-animate"><img
-                                    src="assets/img/images/247 SUPPORT.jpg" alt=""></a>
+                                    src="assets/img/images/247 SUPPORT.jpg" alt="24/7 support"></a>
                         </div>
                         <div class="services-content">
                            
@@ -111,8 +111,8 @@
             <div class="col-xl-4 col-lg-4 col-md-4">
                 <div class="services__item-five">
                     <div class="services__icon-five">
-                        <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/gear_7503351.png">
+                        <div class="img">
+                            <img style="height:80px;" src="assets/img/images/gear_7503351.png" alt="payroll">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -127,7 +127,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/briefcase_2898351.png">
+                            <img style="height:80px;" src="assets/img/images/briefcase_2898351.png" alt="payroll">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -141,7 +141,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/project-management_12057898.png">
+                            <img style="height:80px;" src="assets/img/images/project-management_12057898.png" alt="compliance management">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -156,7 +156,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/communication_11476709.png">
+                            <img style="height:80px;" src="assets/img/images/communication_11476709.png" alt="compensation consulting">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -171,7 +171,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/bill_2304741.png">
+                            <img style="height:80px;" src="assets/img/images/bill_2304741.png" alt="paperless services">
                         </div>
                     </div>
                     <div class="services__content-five">
@@ -186,7 +186,7 @@
                 <div class="services__item-five">
                     <div class="services__icon-five">
                         <div class="imgg">
-                            <img style="height:80px;" src="assets/img/images/cost_12768385.png">
+                            <img style="height:80px;" src="assets/img/images/cost_12768385.png" alt="internal audit for payroll">
                         </div>
                     </div>
                     <div class="services__content-five">
