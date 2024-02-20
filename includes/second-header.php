@@ -74,8 +74,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     width: 305px;
 }
 .sac{
-    background-color: #ec8b00 !important;
-    color: white !important;
+    background-color: #ffc100 !important;
+    color: #040000 !important;
     padding: 3px 12px !important;
     font-size: 16px !important;
     border-radius: 9px !important;
@@ -311,7 +311,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-12">
                         <div class="search__wrapper">
                             <div class="search__close">
-                                <button type="button" class="search-close-btn">
+                                <button type="button" class="search-close-btn" aria-label="Close search">
                                     <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path d="M17 1L1 17" stroke="currentColor" stroke-width="1.5"
@@ -407,7 +407,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   -webkit-transform: rotate(270deg);
 	-moz-transform: rotate(270deg);
 	-o-transform: rotate(270deg);
- 	background-color: rgb(236 139 0);
+ 	background-color: rgb(36 90 0);
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
   
@@ -421,11 +421,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	text-transform: none;
 	text-align: center;
   text-decoration: none;
-	color: #ebebeb;
+	color: #fff;
 }
 
 .floating-li:hover {
-	background-color: rgba(30, 45, 127, 1);
+	background-color: #f79d1c
 	color: #fff;
 }
 .offCanvas__info.active{

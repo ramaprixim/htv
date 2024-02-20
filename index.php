@@ -542,7 +542,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-title white-title mb-50">
-                    <span class="sub-title">Why Choose Us</span>
+                    <span class="sub-title text-white">Why Choose Us</span>
                     <h2 class="title">What Makes Our Company Different?</h2>
                 </div>
             </div>

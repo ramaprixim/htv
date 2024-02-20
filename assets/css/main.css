@@ -96,7 +96,7 @@ img,
 
 a,
 button {
-  color: var(--tg-theme-primary);
+  color: #232323;
   outline: none;
   text-decoration: none;
   transition: all 0.3s ease-out 0s;
@@ -408,7 +408,7 @@ textarea {
   background: var(--tg-theme-primary) none repeat scroll 0 0;
   border: medium none;
   border-radius: 10px;
-  color: var(--tg-color-white-default);
+  color: #14176c;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
@@ -889,7 +889,7 @@ textarea {
   font-size: 16px;
   border-radius: 4px;
   z-index: 5;
-  color: var(--tg-color-white-default);
+  color: #000e3f;
   text-align: center;
   cursor: pointer;
   background: var(--tg-theme-primary);
@@ -949,7 +949,7 @@ textarea {
   font-size: 15px;
   font-weight: 600;
   line-height: normal;
-  color: #d46900;
+  color: #000000;
   margin-bottom: 12px;
   
 }
@@ -1406,7 +1406,7 @@ textarea {
   text-transform: capitalize;
 }
 .tgmenu__navbar-wrap > ul > li .sub-menu > li:hover > a, .tgmenu__navbar-wrap > ul > li .sub-menu > li.active > a {
-  color: var(--tg-theme-primary);
+  color: #194500;
 }
 .tgmenu__navbar-wrap > ul > li .sub-menu > li:hover > a {
   transform: translateX(8px);
@@ -1417,7 +1417,7 @@ textarea {
   transform: scale(1);
 }
 .tgmenu__navbar-wrap > ul > li.active a, .tgmenu__navbar-wrap > ul > li:hover a {
-  color: var(--tg-theme-primary);
+  color: #194500;
 }
 .tgmenu__main-menu li.menu-item-has-children .dropdown-btn {
   display: none;
@@ -1431,10 +1431,10 @@ textarea {
   transition: all 0.3s ease-out 0s;
 }
 .tgmenu__main-menu li.menu-item-has-children > a:hover {
-  color: var(--tg-theme-primary);
+  color: #194500;
 }
 .tgmenu__main-menu li.menu-item-has-children:hover > a::after {
-  color: var(--tg-theme-primary);
+  color: #194500;
 }
 .tgmenu__main-menu li.menu-item-has-children.active > a::after {
   color: var(--tg-theme-primary);
@@ -2558,7 +2558,12 @@ textarea {
 }
 @media (max-width: 991.98px) {
   .slider__single {
-    min-height: 500px;
+    min-height: 740px;
+  }
+}
+@media (max-width: 300px) {
+  .slider__single {
+    min-height: 814px;
   }
 }
 .slider__single::before {
@@ -5785,7 +5790,7 @@ textarea {
 .choose__tab .nav-tabs .nav-item .nav-link {
   padding: 0 0 13px;
   background: transparent;
-  color: #9597C8;
+  color: #000000;
   border: none;
   font-size: 22px;
   font-weight: 600;
@@ -7324,7 +7329,7 @@ textarea {
 .consulting-content .content-left .title {
   font-size: 40px;
   margin-bottom: 5px;
-  color: var(--tg-color-white-default);
+  color: #0a0036;
   line-height: 1;
 }
 .consulting-content .content-left span {
@@ -7332,7 +7337,7 @@ textarea {
   font-weight: 500;
   display: block;
   line-height: 1.2;
-  color: var(--tg-color-white-default);
+  color: #0a0036;
   font-family: var(--tg-heading-font-family);
 }
 .consulting-content .content-right .title {
