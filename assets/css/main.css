@@ -115,7 +115,7 @@ a:focus,
 
 a:hover,
 button:hover {
-  color: var(--tg-theme-primary);
+  color: #f79d1c;
   text-decoration: none;
 }
 
@@ -1437,7 +1437,7 @@ textarea {
   color: #194500;
 }
 .tgmenu__main-menu li.menu-item-has-children.active > a::after {
-  color: var(--tg-theme-primary);
+  color: #194500;
 }
 @media (max-width: 991.98px) {
   .tgmenu__action {

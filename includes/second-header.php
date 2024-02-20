@@ -169,7 +169,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                     <ul class="navigation">
-                                        <li class="<?php if($page=='home') {echo 'active';} ?>"><a href="index.php">Home</a>
+                                        <li class="<?php if($page=='home') {echo 'active';} ?>">
+                                        <div><a href="index.php">Home</a></div>
+                                        
 
                                         </li>
                                         <li class="menu-item-has-children <?php 

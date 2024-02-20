@@ -32,8 +32,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-9">
                 <div class="choose__img-wrap-five">
-                    <img src = "assets/img/images/who we are - Our approach
- - our approach.png">
+                    <img src = "assets/img/images/who we are - Our Approch - our approach.png">
                   
                     <img src="assets/img/images/h5_choose_shape01.png" alt="" class="alltuchtopdown">
                 </div>
