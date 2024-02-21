@@ -27,7 +27,7 @@
 <!-- breadcrumb-area-end -->
 <!-- about-area -->
 <section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg"
-    style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #f7f7f7;">
+    style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #000B38;">
     <div class="container">
         <div class="services-item-wrap">
             <div class="row justify-content-center">

@@ -63,7 +63,7 @@
                 </div>
             </div>
         </section>
-        <section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #f7f7f7;">
+        <section class="services__area-five services__bg-five" data-background="assets/img/bg/inner_services_bg02.jpg" style="background-image: url(&quot;assets/img/bg/inner_services_bg02.jpg&quot;);background-color: #f6f6f6;">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
