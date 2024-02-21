@@ -7,8 +7,8 @@
                     <h2 class="title">Vision And Values</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href='/'>Home</a></li>
-                            <li class="breadcrumb-item" aria-current="page"><a href='/'>About Us</a></li>
+                            <li class="breadcrumb-item">Home</li>
+                            <li class="breadcrumb-item" aria-current="page">About Us</li>
                             <li class="breadcrumb-item active" aria-current="page">Vision And Values</li>
                         </ol>
                     </nav>
@@ -83,7 +83,7 @@
                         </div>
                     </div>
                     <div class="services__content-two">
-                        <h2 class="title"><a href="/services-details">Integrity</a></h2>
+                        <h2 class="title">Integrity</h2>
                         <p>We accept and adhere to the highest standards of personal and professional ethics, honesty
                             and trust.</p>
                             <br>
@@ -102,7 +102,7 @@
                         </div>
                     </div>
                     <div class="services__content-two">
-                        <h2 class="title"><a href="/services-details">Responsibility</a></h2>
+                        <h2 class="title">Responsibility</h2>
                         <p>We are responsible for fulfilling our commitments to our people, clients, partners and all
                             our stakeholders with a clear understanding of the urgency and responsibility that comes
                             with these commitments</p>
@@ -118,7 +118,7 @@
                     </div>
                     </div>
                     <div class="services__content-two">
-                        <h2 class="title"><a href="/services-details">Passion for Excellence</a></h2>
+                        <h2 class="title">Passion for Excellence</h2>
                         <p>We are committed to delivering superior services with integrity, trust and appreciation to
                             maintain our customer loyalty. We promise that we will deliver exceptional business results
                             while making a positive contribution to our client’s organization.</p>
@@ -133,7 +133,7 @@
                     </div>
                     </div>
                     <div class="services__content-two">
-                        <h2 class="title"><a href="/services-details">Empowerment</a></h2>
+                        <h2 class="title">Empowerment</h2>
                         <p>We are empowered to deliver operational excellence through innovation and leadership at all levels.</p>
                     <br>
                     </div>
@@ -147,7 +147,7 @@
                 </div>
                     </div>
                     <div class="services__content-two">
-                        <h2 class="title"><a href="/services-details">Collaboration</a></h2>
+                        <h2 class="title">Collaboration</h2>
                         <p>We work as a team and share knowledge for continuous improvement, learning and innovation.</p>
                       <br>
                     </div>
@@ -161,7 +161,7 @@
                 </div>
                     </div>
                     <div class="services__content-two">
-                        <h2 class="title"><a href="/services-details">Respect</a></h2>
+                        <h2 class="title">Respect</h2>
                         <p>We treat everyone with uncompromising respect, civility and fairness. And we always welcome diversity and differences of opinion.</p>
                         
                     </div>
@@ -188,8 +188,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-            <a href="candidate-registration.php" type="submit" class="btn btn-dark">Register Here</a>
+            <div class="col-lg-4"><span>
+            <a href="candidate-registration.php" type="submit" class="btn btn-dark">Register Here</a></span>
         </div>
     </div>
 </div></section>

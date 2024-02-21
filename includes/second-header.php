@@ -84,6 +84,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 .offCanvas__info{
     padding: 10px 0px;
 }
+.active{
+
+}
 @media only screen and (min-width: 1300px) {
     .tgmenu__navbar-wrap > ul {
     display: flex;
@@ -427,7 +430,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 }
 
 .floating-li:hover {
-	background-color: #f79d1c
+	background-color: #000;
 	color: #fff;
 }
 .offCanvas__info.active{

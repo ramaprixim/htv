@@ -92,7 +92,7 @@
                                     <div class="col-lg-6 col-md-12 col-sm-12 form-grp">
                                         <input type="text" placeholder="Resume Upload Here" style="display:none;">
                                         <input type="file" name="file" id="file" style="display:none;">
-                                        <label for="file" style="height: 48px;background-color: #f79d1c;color: white;display: flex;justify-content: center;align-items: center;cursor: pointer;border-radius: 10px;">Upload Resume</label>
+                                        <label for="file" style="height: 48px;background-color: white;color: black;display: flex;justify-content: center;align-items: center;cursor: pointer;border-radius: 10px;">Upload Resume</label>
                                     </div>
                                     <div class="col-lg-12 col-md-12 col-sm-12 form-grp">
                                         <textarea type="text" name="remark" placeholder="Remark" required=""></textarea>

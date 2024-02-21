@@ -1,8 +1,5 @@
 <?php $page="posh-training"; include("includes/second-header.php"); ?>
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
-
-
     .accordion-container {
         width: 80%;
         max-width: 600px;
@@ -284,7 +281,7 @@
         </div>
     </div>
 </section>
-<section style="    background-color: #f7f7f7;
+<section style=" background-color:;
     padding: 60px;">
     <div class="section-title text-center mb-50">
 

@@ -115,7 +115,7 @@ a:focus,
 
 a:hover,
 button:hover {
-  color: #f79d1c;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -807,7 +807,7 @@ textarea {
 }
 .breadcrumb__content .breadcrumb-item {
   font-size: 16px;
-  color: var(--tg-theme-primary);
+  color: #000;
 }
 .breadcrumb__content .breadcrumb-item a {
   color: var(--tg-body-color);
@@ -1743,7 +1743,7 @@ textarea {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 .tgmobile__menu .navigation li.active > a {
-  color: var(--tg-theme-primary);
+  color:#194500;
 }
 .tgmobile__menu .navigation li.menu-item-has-children .dropdown-btn {
   position: absolute;
@@ -4493,10 +4493,10 @@ textarea {
 }
 .services__tab-wrap .nav-link.active {
   background: var(--tg-theme-primary);
-  color: var(--tg-color-white-default);
+  color: #194500;
 }
 .services__tab-wrap .nav-link.active i {
-  color: var(--tg-color-white-default);
+  color: #194500;
 }
 .services__shape-wrap img {
   position: absolute;
@@ -5817,7 +5817,7 @@ textarea {
   transition: all 0.3s ease-out 0s;
 }
 .choose__tab .nav-tabs .nav-item .nav-link.active {
-  color: var(--tg-heading-color);
+  color: #194500;
 }
 .choose__tab .nav-tabs .nav-item .nav-link.active::before {
   opacity: 1;
@@ -6870,7 +6870,7 @@ textarea {
   color: var(--tg-border-5);
 }
 .pricing__tab-btn.annual_tab_title.active {
-  color: var(--tg-heading-color);
+  color: #194500;
 }
 .pricing__tab-switcher {
   height: 30px;
@@ -9971,7 +9971,7 @@ blockquote p {
   box-shadow: none;
 }
 .pagination-wrap .pagination .page-item.active .page-link {
-  color: var(--tg-color-white-default);
+  color: #194500;
   background-color: var(--tg-theme-secondary);
   border-color: var(--tg-theme-secondary);
 }
