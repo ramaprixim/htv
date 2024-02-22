@@ -84,8 +84,8 @@
                                     <i class="flaticon-investment"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Makes it easy to create and fill out schedules and track
-                                        attendance</h4>
+                                    <h6 class="title">Makes it easy to create and fill out schedules and track
+                                        attendance</h6>
                                 </div>
                             </li>
                             <li>
@@ -93,17 +93,17 @@
                                     <i class="flaticon-investment-1"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Aligning multiple jobs and multiple pay rates to help ensure
-                                        employees are compensated correctly</h4>
+                                    <h6 class="title">Aligning multiple jobs and multiple pay rates to help ensure
+                                        employees are compensated correctly</h6>
                                 </div>
                             </li>
                             <li>
                                 <div class="icon">
-                                    <i class="flaticon-investment-1"></i>
+                                    <i class="flaticon-target"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Communication of shifts, productivity goals, and safety
-                                        information</h4>
+                                    <h6 class="title">Communication of shifts, productivity goals, and safety
+                                        information</h6>
                                 </div>
                             </li>
                         </ul>
