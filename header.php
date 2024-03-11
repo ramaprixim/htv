@@ -152,12 +152,12 @@
 
                                 <li class="nav-item">
                                     <a href="#" class="nav-link dropdown-toggle">
-                                        Services            
+                                    Industries           
                                     </a>
 
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services-style-one.html" class="nav-link">Services Style One</a>
+                                            <a href="automotive.php" class="nav-link">Automative</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="services-style-two.html" class="nav-link">Services Style Two</a>
