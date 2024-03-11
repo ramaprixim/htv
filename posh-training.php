@@ -8,10 +8,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="page-header-content">
-                            <h1>POSH ACT Awareness Training</h1>
+                            <h1>POSH Training</h1>
                             <ul>
                                 <li><a href="index.html">Our Services</a></li>
-                                <li>POSH ACT Awareness Training</li>
+                                <li>POSH Training</li>
                             </ul>
                         </div>
                     </div>

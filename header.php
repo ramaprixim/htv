@@ -166,7 +166,7 @@
                                         <a href="staffing.php" class="nav-link">Staffing</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="payroll.html" class="nav-link">Payroll</a>
+                                        <a href="payroll.php" class="nav-link">Payroll</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="compliance.php" class="nav-link">Compliance</a>
