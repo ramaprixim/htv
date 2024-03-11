@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-<?php include("header.php") ?>
-
-<div class="page-header-area bg-f4fbf6">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 col-md-6">
-                <div class="page-header-content">
-                    <h1>Our Clients</h1>
-                    <ul>
-                        <li><a href="index.html">Industries</a></li>
-                        <li>Our Clients</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6">
-                <div class="page-header-image">
-                    <img src="assets/images/banner/banner-img-3.png" alt="Image">
-=======
 <?php include("header.php"); ?>
 
 
@@ -25,10 +6,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="page-header-content">
-                            <h1>Vision And Values</h1>
+                            <h1>Our Clients</h1>
                             <ul>
-                                <li><a href="index.html">Who We Are</a></li>
-                                <li>Vision And Values</li>
+                                <li><a href="index.html">Our clients</a></li>
+                                <li>Our clients</li>
                             </ul>
                         </div>
                     </div>
@@ -43,22 +24,9 @@
                     <img src="assets/images/shape/shape-8.png" alt="Image">
                     <img src="assets/images/shape/shape-9.png" alt="Image">
                     <img src="assets/images/shape/shape-10.png" alt="Image">
->>>>>>> 9eac2bfdecd885dcfcbdce7ec01b8606a3329289
                 </div>
             </div>
         </div>
 
-<<<<<<< HEAD
-        <div class="page-header-shape">
-            <img src="assets/images/shape/shape-8.png" alt="Image">
-            <img src="assets/images/shape/shape-9.png" alt="Image">
-            <img src="assets/images/shape/shape-10.png" alt="Image">
-        </div>
-    </div>
-</div>
-
-<?php include("footer.php") ?>
-=======
 
 <?php include("footer.php"); ?>
->>>>>>> 9eac2bfdecd885dcfcbdce7ec01b8606a3329289

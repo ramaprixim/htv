@@ -147,10 +147,10 @@
                                         <a href="vision-values.php" class="nav-link">Vision And Values</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="services-style-two.html" class="nav-link">Services Style Two</a>
+                                        <a href="code-of-conduct.php" class="nav-link">Code Of Conduct</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="service-details.html" class="nav-link">Service Details</a>
+                                        <a href="our-approach.php" class="nav-link">Our Approch</a>
                                     </li>
                                 </ul>
 
@@ -285,20 +285,6 @@
                                 <a href="#" class="nav-link dropdown-toggle">
                                     Blog
                                 </a>
-
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="blog-grid.html" class="nav-link">Blog Grid</a>
-                                    </li>
-
-                                    <li class="nav-item">
-                                        <a href="blog-right-sidebar.html" class="nav-link">Blog Right Sidebar</a>
-                                    </li>
-
-                                    <li class="nav-item">
-                                        <a href="blog-details.html" class="nav-link">Blog Details</a>
-                                    </li>
-                                </ul>
                             </li>
 
                             <li class="nav-item">
