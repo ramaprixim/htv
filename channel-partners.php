@@ -6,10 +6,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="page-header-content">
-                            <h1>BGV Screening</h1>
+                            <h1>Vision And Values</h1>
                             <ul>
-                                <li><a href="index.html">Our Services</a></li>
-                                <li>BGV Screening</li>
+                                <li><a href="index.html">Who We Are</a></li>
+                                <li>Vision And Values</li>
                             </ul>
                         </div>
                     </div>
@@ -28,5 +28,5 @@
             </div>
         </div>
 
-        
-<?php include("footer.php"); ?>
+
+    <?php include("footer.php"); ?>
