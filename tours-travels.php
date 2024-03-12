@@ -27,4 +27,61 @@
     </div>
 </div>
 
+<!--Start What We Do Area-->
+<div class="what-we-do-area ptb-100">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="what-we-do-image pr-20">
+                    <img src="assets/images/about/about-img-3.jpg" alt="Image">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="what-we-do-content">
+                    <div class="what-we-do-title">
+                        <h2>Travel & Tourism</h2>
+                        <p>Human resources in tourism may not be the first thing that comes to mind when you think of a
+                            travel agency, but they are an important part of any business. Having a smooth working
+                            environment where your employees and management work with excellent communication is
+                            essential to running any successful business.</p>
+                        <p>Managing human resources in the tourism industry can be tricky with employees often working
+                            in different parts of the world. HR in the travel industry requires a highly experienced
+                            team and at Humantroop Ventures we have experienced professionals that your company can rely
+                            on. Let us take care of all your travel HR needs.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End What We Do Area-->
+
+<!--Start Details Area-->
+<div class="service-details-area pt-100 pb-70">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="services-details-content">
+                    <div class="top-img">
+                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+                    </div>
+                    <div class="analysis-content">
+                        <h2>Travel & Tourism HR Support & Tourism Human Resources Consultants </h2>
+                        <p>Human resources in tourism may not be the first thing that comes to mind when you think of a
+                            travel agency, but they are an important part of any business. Having a smooth working
+                            environment where your employees and management work with excellent communication is
+                            essential to running any successful business. Managing human resources in the tourism
+                            industry can be tricky with employees often working in different parts of the world. HR in
+                            the travel industry requires a highly experienced team and at Humantroop Ventures we have
+                            experienced professionals that your company can rely on. Let us take care of all your travel
+                            HR</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Details Area-->
+
 <?php include("footer.php") ?>
