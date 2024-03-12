@@ -86,534 +86,8 @@
         </div>
         <!--End Partner Area-->
 
-        <!--Start About Area-->
-        <div class="about-area style-2 ptb-100">          
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="about-content pl-15">
-                            <div class="about-title">
-                                <span>About The Company</span>
-                                <h2>We Are The Administration's Best Marketing Team</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim phareta lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
-                            </div>
 
-                            <div class="about-features">
-                               <ul>
-                                   <li>
-                                       <div class="icon">
-                                            <i class="ri-check-double-line"></i>
-                                       </div>
-                                       <h3>Permanent Placement & Managed Solutions</h3>
-                                   </li>
-                                   <li>
-                                        <div class="icon">
-                                            <i class="ri-check-double-line"></i>
-                                        </div>
-                                        <h3>Contract Talent Solutions & Remote Hiring</h3>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <i class="ri-check-double-line"></i>
-                                        </div>
-                                        <h3>Administrative & Customer Support</h3>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <i class="ri-check-double-line"></i>
-                                        </div>
-                                        <h3>Marketing Creative & Finance Accounting</h3>
-                                    </li>
-                               </ul>
-                            </div>
-                            <div class="experience">
-                                <div class="icon">
-                                    <i class="flaticon-experience"></i>
-                               </div>
-                               <p>Over 20 Years’ Experience Providing Top Quality Carpentry Across World Lorem Ipsum Dolours Sit Amet Consectetur</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End About Area-->
 
-        <!--Start Services Area-->
-        <div class="services-area bg-f4fbf6 ptb-100">
-            <div class="container">
-                <div class="section-title">
-                    <span>Our Services</span>
-                    <h2>Discover The Services We Offer</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim phareta lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
-                </div>
-                <div class="services-slider owl-carousel owl-theme">
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-5.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Research On Product</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-6.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Creative Design</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-7.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Identification</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-8.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Data Collection</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-5.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Research On Product</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-6.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Creative Design</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-7.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Identification</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-8.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Data Collection</a></h3>
-                            <p>Lorem ipsum dolor consectet
-                            adipisci elit. Morbi lacus, Sed ut
-                            lacus aliquet, egestas.</p>
-                            <a href="service-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End Services Area-->
-
-        
-        <!--Start Watch Video Area-->
-        <div class="watch-video-area">
-            <div class="container">
-                <div class="video-img">
-                    <img src="assets/images/video-img/video-img-1.jpg" alt="Image">
-                    <div class="video-content">
-                        <h3>Watch Our Working Video</h3>
-                        <div class="play-btn">
-                            <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4">
-                            <img src="assets/images/icon/icon-1.png" alt="Icon">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End Watch Video Area-->
-
-        <!--Start Clients Reviews Area-->
-        <div class="clients-reviews-area ptb-100">
-            <div class="container">
-                <div class="section-title">
-                    <span>Client Reviews</span>
-                    <h2>What People Say About Our Work</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim phareta lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
-                </div>
-                <div class="reviews-slider owl-carousel owl-theme">
-                    <div class="single-review-box">
-                        <div class="client-profile">
-                            <img src="assets/images/testimonials/review-img-1.png" alt="Image">
-                            <h3>CEO & Founder</h3>
-                            <span>Creative Designer</span>
-                        </div>
-                        <div class="ratings">
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                        </div>
-                        <p>“Lorem ipsum dolor sit amet, consectetu the
-                        adipiscing morbi lacus, dignisim pharea is the
-                        lorem. Sed lacus aliquet, volutpat sem us
-                        pellentesque, egestas nisl.”</p>
-                        <div class="quote">
-                            <i class="flaticon-left-quotes-sign"></i>
-                        </div>
-                    </div>
-                    <div class="single-review-box">
-                        <div class="client-profile">
-                            <img src="assets/images/testimonials/review-img-2.png" alt="Image">
-                            <h3>Ayden Stehr</h3>
-                            <span>Creative Designer</span>
-                        </div>
-                        <div class="ratings">
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                        </div>
-                        <p>“Lorem ipsum dolor sit amet, consectetu the
-                        adipiscing morbi lacus, dignisim pharea is the
-                        lorem. Sed lacus aliquet, volutpat sem us
-                        pellentesque, egestas nisl.”</p>
-                        <div class="quote">
-                            <i class="flaticon-left-quotes-sign"></i>
-                        </div>
-                    </div>
-                    <div class="single-review-box">
-                        <div class="client-profile">
-                            <img src="assets/images/testimonials/review-img-3.png" alt="Image">
-                            <h3>Eladio Mertz</h3>
-                            <span>Web Developer</span>
-                        </div>
-                        <div class="ratings">
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                        </div>
-                        <p>“Lorem ipsum dolor sit amet, consectetu the
-                        adipiscing morbi lacus, dignisim pharea is the
-                        lorem. Sed lacus aliquet, volutpat sem us
-                        pellentesque, egestas nisl.”</p>
-                        <div class="quote">
-                            <i class="flaticon-left-quotes-sign"></i>
-                        </div>
-                    </div>
-                    <div class="single-review-box">
-                        <div class="client-profile">
-                            <img src="assets/images/testimonials/review-img-1.png" alt="Image">
-                            <h3>CEO & Founder</h3>
-                            <span>Creative Designer</span>
-                        </div>
-                        <div class="ratings">
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                        </div>
-                        <p>“Lorem ipsum dolor sit amet, consectetu the
-                        adipiscing morbi lacus, dignisim pharea is the
-                        lorem. Sed lacus aliquet, volutpat sem us
-                        pellentesque, egestas nisl.”</p>
-                        <div class="quote">
-                            <i class="flaticon-left-quotes-sign"></i>
-                        </div>
-                    </div>
-                    <div class="single-review-box">
-                        <div class="client-profile">
-                            <img src="assets/images/testimonials/review-img-2.png" alt="Image">
-                            <h3>Ayden Stehr</h3>
-                            <span>Creative Designer</span>
-                        </div>
-                        <div class="ratings">
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                        </div>
-                        <p>“Lorem ipsum dolor sit amet, consectetu the
-                        adipiscing morbi lacus, dignisim pharea is the
-                        lorem. Sed lacus aliquet, volutpat sem us
-                        pellentesque, egestas nisl.”</p>
-                        <div class="quote">
-                            <i class="flaticon-left-quotes-sign"></i>
-                        </div>
-                    </div>
-                    <div class="single-review-box">
-                        <div class="client-profile">
-                            <img src="assets/images/testimonials/review-img-3.png" alt="Image">
-                            <h3>Eladio Mertz</h3>
-                            <span>Web Developer</span>
-                        </div>
-                        <div class="ratings">
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                            <i class="flaticon-star-3"></i>
-                        </div>
-                        <p>“Lorem ipsum dolor sit amet, consectetu the
-                        adipiscing morbi lacus, dignisim pharea is the
-                        lorem. Sed lacus aliquet, volutpat sem us
-                        pellentesque, egestas nisl.”</p>
-                        <div class="quote">
-                            <i class="flaticon-left-quotes-sign"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End Clients Reviews Area-->
-
-        <!--Start Projects Area-->
-        <div class="project-area pb-100">
-            <div class="container">
-                <div class="section-title">
-                    <span>Our Works</span>
-                    <h2>There Are Many New Projects</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim phareta
-                    lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
-                </div>
-                <div class="project-slider2 owl-carousel owl-theme">
-                    <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="project-shape-one">
-                    <img src="assets/images/shape/shape-2.png" alt="Image">
-                </div>
-                <div class="project-shape-two">
-                    <img src="assets/images/shape/shape-3.png" alt="Image">
-                </div>
-            </div>
-        </div>
-        <!--End Projects Area-->
-
-        <!--Strat Team area-->
-        <div class="team-area pb-70">
-            <div class="container">
-                <div class="section-title">
-                    <span>Meet The Team</span>
-                    <h2>Professional Creative Members</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim phareta lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
-                </div>
-
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
-                        <div class="single-team-box">
-                            <div class="team-img">
-                                <img src="assets/images/team/team-img-6.jpg" alt="Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="row align-items-center">
-                                    <div class="col-6">
-                                        <h3>Felix Hermiston</h3>
-                                        <span>SEO Specialist</span>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="social-content">
-                                            <ul>
-                                                <li>
-                                                    <a href="https://www.facebook.com/" target="_blank"><i class="ri-facebook-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-line"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
-                        <div class="single-team-box">
-                            <div class="team-img">
-                                <img src="assets/images/team/team-img-5.jpg" alt="Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="row align-items-center">
-                                    <div class="col-6">
-                                        <h3>Elvera Wuckert</h3>
-                                        <span>Digital Marketer</span>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="social-content">
-                                            <ul>
-                                                <li>
-                                                    <a href="https://www.facebook.com/" target="_blank"><i class="ri-facebook-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-line"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
-                        <div class="single-team-box">
-                            <div class="team-img">
-                                <img src="assets/images/team/team-img-7.jpg" alt="Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="row align-items-center">
-                                    <div class="col-6">
-                                        <h3>Kennith Bartell</h3>
-                                        <span>Interior Designer</span>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="social-content">
-                                            <ul>
-                                                <li>
-                                                    <a href="https://www.facebook.com/" target="_blank"><i class="ri-facebook-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-line"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End Team area-->
-
-        <!--Start Newsletter Area-->
-        <div class="newsletter-area">
-            <div class="container">
-                <div class="newsletter-overly">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <div class="newslatter-img">
-                                <div class="image-1">
-                                    <img src="assets/images/newsletter/newsletter-img-1.gif" alt="Image">
-                                </div>
-                                <div class="image-2">
-                                    <img src="assets/images/newsletter/newsletter-img-2.gif" alt="Image">
-                                </div>
-                                <div class="image-3">
-                                    <img src="assets/images/newsletter/newsletter-img-3.gif" alt="Image">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-7">
-                            <div class="newslatter-content pl-15">
-                                <span>Newsletter</span>
-                                <h2>View An Organization's Own News Archive</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignssu lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas.</p>
-
-                                <div class="subscribe-form">
-                                    <form class="newsletter-form" data-toggle="validator">
-                                        <input type="email" class="form-control" placeholder="Enter your email address" name="EMAIL" required autocomplete="off">
-                            
-                                        <button class="default-btn active" type="submit">
-                                            Subscribe Now <i class="ri-arrow-right-line"></i>
-                                        </button>
-                            
-                                        <div id="validator-newsletter" class="form-result"></div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End Newsletter Area-->
 
         <!--Start Blog Area-->
         <div class="blog-area pt-100 pb-70">
@@ -823,6 +297,125 @@
             </div>
         </div>
         <!--End Blog Area-->
+
+
+
+
+        
+        <!--Start Choose Area-->
+        <div class="choose-area ptb-100">
+            <div class="container">
+                <div class="section-title">
+                    <span>Learn About Agency</span>
+                    <h2>Enhance your HR function with flexible solutions</h2>
+                    <a href="about-us.html" class="default-btn btn">Explore More <i class="ri-arrow-right-line"></i></a>
+                </div>
+
+                <div class="tab-teaser">
+                    <div class="tab-menu">
+                      <ul>
+                        <li><a href="#" class="active" data-rel="tab-1">Outsourcing</a></li>
+                        <li><a href="#" data-rel="tab-2" class="">Consulting</a></li>
+                     
+                      </ul>
+                    </div>
+                    <div class="tab-box" id="tab-1" style="display:block;">
+                        <div class="choose-tab-items">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="choose-content pr-15">
+                                        <div class="choose-title">
+                                            <!-- <span>Top Software Developers</span> -->
+                                            <h2>Outsourcing</h2>
+                                            <p>Get specialized support for day-to-day administrative tasks or step up to tackle an unexpected challenge.</p>
+                                            
+                                        </div>
+                                        <div class="choose-features-list">
+                                            <ul>
+                                                <li>
+                                                    <div class="number">
+                                                        <span>01</span>
+                                                    </div>
+                                                    <!-- <h3>The Employer Contacts The Staffing Agency</h3> -->
+                                                    <p>Strategic Leadership</p>
+                                                </li>
+                                                <li>
+                                                    <div class="number">
+                                                        <span>02</span>
+                                                    </div>
+                                                    <!-- <h3>The Agency Creates Job Descriptions</h3> -->
+                                                    <p>Solution Delivery</p>
+                                                </li>
+                                                <li>
+                                                    <div class="number">
+                                                        <span>03</span>
+                                                    </div>
+                                                    <!-- <h3>The Employer Makes The Final Decision</h3> -->
+                                                    <p>One Team</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="choose-img pl-15">
+                                        <img src="assets/images/choose/choose-img-2.jpg" alt="Image">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-box" id="tab-2">
+                        <div class="choose-tab-items">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6">
+                                    <div class="choose-img pr-15 mb">
+                                        <img src="assets/images/choose/choose-img-3.jpg" alt="Image">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="choose-content pl-15">
+                                        <div class="choose-title">
+                                            <!-- <span>Fast-Growing Company</span> -->
+                                            <h2>Consulting</h2>
+                                           <p>With 24/7 availability to meet your specific needs, our HR services cover the entire spectrum of HR.</p>
+                                        </div>
+                                        <div class="choose-features-list">
+                                            <ul>
+                                                <li>
+                                                    <div class="number">
+                                                        <span>01</span>
+                                                    </div>
+                                                    <!-- <h3>The Employer Contacts The Staffing Agency</h3> -->
+                                                    <p>Innovative Products</p>
+                                                </li>
+                                                <li>
+                                                    <div class="number">
+                                                        <span>02</span>
+                                                    </div>
+                                                    <!-- <h3>The Agency Creates Job Descriptions</h3> -->
+                                                    <p>Operational Excellence</p>
+                                                </li>
+                                                <li>
+                                                    <div class="number">
+                                                        <span>03</span>
+                                                    </div>
+                                                    <!-- <h3>The Employer Makes The Final Decision</h3> -->
+                                                    <p>One Team</p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+               
+                </div>
+            </div>
+        </div>
+        <!--End Choose Area-->
+
 
 
 
@@ -1150,121 +743,6 @@
 
 
 
-
-        <!--Start Choose Area-->
-        <div class="choose-area ptb-100">
-            <div class="container">
-                <div class="section-title">
-                    <!-- <span>Why Choose Us?</span> -->
-                    <h2>Learn About Agency</h2>
-                    <p>Enhance your HR function with flexible solutions</p>
-                    <a href="about-us.html" class="default-btn btn">Explore More <i class="ri-arrow-right-line"></i></a>
-                </div>
-
-                <div class="tab-teaser">
-                    <div class="tab-menu">
-                      <ul>
-                        <li><a href="#" class="active" data-rel="tab-1">Outsourcing</a></li>
-                        <li><a href="#" data-rel="tab-2" class="">Consulting</a></li>
-                     
-                      </ul>
-                    </div>
-                    <div class="tab-box" id="tab-1" style="display:block;">
-                        <div class="choose-tab-items">
-                            <div class="row align-items-center">
-                                <div class="col-lg-6">
-                                    <div class="choose-content pr-15">
-                                        <div class="choose-title">
-                                            <!-- <span>Top Software Developers</span> -->
-                                            <h2>Outsourcing</h2>
-                                            <p>Get specialized support for day-to-day administrative tasks or step up to tackle an unexpected challenge.</p>
-                                            
-                                        </div>
-                                        <div class="choose-features-list">
-                                            <ul>
-                                                <li>
-                                                    <div class="number">
-                                                        <span>01</span>
-                                                    </div>
-                                                    <!-- <h3>The Employer Contacts The Staffing Agency</h3> -->
-                                                    <p>Strategic Leadership</p>
-                                                </li>
-                                                <li>
-                                                    <div class="number">
-                                                        <span>02</span>
-                                                    </div>
-                                                    <!-- <h3>The Agency Creates Job Descriptions</h3> -->
-                                                    <p>Solution Delivery</p>
-                                                </li>
-                                                <li>
-                                                    <div class="number">
-                                                        <span>03</span>
-                                                    </div>
-                                                    <!-- <h3>The Employer Makes The Final Decision</h3> -->
-                                                    <p>One Team</p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="choose-img pl-15">
-                                        <img src="assets/images/choose/choose-img-2.jpg" alt="Image">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-box" id="tab-2">
-                        <div class="choose-tab-items">
-                            <div class="row align-items-center">
-                                <div class="col-lg-6">
-                                    <div class="choose-img pr-15 mb">
-                                        <img src="assets/images/choose/choose-img-3.jpg" alt="Image">
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="choose-content pl-15">
-                                        <div class="choose-title">
-                                            <!-- <span>Fast-Growing Company</span> -->
-                                            <h2>Consulting</h2>
-                                           <p>With 24/7 availability to meet your specific needs, our HR services cover the entire spectrum of HR.</p>
-                                        </div>
-                                        <div class="choose-features-list">
-                                            <ul>
-                                                <li>
-                                                    <div class="number">
-                                                        <span>01</span>
-                                                    </div>
-                                                    <!-- <h3>The Employer Contacts The Staffing Agency</h3> -->
-                                                    <p>Innovative Products</p>
-                                                </li>
-                                                <li>
-                                                    <div class="number">
-                                                        <span>02</span>
-                                                    </div>
-                                                    <!-- <h3>The Agency Creates Job Descriptions</h3> -->
-                                                    <p>Operational Excellence</p>
-                                                </li>
-                                                <li>
-                                                    <div class="number">
-                                                        <span>03</span>
-                                                    </div>
-                                                    <!-- <h3>The Employer Makes The Final Decision</h3> -->
-                                                    <p>One Team</p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-               
-                </div>
-            </div>
-        </div>
-        <!--End Choose Area-->
 
 
 
