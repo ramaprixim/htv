@@ -28,10 +28,10 @@
                     <img src="assets/images/shape/shape-10.png" alt="Image">
                 </div>
             </div>
-        </div>
+</div>
 
           <!--Start About Area-->
-      <div class="about-area style-2 ptb-100">          
+        <div class="about-area style-2 ptb-100">          
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
