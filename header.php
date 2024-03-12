@@ -135,7 +135,7 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav m-auto">
                             <li class="nav-item">
-                                <a href="index-2.html" class="nav-link">
+                                <a href="index.php" class="nav-link">
                                     Home
                                 </a>
                             </li>
@@ -194,7 +194,9 @@
                                 </a>
 
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item">
+                                    <div class="row">
+                                        <div class="col-lg-4">
+                                        <li class="nav-item">
                                         <a href="automotive.php" class="nav-link">Automative</a>
                                     </li>
                                     <li class="nav-item">
@@ -216,47 +218,59 @@
                                     <li class="nav-item">
                                         <a href="export-import.php" class="nav-link">Export/ Import</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a href="fmcg.php" class="nav-link">FMCG</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="healthcare-wellness.php" class="nav-link">Healthcare & Wellness</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="hospitality-tourism.php" class="nav-link">Hospitality Tourism</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="information-technology.php" class="nav-link">Information Technology</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="life-science-pharmaceuticals.php" class="nav-link">Life Science
-                                            Pharmaceuticals</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="manufacturing.php" class="nav-link">Manufacturing</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="metals-mining.php" class="nav-link">Metals & Mining</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="oil-gas.php" class="nav-link">Oil & Gas</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="power-renewable-energy.php" class="nav-link">Power and Renewable</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="retails.php" class="nav-link">Retails</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="shipping-logistics.php" class="nav-link">Shipping & Logistics</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="telecommunications.php" class="nav-link">Telecommunications</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="tours-travels.php" class="nav-link">Tours And Travels</a>
-                                    </li>
+                                        </div>
+                                        <div class="col-lg-4">
+                                            
+                                            <li class="nav-item">
+                                                <a href="fmcg.php" class="nav-link">FMCG</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="healthcare-wellness.php" class="nav-link">Healthcare & Wellness</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="hospitality-tourism.php" class="nav-link">Hospitality Tourism</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="information-technology.php" class="nav-link">Information Technology</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="life-science-pharmaceuticals.php" class="nav-link">Life Science
+                                                    Pharmaceuticals</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="manufacturing.php" class="nav-link">Manufacturing</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="metals-mining.php" class="nav-link">Metals & Mining</a>
+                                            </li>
+                                            
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <li class="nav-item">
+                                                <a href="oil-gas.php" class="nav-link">Oil & Gas</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="power-renewable-energy.php" class="nav-link">Power and Renewable</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="retails.php" class="nav-link">Retails</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="shipping-logistics.php" class="nav-link">Shipping & Logistics</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="telecommunications.php" class="nav-link">Telecommunications</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="tours-travels.php" class="nav-link">Tours And Travels</a>
+                                            </li>
+                                        </div>
+                                    </div>
+                                   
+                                   
+                                    
                                 </ul>
+                                
                             </li>
 
                             <li class="nav-item">
@@ -282,7 +296,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="#" class="nav-link dropdown-toggle">
+                                <a href="#" class="nav-link">
                                     Blog
                                 </a>
                             </li>

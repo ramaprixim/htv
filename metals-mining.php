@@ -27,4 +27,51 @@
     </div>
 </div>
 
+<!--Start Details Area-->
+<div class="service-details-area pt-100 pb-70">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="services-details-content">
+                    <div class="top-img">
+                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+                    </div>
+                    <div class="analysis-content">
+                        <h2>METALS AND MINING</h2>
+                        <p>The key industries named Metals, Minerals, and Mining are an integral part of infrastructure
+                            development in India. India ranked fourth among coal producers and third largest steel
+                            producer. With this record, the future of the industry looks promising as there are still
+                            large reserves of minerals and metals unexplored. Demand has increased in the metals,
+                            minerals, and mining industries to acquire professional talent. To meet the growing demand
+                            for professional human resources, we are the best solution provider and provide quality
+                            services to our clients. We at Humantroop Ventures observe and understand the growth
+                            trajectory of this industry and thus provide the best services to clients and maintain
+                            client trust.</p>
+
+                        <h2>Metals & Mining Industries</h2>
+                        <p>The metals & Mining industry broadly refers to the extraction of metals and minerals (mining)
+                            and the primary and secondary processing of those metals and minerals. The industry is very
+                            global in structure, with a few manufacturers accounting for the lion's share of production.
+                            Diversified metals and mining companies supply commodities used in products and equipment
+                            found in a wide range of industries such as construction, automotive, aerospace, and
+                            telecommunications. The reach is so broad that metal utilization rates are a key barometer
+                            for measuring the health of the global economy. The lack of talent is part of the human
+                            capital problem in the sector.</p>
+                        <p>Humantroop Ventures can help, whether you require a single executive or a full team for your
+                            new mining project, we have the complete expertise to meet these needs. We have a team of
+                            consultants with experience in the mining industry to help you. Our experience includes
+                            corporate roles through the C-Suite and non-executive directors, any on-site role, and
+                            positions worldwide. Many international search firms can effectively search for CEOs, COOs,
+                            and CFOs, but few truly understand how to find the best process manager or subway
+                            specialist. To meet the demand for skilled human resources in this highly specialized
+                            sector, we find ourselves as the best talent search providers to bring value to our clients.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Details Area-->
+
 <?php include("footer.php") ?>
