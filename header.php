@@ -288,7 +288,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="contact-us.html" class="nav-link">Contact Us</a>
+                                <a href="contact-us.php" class="nav-link">Contact Us</a>
                             </li>
                         </ul>
                     </div>
