@@ -1,33 +1,63 @@
 
 <?php include("header.php") ?>
-        <!--Start Banner Area-->
-        <div class="banner-style-two-area">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="banner-content-two">
-                            <span>Build Your Innovation & Digital Future</span>
-                            <h1>We Build Products That Help Businesses Lead</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim vitae risus non, imperdiet lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
+<div class="banner-area">
+            <div class="hero-slider owl-carousel owl-theme owl-loaded owl-drag">
+                
+                
+                
+            <div class="owl-stage-outer">
+                <div class="owl-stage" style="transform: translate3d(-7612px, 0px, 0px); transition: all 0s ease 0s; width: 13321px;">
+                    <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-2">
+                    <div class="container-fluid">
+                        <div class="banner-content">
+                            <h1>Humantroop Ventures fluent in finding leaders</h1>
+                            <p>We offer HR services from qualified HR consultants that can analyze your business
+                                operations and design the people management solution that will work best for you.</p>
                             <div class="banner-btn">
-                                <a href="contact-us.html" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
-                                <a href="about-us.html" class="default-btn btn">Explore More <i class="ri-arrow-right-line"></i></a>
+                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us<i class="ri-arrow-right-line"></i></a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="banner-image-area">
-                            <img src="assets/images/banner/banner-shape-1.png" class="banner-shape" alt="Shape">
-                            
-                        <div class="banner-image">
-                            <img src="assets/images/banner/banner-img-1.png" alt="Image">
-                        </div>
+                </div></div>
+                <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
+                    <div class="container-fluid">
+                        <div class="banner-content">
+                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
+                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
+                                for HR Professionals</p>
+                            <div class="banner-btn">
+                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
+                </div></div>
+                <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-1">
+                    <div class="container-fluid">
+                        <div class="banner-content">
+                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
+                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
+                                for HR Professionals</p>
+                            <div class="banner-btn">
+                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+                <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-2">
+                    <div class="container-fluid">
+                        <div class="banner-content">
+                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
+                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
+                                for HR Professionals</p>
+                            <div class="banner-btn">
+                                <img class="sub-banner-img my-2" src="assets/images/icon/NHRDN logo.png" alt="">
+                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+            </div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="flaticon-left-arrow-2"></i></button><button type="button" role="presentation" class="owl-next"><i class="flaticon-right-arrow-3"></i></button></div><div class="owl-dots disabled"></div></div>
         </div>
-        <!--End Banner Area-->
 
         <!--Start Partner Area-->
         <div class="partner-area">
