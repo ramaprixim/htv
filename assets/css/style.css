@@ -1698,7 +1698,6 @@ Banner Area Style
   position: absolute;
   top: -100px;
   right: 120px;
-  z-index: 22;
   -webkit-animation: movebounce2 13s linear infinite;
           animation: movebounce2 13s linear infinite;
 }
@@ -1947,7 +1946,7 @@ About Style
 
 .about-area.style-2 .about-content .experience {
   position: relative;
-  padding-left: 95px;
+  color:grey;
   padding-bottom: 15px;
   padding-top: 15px;
 }
@@ -1977,6 +1976,9 @@ About Style
 .about-area.style-2 .about-content .experience p {
   color: #2C2C2C;
   font-weight: 500;
+  color:rgb(122, 120, 120);
+  font-size: 19px;
+  font-weight: bold;
 }
 
 /*
