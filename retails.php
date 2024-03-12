@@ -27,4 +27,45 @@
     </div>
 </div>
 
+
+<!--Start Details Area-->
+<div class="service-details-area pt-100 pb-70">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="services-details-content">
+                    <div class="top-img">
+                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+                    </div>
+                    <div class="analysis-content">
+                        <h2>RETAIL</h2>
+                        <p>Retail is the fastest-growing sector at home and abroad. With the increase in non-essential
+                            income and affordability for consumers, the industry is experiencing growth. Due to foreign
+                            direct investment regulation, multinational companies are investing in India. Organized
+                            Retailing is an accelerated workforce and is known as the second largest employer in India.
+                            We at Humantroop Ventures stay in tune with the developments that are changing the dynamics
+                            of the industry. We have an enthusiastic team of consultants who are passionate about
+                            operational structures and understand the critical requirements of our clients. We help our
+                            clients with the identification, designation, and recruitment of experienced professionals.
+                            Our comprehensive cross-sector experience covers all functional areas, from senior to
+                            mid-level positions.</p>
+                    </div>
+                    <div class="analysis-content">
+                        <h2>Retail Sector Human Resources Support & Retail HR Consultancy Service</h2>
+                        <p>The role of HR in retail is a crucial and often overlooked component, but not where
+                            Humantroop Ventures is involved. It is vital to properly assess the performance of a
+                            business in the area of ​​human resource management in the retail sector; Humantroop
+                            Ventures is a trusted and forward-thinking company that can provide you with a team of
+                            professional retail HR consultants and access to leading retail HR experts. We have an
+                            incredibly diverse and broad understanding of HR policies in retail and can offer you the
+                            benefit of our expertise in the role of HR in retail.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Details Area-->
+
+
 <?php include("footer.php") ?>
