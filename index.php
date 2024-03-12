@@ -748,9 +748,9 @@
         <div class="blog-area pt-100 pb-70">
             <div class="container">
                 <div class="section-title">
-                    <span>News & Blog</span>
+                    <!-- <span>News & Blog</span> -->
                     <h2>Check Out Our Latest Blog Post</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacus, dignissim phareta lorem. Sed ut lacus aliquet, volutpat sem pellentesque, egestas nisl.</p>
+                 
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
@@ -759,7 +759,7 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <ul>
+                                <!-- <ul>
                                     <li>
                                         <i class="ri-user-heart-line"></i>
                                         By <a href="blog-grid.html">Admin</a>
@@ -768,9 +768,9 @@
                                         <i class="ri-price-tag-3-line"></i>
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
-                                </ul>
-                                <h3><a href="blog-details.html">The Company Has Launched A Joint Venture With Three Tower</a></h3>
-                                <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                                </ul> -->
+                                <h3><a href="blog-details.html">Training Programs</a></h3>
+                                
                             </div>
                         </div>
                     </div>
@@ -780,7 +780,7 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <ul>
+                                <!-- <ul>
                                     <li>
                                         <i class="ri-user-heart-line"></i>
                                         By <a href="blog-grid.html">Admin</a>
@@ -789,9 +789,9 @@
                                         <i class="ri-price-tag-3-line"></i>
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
-                                </ul>
-                                <h3><a href="blog-details.html">We Will Design Space And Make You Fall In Love With Work Again</a></h3>
-                                <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                                </ul> -->
+                                <h3><a href="blog-details.html">HR Outsourcing</a></h3>
+                               
                             </div>
                         </div>
                     </div>
@@ -801,7 +801,7 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <ul>
+                                <!-- <ul>
                                     <li>
                                         <i class="ri-user-heart-line"></i>
                                         By <a href="blog-grid.html">Admin</a>
@@ -810,9 +810,9 @@
                                         <i class="ri-price-tag-3-line"></i>
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
-                                </ul>
-                                <h3><a href="blog-details.html">We Started Business For Hand In Hand With Our Technology</a></h3>
-                                <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a>
+                                </ul> -->
+                                <h3><a href="blog-details.html">Quick Hiring</a></h3>
+                                
                             </div>
                         </div>
                     </div>
@@ -820,5 +820,123 @@
             </div>
         </div>
         <!--End Blog Area-->
+
+
+        <!--Start About Area-->
+        <div class="about-area style-2 ptb-100">          
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-image-content pr-15">
+                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-content pl-15">
+                            <div class="about-title">
+                                <span>Human Resources Consulting</span>
+                                <h2>We believe in providing personalized solutions to our clients.</h2>
+                                <p>Humantroop Ventures is founded with a vision to provide results-oriented HR solutions. The company focuses on providing Executive Search, Recruitment and staffing to client organizations. We aim to become one of the top HR companies in India for HR System, Process, and People Consulting. Our methods are practical, innovative and productive.</p>
+                            </div>
+
+                         
+                            <div class="container d-flex">
+                        <div class="col-lg-6">
+                        <h5>01 - Increased Productivity</h5>
+                            <p>A happy workforce is productive <br>and helps you focus on increasing <br>profitability.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <h5>02 - Save Time & Money</h5>
+                            <p>We will free up your valuable time, provide expert advice and <br> guidance.</p>
+                        </div>
+                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End About Area-->
+
+        
+        <!--Start Blog Area-->
+        <div class="blog-area pt-100 pb-70">
+            <div class="container">
+                <div class="section-title">
+                    <span>What We Do</span>
+                    <h2>Outsourced HR Services</h2>
+                 
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                                <!-- <ul>
+                                    <li>
+                                        <i class="ri-user-heart-line"></i>
+                                        By <a href="blog-grid.html">Admin</a>
+                                    </li>
+                                    <li>
+                                        <i class="ri-price-tag-3-line"></i>
+                                        <a href="blog-grid.html">Latest News</a>
+                                    </li>
+                                </ul> -->
+                                <h3><a href="blog-details.html">Payroll Outsourcing</a></h3>
+                                <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                                <!-- <ul>
+                                    <li>
+                                        <i class="ri-user-heart-line"></i>
+                                        By <a href="blog-grid.html">Admin</a>
+                                    </li>
+                                    <li>
+                                        <i class="ri-price-tag-3-line"></i>
+                                        <a href="blog-grid.html">Latest News</a>
+                                    </li>
+                                </ul> -->
+                                <h3><a href="blog-details.html">Recruitment</a></h3>
+                                <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
+                        <div class="single-blog-card style2">
+                            <div class="blog-img">
+                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                            </div>
+                            <div class="blog-content">
+                                <!-- <ul>
+                                    <li>
+                                        <i class="ri-user-heart-line"></i>
+                                        By <a href="blog-grid.html">Admin</a>
+                                    </li>
+                                    <li>
+                                        <i class="ri-price-tag-3-line"></i>
+                                        <a href="blog-grid.html">Latest News</a>
+                                    </li>
+                                </ul> -->
+                                <h3><a href="blog-details.html">Compliances</a></h3>
+                                <p>Humantroop Ventures helps clients ensure compliance with legal regulations such as labor law.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End Blog Area-->
+
 
         <?php include("footer.php") ?>
