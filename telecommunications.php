@@ -27,4 +27,36 @@
     </div>
 </div>
 
+<!--Start About Area-->
+<div class="about-area style-2 ptb-100">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="about-image-content pr-15">
+                    <img src="assets/images/about/about-img-2.png" alt="Image">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="about-content pl-15">
+                    <div class="about-title">
+                        <h2>Telecommunications Industry</h2>
+                        <p>Telecommunications is one of the most hi-tech developments going on in the world. The
+                            industry is active, exciting, and extremely volatile. As the telecommunications industry
+                            expands, it also creates new jobs far faster than companies can fill them.</p>
+                        <p>At Humantroop Ventures, we have a recruitment team that ensures that each Telecom HR
+                            Specialist has been pre-vetted through a rigorous screening and hiring process to ensure
+                            complete client satisfaction. We are productively recruiting for all sub-sectors of the
+                            telecom market including L.C.R, Carrier, Systems Integration, Mobile, Call Center, C.T.I,
+                            Net Services, Networking, PBX, etc. We are committed to learning as much as possible about
+                            our client's organizations to fully understand their requirements and what makes them
+                            unique. We do this so that we can provide high-speed customer service that will be highly
+                            competitive in the market.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End About Area-->
+
 <?php include("footer.php") ?>
