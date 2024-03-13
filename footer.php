@@ -40,31 +40,40 @@
 <div class="start-footer-area pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 email">
-                <div class="col-lg-6 email1">
-
-                </div>
+            <div class="col-lg-4">
+                <div class="row d-flex justify-content-center align-center">
+                    <div class="col-lg-6 email1">
+                        <img src="assets/images/shape/shape-10.png" alt="">
+                                        </div>
                 <div class="col-lg-6 email2">
                     <h3>Email</h3>
                 </div>
             </div>
-            <div class="col-lg-4 call">
-                <div class="col-lg-6">
-
-                </div>
-                <div class="col-lg-6">
-
+            </div>
+            <div class="col-lg-4">
+                <div class="row d-flex justify-content-center align-center">
+                    <div class="col-lg-6 email1">
+                        <img src="assets/images/shape/shape-10.png" alt="">
+                                        </div>
+                <div class="col-lg-6 email2">
+                    <h3>Email</h3>
                 </div>
             </div>
-            <div class="col-lg-4 address">
-                <div class="col-lg-6">
-
+            </div>
+            <div class="col-lg-4">
+                <div class="row d-flex justify-content-center align-center">
+                    <div class="col-lg-6 email1">
+                        <img src="assets/images/shape/shape-10.png" alt="">
+                                        </div>
+                <div class="col-lg-6 email2">
+                    <h3>Email</h3>
                 </div>
-                <div class="col-lg-6">
-
-                </div>
+            </div>
             </div>
         </div>
+    </div>
+    <div class="container">
+
         <div class="row">
             <div class="col-lg-3 col-sm-6">
                 <div class="single-footer-widget footer-logo-area">
