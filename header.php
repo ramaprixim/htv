@@ -193,7 +193,7 @@
                                     Industries
                                 </a>
 
-                                <ul class="dropdown-menu">
+                                <ul class="dropdown-menu" style="    width: 950px;left: -350px;">
                                     <div class="row">
                                         <div class="col-lg-4">
                                         <li class="nav-item">

@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div></div>
-                <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-1">
+                <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-2">
                     <div class="container-fluid">
                         <div class="banner-content">
                             <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
