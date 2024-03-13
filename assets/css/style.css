@@ -5838,5 +5838,21 @@ Go To Top Style
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
+<<<<<<< HEAD
+.regdiv{
+  height: 250px;
+  background-color: #28aa4a;
+}
+.footer-para p{
+  color:white;
+  font-size:55px;
+  font-weight: bold;
+}
+.footer-reg button{
+  height:100px;
+  width:120px;
+}
+=======
 
+>>>>>>> a58e660ddeb217cd4319a0dace8170a347cd2e85
 /*# sourceMappingURL=style.css.map */
