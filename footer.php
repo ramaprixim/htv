@@ -43,7 +43,7 @@
             <div class="col-lg-4">
                 <div class="row d-flex justify-content-center align-center">
                     <div class="col-lg-6 email1">
-                        <img src="assets/images/shape/shape-10.png" alt="">
+                        <img src="assets/images/icon/email (1).png" alt="">
                                         </div>
                 <div class="col-lg-6 email2">
                     <h3>Email</h3>
@@ -53,7 +53,7 @@
             <div class="col-lg-4">
                 <div class="row d-flex justify-content-center align-center">
                     <div class="col-lg-6 email1">
-                        <img src="assets/images/shape/shape-10.png" alt="">
+                        <img src="assets/images/icon/phone-call.png" alt="">
                                         </div>
                 <div class="col-lg-6 email2">
                     <h3>Email</h3>
@@ -63,7 +63,7 @@
             <div class="col-lg-4">
                 <div class="row d-flex justify-content-center align-center">
                     <div class="col-lg-6 email1">
-                        <img src="assets/images/shape/shape-10.png" alt="">
+                        <img src="assets/images/icon/location.png" alt="">
                                         </div>
                 <div class="col-lg-6 email2">
                     <h3>Email</h3>

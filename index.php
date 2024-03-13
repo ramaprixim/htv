@@ -7,7 +7,7 @@
                 
             <div class="owl-stage-outer">
                 <div class="owl-stage" style="transform: translate3d(-7612px, 0px, 0px); transition: all 0s ease 0s; width: 13321px;">
-                    <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-2">
+                    <!-- <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
                     <div class="container-fluid">
                         <div class="banner-content">
                             <h1>Humantroop Ventures fluent in finding leaders</h1>
@@ -18,32 +18,8 @@
                             </div>
                         </div>
                     </div>
-                </div></div>
-                <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
-                    <div class="container-fluid">
-                        <div class="banner-content">
-                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
-                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
-                                for HR Professionals</p>
-                            <div class="banner-btn">
-                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div></div>
-                <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-2">
-                    <div class="container-fluid">
-                        <div class="banner-content">
-                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
-                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
-                                for HR Professionals</p>
-                            <div class="banner-btn">
-                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div></div>
-                <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-2">
+                </div></div> -->
+                <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-2">
                     <div class="container-fluid">
                         <div class="banner-content">
                             <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
@@ -52,6 +28,30 @@
                             <div class="banner-btn">
                                 <img class="sub-banner-img my-2" src="assets/images/icon/NHRDN logo.png" alt="">
                                 <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
+                <!-- <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-2">
+                    <div class="container-fluid">
+                        <div class="banner-content">
+                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
+                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
+                                for HR Professionals</p>
+                            <div class="banner-btn">
+                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div></div> -->
+                <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
+                    <div class="container-fluid">
+                        <div class="banner-content">
+                            <h1>Humantroop Ventures fluent in finding leaders</h1>
+                            <p>We offer HR services from qualified HR consultants that can analyze your business
+                                operations and design the people management solution that will work best for you.</p>
+                            <div class="banner-btn">
+                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us<i class="ri-arrow-right-line"></i></a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/training program.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -118,7 +118,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/HR recruiting.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -184,7 +184,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/project/services_details_inner02.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">

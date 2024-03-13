@@ -1531,7 +1531,7 @@ Banner Area Style
 }
 
 .slider-item.bg-3 {
-  background-image: url(../images/banner/banner-bg-3.jpg);
+  background-image: url(../images/banner/banner-bg-3.png);
 }
 
 .slider-item .container-fluid {
@@ -1597,7 +1597,7 @@ Banner Area Style
 }
 
 .banner-content h1 {
-  font-size: 70px;
+  font-size: 55px;
   font-weight: 800;
   color: #ffffff;
   margin-bottom: 30px;
