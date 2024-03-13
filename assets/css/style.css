@@ -1785,8 +1785,6 @@ Partner Style
 .partner-slider.owl-carousel .owl-item img {
   width: auto;
   margin: auto;
-  -webkit-filter: grayscale(1);
-          filter: grayscale(1);
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
 }
