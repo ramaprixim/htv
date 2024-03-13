@@ -5857,5 +5857,10 @@ Go To Top Style
   width:30px;
   
 }
-
+.email{
+  height:200px;
+  width:200px;
+  background-color: #1f1f1f;
+  color:white;
+}
 /*# sourceMappingURL=style.css.map */
