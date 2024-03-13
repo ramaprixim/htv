@@ -65,22 +65,18 @@
                 <div class="parner-overly">
                     <div class="partner-slider owl-carousel owl-theme">
                         <div class="parner-logo">
-                            <a href="#"><img src="assets/images/partner/partner-logo-1.png" alt="Image"></a>
+                            <a href="#"><img src="assets/images/icon/entre.png" alt="Image" style=""></a>
                         </div>
                         <div class="parner-logo">
-                            <a href="#"><img src="assets/images/partner/partner-logo-2.png" alt="Image"></a>
+                            <a href="#"><img src="assets/images/icon/Google_News_2015.webp" alt="Image" style="margin-top: 28px;height: 44px;"></a>
                         </div>
                         <div class="parner-logo">
-                            <a href="#"><img src="assets/images/partner/partner-logo-3.png" alt="Image"></a>
+                            <a href="#"><img src="assets/images/icon/dailyhunt.svg" alt="Image" style="margin-top: 28px;height: 44px;"></a>
                         </div>
                         <div class="parner-logo">
-                            <a href="#"><img src="assets/images/partner/partner-logo-4.png" alt="Image"></a>
+                            <a href="#"><img src="assets/images/icon/navi mumbai live logo.png" alt="Image" style="height: 90px;"></a>
                         </div>
-                        <div class="parner-logo">
-                            <a href="#"><img src="assets/images/partner/partner-logo-5.png" alt="Image"></a>
-                        </div>
-                        
-                    </div>
+                     </div>
                 </div>
             </div>
         </div>

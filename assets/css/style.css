@@ -197,6 +197,7 @@ textarea {
   display: inline-block;
   border: 1px solid rgba(40, 170, 74, 0.4);
   z-index: 1;
+  width:200px;
 }
 
 .default-btn i {
@@ -1783,8 +1784,6 @@ Partner Style
 .partner-slider.owl-carousel .owl-item img {
   width: auto;
   margin: auto;
-  -webkit-filter: grayscale(1);
-          filter: grayscale(1);
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
 }
@@ -5837,5 +5836,30 @@ Go To Top Style
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
+.regdiv{
+  height: 250px;
+  background-color: #f4fbf6;
+}
+.footer-para p{
+  color:black;
+  font-size:45px;
+  font-weight: bold;
 
+}
+.footer-para{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-reg a{
+  height:80px;
+  width:30px;
+  
+}
+.email{
+  height:200px;
+  width:200px;
+  background-color: #1f1f1f;
+  color:white;
+}
 /*# sourceMappingURL=style.css.map */
