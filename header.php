@@ -41,11 +41,25 @@
     <div class="preloader clock text-center">
         <div class="organiaLoader">
             <div class="loaderO">
-                <span>I</span>
+                <span>H</span>
+                <span>U</span>
+                <span>M</span>
+                <span>A</span>
+                <span>N</span>
+                <span>T</span>
                 <span>R</span>
-                <span>I</span>
-                <span>S</span>
+                <span>O</span>
+                <span>O</span>
+                <span>P</span>
+                <span> </span>
+                <span>V</span>
                 <span>E</span>
+                <span>N</span>
+                <span>T</span>
+                <span>U</span>
+                <span>R</span>
+                <span>E</span>
+                <span>S</span>
             </div>
         </div>
     </div>
@@ -63,8 +77,9 @@
                 <div class="col-lg-4 col-md-4">
                     <div class="heder-left-content">
                         <div class="content">
-                            <i class="ri-user-voice-line"></i>
-                            <p>Welcome To Our Irise Staffing Agency</p>
+                            <ul class="tg-header__top-info left-side list-wrap">
+                                <li><i class="flaticon-mail"></i><a href="tel:0123456789">support@humantroop.in</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
