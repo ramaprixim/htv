@@ -232,7 +232,7 @@
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">Payroll Outsourcing</a></h3>
-                                <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p>
+                                <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p><br>
                                 
                             </div>
                         </div>
@@ -254,7 +254,7 @@
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">Recruitment</a></h3>
-                                <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p>
+                                <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p><br>
                                
                             </div>
                         </div>
@@ -527,7 +527,7 @@
                                 <img src="assets/images/services/services-img-1.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>Dedicated Lead HR Consultant</h3>
+                                <h3>Dedicated Lead HR Consultant</h3><br>
                                 <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p>
                                 
                             </div>
@@ -543,7 +543,7 @@
                                 <img src="assets/images/services/services-img-3.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>24/7 Support & Advice Access</h3>
+                                <h3>24/7 Support & Advice Access</h3><br>
                                 <p>So you can call at any time even outside business hours for reassurance or confidential matters.</p>
                                
                             </div>
@@ -652,7 +652,7 @@
                                 <i class="flaticon-star-3"></i>
                             </div>
                             <p>“Very professional and excellent service throughout the process. A much recommended
-                                    company in BPO recruitment.”</p>
+                                    company in BPO recruitment.”</p><br>
                             <div class="quote">
                                 <i class="flaticon-left-quotes-sign"></i>
                             </div>

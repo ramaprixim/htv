@@ -122,9 +122,9 @@
 
                          
                             <div class="experience">
-                                <div class="icon">
+                                <!-- <div class="icon">
                                     <i class="flaticon-experience"></i>
-                               </div>
+                               </div> -->
                                <p>There are various laws and statutes that a business must comply with or face criminal penalties. There are central level laws and there are state government laws that apply to business.</p>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
                                 <img src="assets/images/services/services-img-3.png" alt="Image">
                             </div>
                             <div class="services-content">
-                              >
+                              
                                 <p>Completion of transfer and withdrawal forms for PF</p>
                                
                             </div>
@@ -233,7 +233,7 @@
                             </div>
                             <div class="services-content">
                            
-                                <p>Regulatory management and compliance monitoring</p><br>
+                                <p>Regulatory management and compliance monitoring</p>
                                
                             </div>
                             <div class="number">

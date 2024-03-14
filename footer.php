@@ -39,36 +39,40 @@
 
 <div class="start-footer-area pt-100 pb-70">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-4">
+        <div class="row d-flex footer-info">
+            <div class="col-lg-4 email">
                 <div class="row d-flex justify-content-center align-center">
-                    <div class="col-lg-6 email1">
+                    <div class="col-lg-4 email1">
                         <img src="assets/images/icon/email (1).png" alt="">
-                                        </div>
-                <div class="col-lg-6 email2">
-                    <h3>Email</h3>
+                    </div>
+                    <div class="col-lg-8 email2">
+                        <h3>Email</h3>
+                        <span>support@humantroop.in</span>
+                    </div>
                 </div>
             </div>
-            </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 email" style="background-color: #28aa4a;">
                 <div class="row d-flex justify-content-center align-center">
-                    <div class="col-lg-6 email1">
-                        <img src="assets/images/icon/phone-call.png" alt="">
-                                        </div>
-                <div class="col-lg-6 email2">
-                    <h3>Email</h3>
+                    <div class="col-lg-4  email1" >
+                        <img  src="assets/images/icon/phone-call.png" alt="">
+                    </div>
+                    <div class="col-lg-8 email2" >
+                        <h3>Call</h3>
+                        <span>+919137655589</span>
+                    </div>
                 </div>
             </div>
-            </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 email" style="background-color: #323232;">
                 <div class="row d-flex justify-content-center align-center">
-                    <div class="col-lg-6 email1">
+                    <div class="col-lg-3 email1">
                         <img src="assets/images/icon/location.png" alt="">
-                                        </div>
-                <div class="col-lg-6 email2">
-                    <h3>Email</h3>
+                    </div>
+                    <div class="col-lg-9 email2">
+                        <h3>Address</h3>
+                        <span style="font-size: 14px;">HumanTroop Ventures
+                            office 807, Realtech Park, Sector 30A, Near Vashi Railway Station, Vashi, Navi Mumbai - 400703.Maharashtra</span>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
     </div>
