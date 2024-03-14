@@ -29,7 +29,7 @@
                 <p>Are you a Job Seeker, Looking for Openings ?</p>
             </div>
             <div class="col-lg-4 col-sm-8">
-                <a href="services-style-one.html" class="default-btn btn footer-reg">Explore More <i
+                <a href="candidate-registration.php" class="default-btn btn footer-reg">REGISTER HERE<i
                         class="ri-arrow-right-line"></i></a>
             </div>
         </div>
