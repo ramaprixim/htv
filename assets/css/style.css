@@ -5857,9 +5857,24 @@ Go To Top Style
   
 }
 .email{
-  height:200px;
-  width:200px;
+  height:160px;
+padding-top:38px;
+padding-bottom:30px;
   background-color: #1f1f1f;
   color:white;
+  /* display:flex;
+  align-items: center;
+  justify-content: center; */
+}
+.email2 h3{
+  color:white;
+  font-size: 18px;
+}
+.footer-info{
+  margin-top:-100px;
+  margin-bottom: 100px;
+}
+.email1 img{
+  height: 60px;
 }
 /*# sourceMappingURL=style.css.map */
