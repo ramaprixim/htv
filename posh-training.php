@@ -73,7 +73,7 @@
                             <div class="services-content">
                                 <h3>POSH Training for Employee Awareness</h3>
                                 <p>Manage the entire workforce of the organization. Every employee will have a clear understanding of the POSH Act, what constitutes sexual harassment, tips to prevent online/virtual sexual harassment, complainant and respondent rights, and more.</p>
-                                
+                                <br>
                             </div>
                             <div class="number">
                                 <span>01</span>
@@ -88,7 +88,7 @@
                             <div class="services-content">
                                 <h3>POSH Training for In-House HR Professionals</h3>
                                 <p>Train them in the issue of sexual harassment and create awareness of the criminal consequences of the Act on POSH. HR staff are trained to report incidents and explain sexual harassment policies to new hires.</p>
-                             
+                             <br><br>
                             </div>
                             <div class="number">
                                 <span>02</span>
@@ -103,7 +103,7 @@
                             <div class="services-content">
                                 <h3>POSH Training for Internal Committee (IC)</h3>
                                 <p>Trains IC members on their roles and responsibilities to ensure they are informed about the nuances of sexual harassment investigations. We equip IC members with knowledge of the procedures set out in the POSH Act, including conducting investigations and submitting the annual POSH report.</p>
-                               
+                               <br>
                             </div>
                             <div class="number">
                                 <span>03</span>

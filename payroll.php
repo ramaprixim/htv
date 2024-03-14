@@ -78,7 +78,7 @@
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">TRANSPARENT PRICING</a></h3>
-                                <p>Our team of specialists is ready to assist you.</p><br><br>
+                                <p>Our team of specialists is ready to assist you.</p><br><br><br>
                                 <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
@@ -100,7 +100,7 @@
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">24/7 SUPPORT</a></h3>
-                                <p>Need assistance after business hours? No problem. Our team of specialists is ready to assist you.</p><br>
+                                <p>Need assistance after business hours? No problem. Our team of specialists is ready to assist you.</p>
                                 <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
@@ -143,7 +143,7 @@
                             </div>
                             <div class="services-content">
                                 <h3>Payroll Services for Expatriate</h3>
-                                <p>Our online payroll services take the complexity out of expatriate payroll management.</p>
+                                <p>Our online payroll services take the complexity out of expatriate payroll management.</p><br>
                              
                             </div>
                             <div class="number">
@@ -158,7 +158,7 @@
                             </div>
                             <div class="services-content">
                                 <h3>Compliance Management</h3>
-                                <p>Compliance is an 'affordable must' for businesses of every type, regardless of size or purpose.</p>
+                                <p>Compliance is an 'affordable must' for businesses of every type, regardless of size or purpose.</p><br>
                                
                             </div>
                             <div class="number">
