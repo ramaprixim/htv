@@ -110,7 +110,9 @@
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
                                 </ul> -->
-                                <h3><a href="blog-details.html">Training Programs</a></h3>
+                                <h3><a href="staffing.php">Staffing</a></h3>
+                                <p>Staffing Is one of our expertise. Our staffing services ensure a seamless recruitment process, identifying and onboarding the best-fit candidates for your team's success.
+</p>
                                 
                             </div>
                         </div>
@@ -131,7 +133,9 @@
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
                                 </ul> -->
-                                <h3><a href="blog-details.html">HR Outsourcing</a></h3>
+                                <h3><a href="payroll.php">Payroll Outsourcing</a></h3>
+                                <p>From accurate calculations to timely payments HumanTroop Simplify your payroll processes with our outsourcing solutions.
+</p>
                                
                             </div>
                         </div>
@@ -152,7 +156,9 @@
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
                                 </ul> -->
-                                <h3><a href="blog-details.html">Quick Hiring</a></h3>
+                                <h3><a href="posh-training.php">POSH Training</a></h3>
+                                <p>Prioritize a safe and respectful workplace with our POSH training. We provide all-inclusive sessions to educate and empower your team and encourage a culture of respect.
+</p>
                                 
                             </div>
                         </div>
@@ -198,12 +204,13 @@
                          
                             <div class="container d-flex">
                         <div class="col-lg-6">
-                        <h5>01 - Increased Productivity</h5>
-                            <p>A happy workforce is productive <br>and helps you focus on increasing <br>profitability.</p>
+                        <h5>01 - Experienced Team</h5>
+                            <p>HumanTroop has experienced experts who have experience more than decades working in this industry and making big contributions to businesses and candidates.
+</p>
                         </div>
                         <div class="col-lg-6">
-                            <h5>02 - Save Time & Money</h5>
-                            <p>We will free up your valuable time, provide expert advice and <br> guidance.</p>
+                            <h5>02 - Save Time And Money</h5>
+                            <p>Save time and money at the same time with humantroop services. We'll help you reclaim your precious time while offering expert advice and guidance to support you.</p>
                         </div>
                     </div>
                         </div>
@@ -441,7 +448,7 @@
                         <div class="col-lg-3 col-md-3 col-6">
                             <div class="single-counter-card">
                                 <h1>
-                                    <span class="odometer" data-count="15">00</span>
+                                    <span class="odometer" data-count="50">00</span>
                                     <span class="target">+</span>
                                 </h1>
                                 <span>Corporate Trainings Done</span>
@@ -562,8 +569,8 @@
                                 <img src="assets/images/services/services-img-3.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>24/7 Support & Advice Access</h3><br>
-                                <p>So you can call at any time even outside business hours for reassurance or confidential matters.</p>
+                                <h3>365 Days Support</h3><br>
+                                <p>HumanTroop offers the highest-quality services around every minute of every day, 365 days throughout the year. We delight businesses and candidates each day by offering the highest quality services.</p>
                                
                             </div>
                             <div class="number">
@@ -577,8 +584,8 @@
                                 <img src="assets/images/services/services-img-4.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>Your Own Legal Team Available All Times</h3>
-                                <p>For advanced support, complex cases and trials, your team is on call when you need them 24/7.</p>
+                                <h3>Value-Based Services</h3>
+                                <p>With the help of our valued human resources services, empower your staff and establish a culture of honesty, growth, and teamwork for a successful future.</p>
                                 
                             </div>
                             <div class="number">
