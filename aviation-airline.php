@@ -5,10 +5,10 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-6">
                 <div class="page-header-content">
-                    <h1>Automotive</h1>
+                    <h1>Aviation Airline</h1>
                     <ul>
                         <li><a href="index.html">Industries</a></li>
-                        <li>Automotive</li>
+                        <li>Aviation Airline</li>
                     </ul>
                 </div>
             </div>

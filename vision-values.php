@@ -90,7 +90,6 @@
                     <div class="services-content">
                         <h3>Responsibility</h3>
                         <p>We are responsible for fulfilling our commitments to our people, clients, partners and all our stakeholders with a clear understanding of the urgency and responsibility that comes with these commitments.</p>
-                        <br>
                     </div>
                     <div class="number">
                         <span>02</span>
@@ -119,7 +118,6 @@
                     <div class="services-content">
                         <h3>Empowerment</h3>
                         <p>We are empowered to deliver operational excellence through innovation and leadership at all levels.</p>
-                        <br>
                     </div>
                     <div class="number">
                         <span>04</span>
