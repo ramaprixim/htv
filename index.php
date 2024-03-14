@@ -1,10 +1,56 @@
 
 <?php include("header.php") ?>
+
+
+
+
+
+
 <style>
     .skill-area::before {
         height: 0px;
     }
 </style>
+
+
+<script>
+    function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+
+
+<!-- A button to open the popup form -->
+<button class="open-button" onclick="openForm()">Employer Call Back Request</button>
+
+<!-- The form -->
+<div class="form-popup" id="myForm">
+
+  <form action="/action_page.php" class="form-container">
+  <h5>Please fill out the form below and we will get back to you as soon as possible.</h5>
+   
+
+  <input type="text" name="float-name" placeholder="*Name" class="input_filed">
+
+  <input type="text" name="float-company" placeholder="*Company" class="input_filed">
+
+  <input type="text" name="float-city" placeholder="*City" class="input_filed">
+
+  <input type="text" name="float-contact" placeholder="*Contact" class="input_filed">
+
+  <textarea placeholder="*Comment" name="msg" required=""></textarea>
+
+    <button type="submit" class="btn">Submit</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+
 <div class="banner-area">
             <div class="hero-slider owl-carousel owl-theme owl-loaded owl-drag">
             <div class="owl-stage-outer">
