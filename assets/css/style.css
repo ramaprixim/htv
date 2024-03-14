@@ -740,7 +740,9 @@ Navbar Area Style
 .navbar-brand {
   margin-right: 40px;
 }
-
+.navbar-brand>img{
+  height: 60px;
+}
 .desktop-nav {
   padding-top: 0;
   padding-bottom: 0;
