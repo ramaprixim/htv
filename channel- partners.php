@@ -29,7 +29,7 @@
 
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-lg-8">
+        <div class="col-lg-9">
             <div class="services-details-content">
                 <div class="top-img">
                     <img src="assets/images/services/services-img-16.jpg" alt="Image">

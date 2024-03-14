@@ -1,10 +1,12 @@
 
 <?php include("header.php") ?>
+<style>
+    .skill-area::before {
+        height: 0px;
+    }
+</style>
 <div class="banner-area">
             <div class="hero-slider owl-carousel owl-theme owl-loaded owl-drag">
-                
-                
-                
             <div class="owl-stage-outer">
                 <div class="owl-stage" style="transform: translate3d(-7612px, 0px, 0px); transition: all 0s ease 0s; width: 13321px;">
                     <!-- <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
@@ -97,20 +99,12 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/project/training program.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/section 1 img1.jpg" alt="Image" style="height: 287px;"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">Training Programs</a></h3>
+                                <h3><a href="blog-details.html">Staffing</a></h3>
+                                <p>Staffing Is one of our expertise. our staffing services ensure a seamless recruitment process, identifying and onboarding the best-fit candidates for your team's success.
+</p>
                                 
                             </div>
                         </div>
@@ -118,7 +112,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/project/HR recruiting.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/section 1 img 2.jpg" alt="Image" style="height: 287px;"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -131,7 +125,9 @@
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
                                 </ul> -->
-                                <h3><a href="blog-details.html">HR Outsourcing</a></h3>
+                                <h3><a href="payroll.php">Payroll Outsourcing</a></h3>
+                                <p>From accurate calculations to timely payments HumanTroop Simplify your payroll processes with our outsourcing solutions.
+</p>
                                
                             </div>
                         </div>
@@ -139,7 +135,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/section 1 img 3.jpg" alt="Image" s></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -152,7 +148,9 @@
                                         <a href="blog-grid.html">Latest News</a>
                                     </li>
                                 </ul> -->
-                                <h3><a href="blog-details.html">Quick Hiring</a></h3>
+                                <h3><a href="posh-training.php">POSH Training</a></h3>
+                                <p>Prioritize a safe and respectful workplace with our POSH training. We provide all-inclusive sessions to educate and empower your team and encourage a culture of respect.
+</p>
                                 
                             </div>
                         </div>
@@ -184,7 +182,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/project/services_details_inner02.jpg" alt="Image">
+                            <img src="assets/images/project/humantroop ventures home section 3.png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -198,12 +196,13 @@
                          
                             <div class="container d-flex">
                         <div class="col-lg-6">
-                        <h5>01 - Increased Productivity</h5>
-                            <p>A happy workforce is productive <br>and helps you focus on increasing <br>profitability.</p>
+                        <h5>01 - Experienced Team</h5>
+                            <p>HumanTroop has experienced experts who have experience more than decades working in this industry and making big contributions to businesses and candidates.
+</p>
                         </div>
                         <div class="col-lg-6">
-                            <h5>02 - Save Time & Money</h5>
-                            <p>We will free up your valuable time, provide expert advice and <br> guidance.</p>
+                            <h5>02 - Save Time And Money</h5>
+                            <p>Save time and money at the same time with humantroop services. We'll help you reclaim your precious time while offering expert advice and guidance to support you.</p>
                         </div>
                     </div>
                         </div>
@@ -226,7 +225,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/section 4 img 1.png" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -240,15 +239,15 @@
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">Payroll Outsourcing</a></h3>
-                                <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p>
-                                
+                                <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p><br>
+                                <br>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/section 4 img 2.png" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -262,7 +261,8 @@
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">Recruitment</a></h3>
-                                <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p>
+                                <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p><br>
+                                <br>
                                
                             </div>
                         </div>
@@ -270,22 +270,11 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/section 4 img 3.png" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Compliances</a></h3>
                                 <p>Humantroop Ventures helps clients ensure compliance with legal regulations such as labor law.</p>
-                                
                             </div>
                         </div>
                     </div>
@@ -441,7 +430,7 @@
                         <div class="col-lg-3 col-md-3 col-6">
                             <div class="single-counter-card">
                                 <h1>
-                                    <span class="odometer" data-count="15">00</span>
+                                    <span class="odometer" data-count="50">00</span>
                                     <span class="target">+</span>
                                 </h1>
                                 <span>Corporate Trainings Done</span>
@@ -474,56 +463,183 @@
                 <div class="services-slider owl-carousel owl-theme">
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-5.png" alt="Image"></a>
+                            <a href="automotive.php"><img src="assets/images/services/Automotive.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Information Technology</p>
+                            <h3><a href="automotive.php">Automotive</a></h3>
                           
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-6.png" alt="Image"></a>
+                            <a href="aviation-airline.php"><img src="assets/images/services/Aviation Airline.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Automotive</p>
+                            <h3><a href="aviation-airline.php">Aviation Airline</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="banking-finance.php"><img src="assets/images/services/Because change is a given.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="banking-finance.php">Banking & Finance</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="bpo-kpo.php"><img src="assets/images/services/BPO KPO.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="bpo-kpo.php">BPO / KPO</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="construction-engineering.php"><img src="assets/images/services/Construction & Engineering.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="construction-engineering.php">Construction & Engineering</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="events-management.php"><img src="assets/images/services/Events Management.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="events-management.php">Events Management</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="export-import.php"><img src="assets/images/services/Export and import.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="export-import.php">Export/ Import</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="fmcg.php"><img src="assets/images/services/FMCG Industry.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="fmcg.php">FMCG</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="healthcare-wellness.php"><img src="assets/images/services/Healthcare HR Support.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="healthcare-wellness.php">Healthcare & Wellness</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="hospitality-tourism.php"><img src="assets/images/services/Hospitality Tourism.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="hospitality-tourism.php">Hospitality Tourism</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="information-technology.php"><img src="assets/images/services/Information Technology.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="information-technology.php">Information Technology</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="life-science-pharmaceuticals.php"><img src="assets/images/services/Life Sciences & Pharmaceuticals.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="life-science-pharmaceuticals.php">Life Science Pharmaceuticals</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="manufacturing.php"><img src="assets/images/services/Manufacturing.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="manufacturing.php">Manufacturing</a></h3>
+                          
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="metals-mining.php"><img src="assets/images/services/Metals & Mining Industries.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="metals-mining.php">Metals & Mining</a></h3>
                            
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-7.png" alt="Image"></a>
+                            <a href="oil-gas.php"><img src="assets/images/services/Oil & Gas.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Aviation & Airline</p>
+                            <h3><a href="oil-gas.php">Oil & Gas</a></h3>
                             
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-8.png" alt="Image"></a>
+                            <a href="power-renewable-energy.php"><img src="assets/images/services/Power & Renewable Energy Industries.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Banking & Finance</p>
+                            <h3><a href="power-renewable-energy.php">Power and Renewable</a></h3>
+
                            
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-5.png" alt="Image"></a>
+                            <a href="retails.php"><img src="assets/images/services/Retail.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Construction & Engineering</p>
+                            <h3><a href="retails.php">Retails</a></h3>
                             
                         </div>
                     </div>
-                    
-                   
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="shipping-logistics.php"><img src="assets/images/services/Shipping & Logistics Industries.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="shipping-logistics.php">Shipping & Logistics</a></h3>
+                            
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="telecommunications.php"><img src="assets/images/services/Telecommunications Industry.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="telecommunications.php">Telecommunications</a></h3>
+                        </div>
+                    </div>
+                    <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="tours-travels.php"><img src="assets/images/services/Travel & Tourism.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="tours-travels.php">Tours And Travels</a></h3>    
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -546,7 +662,7 @@
                                 <img src="assets/images/services/services-img-1.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>Dedicated Lead HR Consultant</h3>
+                                <h3>Dedicated Lead HR Consultant</h3><br>
                                 <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p>
                                 
                             </div>
@@ -562,8 +678,8 @@
                                 <img src="assets/images/services/services-img-3.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>24/7 Support & Advice Access</h3>
-                                <p>So you can call at any time even outside business hours for reassurance or confidential matters.</p>
+                                <h3>365 Days Support</h3><br>
+                                <p>HumanTroop offers the highest-quality services around every minute of every day, 365 days throughout the year. We delight businesses and candidates each day by offering the highest quality services.</p>
                                
                             </div>
                             <div class="number">
@@ -577,8 +693,8 @@
                                 <img src="assets/images/services/services-img-4.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>Your Own Legal Team Available All Times</h3>
-                                <p>For advanced support, complex cases and trials, your team is on call when you need them 24/7.</p>
+                                <h3>Value-Based Services</h3>
+                                <p>With the help of our valued human resources services, empower your staff and establish a culture of honesty, growth, and teamwork for a successful future.</p>
                                 
                             </div>
                             <div class="number">
@@ -604,47 +720,39 @@
                             <div class="skill-title">
                                 <span>Staffing Partners</span>
                                 <h2>Expertise with the Spirit of Innovation</h2>
-                                <p>Humantroop Ventures is a well-known search and staffing company in India. With a solid foundation of quality and excellence</p>
-                               
+                                <p>Humantroop Ventures is a well-known search and staffing company in India. With a solid foundation of quality and excellence</p>   
                             </div>
-                            <div class="skill-bar" data-percentage="80%">
-                                <h4 class="progress-title-holder">
-                                    <span class="progress-title">Staffing</span>
-                                    <span class="progress-number-wrapper">
-                                        <span class="progress-number-mark">
-                                            <span class="percent"></span>
-                                            <span class="down-arrow"></span>
-                                        </span>
-                                    </span>
-                                </h4>
-    
-                                <div class="progress-content-outter">
-                                    <div class="progress-content"></div>
-                                </div>
-                            </div>
-    
-                            <div class="skill-bar" data-percentage="60%">
-                                <h4 class="progress-title-holder clearfix">
-                                    <span class="progress-title">Product Engineering</span>
-                                    <span class="progress-number-wrapper">
-                                        <span class="progress-number-mark">
-                                            <span class="percent"></span>
-                                            <span class="down-arrow"></span>
-                                        </span>
-                                    </span>
-                                </h4>
-    
-                                <div class="progress-content-outter">
-                                    <div class="progress-content"></div>
-                                </div>
-                            </div>
-    
-
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="skill-image">
-                            <img src="assets/images/skill/skill-img-1.png" alt="Image">
+                        <div class="skill-bar" data-percentage="90%">
+                            <h4 class="progress-title-holder">
+                                <span class="progress-title">Staffing</span>
+                                <span class="progress-number-wrapper">
+                                    <span class="progress-number-mark">
+                                        <span class="percent"></span>
+                                        <span class="down-arrow"></span>
+                                    </span>
+                                </span>
+                            </h4>
+                            <div class="progress-content-outter">
+                                <div class="progress-content"></div>
+                            </div>
+                        </div>
+                        <div class="skill-bar" data-percentage="85%">
+                            <h4 class="progress-title-holder clearfix">
+                                <span class="progress-title">Recruitment</span>
+                                <span class="progress-number-wrapper">
+                                    <span class="progress-number-mark">
+                                        <span class="percent"></span>
+                                        <span class="down-arrow"></span>
+                                    </span>
+                                </span>
+                            </h4>
+
+                            <div class="progress-content-outter">
+                                <div class="progress-content"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -679,7 +787,7 @@
                                 <i class="flaticon-star-3"></i>
                             </div>
                             <p>“Very professional and excellent service throughout the process. A much recommended
-                                    company in BPO recruitment.”</p>
+                                    company in BPO recruitment.”</p><br>
                             <div class="quote">
                                 <i class="flaticon-left-quotes-sign"></i>
                             </div>

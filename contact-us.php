@@ -27,6 +27,40 @@
     </div>
 </div>
 
+<div class="contact-area pt-100 pb-70">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="single-contact-card">
+                            <div class="icon">
+                                <i class="flaticon-mail"></i>
+                            </div>
+                            <h3>Email Address:</h3>
+                            <a href="mailto:support@humantroop.in">support@humantroop.in</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="single-contact-card">
+                            <div class="icon">
+                                <i class="flaticon-placeholder"></i>
+                            </div>
+                            <h3>Address:</h3>
+                            <span>HumanTroop Ventures office 807, Realtech Park, Sector 30A, Near Vashi Railway Station, Vashi, Navi Mumbai - 400703.Maharashtra</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="single-contact-card">
+                            <div class="icon">
+                                <i class="flaticon-phone-call-1"></i>
+                            </div>
+                            <h3>Phone Number:</h3>
+                            <a href="tel:+919137655589">+919137655589</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 <div class="contact-form-area pb-100">
     <div class="container">
         <div class="section-title">
