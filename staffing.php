@@ -29,10 +29,26 @@
         </div>
 
 
+
+  <!--Start Services Area-->
+  
+       
+        
+        <!--End Services Area-->
+<br>
+        <div class="section-title">
+           
+                    <h2> Our Expertise in Staffing </h2>
+                   
+            </div>
+
      <!--Start What We Do Area-->
      <div class="what-we-do-area ptb-100">
+  
             <div class="container">
+          
                 <div class="row align-items-center">
+                    
                     <div class="col-lg-6">
                         <div class="what-we-do-image pr-20">
                             <img src="assets/images/about/about-img-3.jpg" alt="Image">
@@ -152,5 +168,6 @@
         </div>
         <!--End Blog Area-->
 
+        
 
 <?php include("footer.php"); ?>
