@@ -286,7 +286,7 @@ function closeForm() {
                                 </ul> -->
                                 <h3><a href="blog-details.html">Payroll Outsourcing</a></h3>
                                 <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p><br>
-                                
+                                <br>
                             </div>
                         </div>
                     </div>
@@ -308,6 +308,7 @@ function closeForm() {
                                 </ul> -->
                                 <h3><a href="blog-details.html">Recruitment</a></h3>
                                 <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p><br>
+                                <br>
                                
                             </div>
                         </div>
@@ -506,58 +507,56 @@ function closeForm() {
                     
                 </div>
                 <div class="services-slider owl-carousel owl-theme">
-                    <div class="single-services-box">
+                <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-5.png" alt="Image"></a>
+                            <a href="automotive.php"><img src="assets/images/services/Automotive.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Information Technology</p>
+                            <p>business</p>
+                            <h3><a href="automotive.php">Automotive</a></h3>
+                          
+                        </div>
+                    </div>    
+                <div class="single-services-box">
+                        <div class="services-img">
+                            <a href="aviation-airline.php"><img src="assets/images/services/Aviation Airline.jpg" alt="Image"></a>
+                        </div>
+                        <div class="services-content">
+                            <p>business</p>
+                            <h3><a href="aviation-airline.php">Aviation Airline</a></h3>
                           
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-6.png" alt="Image"></a>
+                            <a href="banking-finance.php"><img src="assets/images/services/Because change is a given.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Automotive</p>
-                           
+                            <p>business</p>
+                            <h3><a href="banking-finance.php">Banking & Finance</a></h3>
+                          
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-7.png" alt="Image"></a>
+                            <a href="construction-engineering.php"><img src="assets/images/services/Construction & Engineering.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Aviation & Airline</p>
-                            
+                            <p>business</p>
+                            <h3><a href="construction-engineering.php">Construction & Engineering</a></h3>
+                          
                         </div>
                     </div>
                     <div class="single-services-box">
                         <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-8.png" alt="Image"></a>
+                            <a href="information-technology.php"><img src="assets/images/services/Information Technology.jpg" alt="Image"></a>
                         </div>
                         <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Banking & Finance</p>
-                           
+                            <p>business</p>
+                            <h3><a href="information-technology.php">Information Technology</a></h3>
+                          
                         </div>
                     </div>
-                    <div class="single-services-box">
-                        <div class="services-img">
-                            <a href="service-details.html"><img src="assets/images/services/services-img-5.png" alt="Image"></a>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="service-details.html">Business</a></h3>
-                            <p>Construction & Engineering</p>
-                            
-                        </div>
-                    </div>
-                    
-                   
                 </div>
             </div>
         </div>
