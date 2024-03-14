@@ -102,7 +102,9 @@
                                 <a href="blog-details.html"><img src="assets/images/project/section 1 img1.jpg" alt="Image" style="height: 287px;"></a>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="blog-details.html">Training Programs</a></h3>
+                                <h3><a href="blog-details.html">Staffing</a></h3>
+                                <p>Staffing Is one of our expertise. our staffing services ensure a seamless recruitment process, identifying and onboarding the best-fit candidates for your team's success.
+</p>
                                 
                             </div>
                         </div>
