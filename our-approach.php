@@ -34,7 +34,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/about/about-img-2.png" alt="Image">
+                    <img src="assets/images/services/who we are - Our Approch - our approach.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">

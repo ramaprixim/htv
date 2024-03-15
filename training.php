@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="what-we-do-image pr-20">
-                            <img src="assets/images/about/about-img-4.jpg" alt="Image">
+                            <img src="assets/images/services/our services - Training -Training Services.png" alt="Image">
                         </div>
                     </div>
                 </div>

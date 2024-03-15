@@ -28,17 +28,17 @@
 </div>
 
 
-<!--Start Details Area-->
-<div class="service-details-area pt-100 pb-70">
+<!--start Blog Area-->
+<div class="blog-area pt-100 pb-70">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="services-details-content">
-                    <div class="top-img">
-                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+            <div class="col-lg-10 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                <div class="single-blog-card style2">
+                    <div class="blog-img">
+                        <a href="#"><img src="assets/images/services/retails .png" alt="Image"></a>
                     </div>
-                    <div class="analysis-content">
-                        <h2>RETAIL</h2>
+                    <div class="blog-content">
+                        <h3>RETAIL</h3>
                         <p>Retail is the fastest-growing sector at home and abroad. With the increase in non-essential
                             income and affordability for consumers, the industry is experiencing growth. Due to foreign
                             direct investment regulation, multinational companies are investing in India. Organized
@@ -49,9 +49,10 @@
                             clients with the identification, designation, and recruitment of experienced professionals.
                             Our comprehensive cross-sector experience covers all functional areas, from senior to
                             mid-level positions.</p>
+
                     </div>
-                    <div class="analysis-content">
-                        <h2>Retail Sector Human Resources Support & Retail HR Consultancy Service</h2>
+                    <div class="blog-content">
+                        <h3>Retail Sector Human Resources Support & Retail HR Consultancy Service</h3>
                         <p>The role of HR in retail is a crucial and often overlooked component, but not where
                             Humantroop Ventures is involved. It is vital to properly assess the performance of a
                             business in the area of ​​human resource management in the retail sector; Humantroop
@@ -59,13 +60,14 @@
                             professional retail HR consultants and access to leading retail HR experts. We have an
                             incredibly diverse and broad understanding of HR policies in retail and can offer you the
                             benefit of our expertise in the role of HR in retail.</p>
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!--End Details Area-->
+<!--End Blog Area-->
 
 
 <?php include("footer.php") ?>
