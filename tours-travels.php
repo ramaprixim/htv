@@ -33,7 +33,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="what-we-do-image pr-20">
-                    <img src="assets/images/about/about-img-3.jpg" alt="Image">
+                    <img src="assets/images/services/industries - Tours And Travels.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -57,17 +57,17 @@
 </div>
 <!--End What We Do Area-->
 
-<!--Start Details Area-->
-<div class="service-details-area pt-100 pb-70">
+<!--Start Blog Area-->
+<div class="blog-area pt-100 pb-70">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="services-details-content">
-                    <div class="top-img">
-                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+            <div class="col-lg-10 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                <div class="single-blog-card style2">
+                    <div class="blog-img">
+                        <a href="#"><img src="assets/images/services/tours and travels.png" alt="Image"></a>
                     </div>
-                    <div class="analysis-content">
-                        <h2>Travel & Tourism HR Support & Tourism Human Resources Consultants </h2>
+                    <div class="blog-content">
+                        <h3>Travel & Tourism HR Support & Tourism Human Resources Consultants</h3>
                         <p>Human resources in tourism may not be the first thing that comes to mind when you think of a
                             travel agency, but they are an important part of any business. Having a smooth working
                             environment where your employees and management work with excellent communication is
@@ -75,13 +75,13 @@
                             industry can be tricky with employees often working in different parts of the world. HR in
                             the travel industry requires a highly experienced team and at Humantroop Ventures we have
                             experienced professionals that your company can rely on. Let us take care of all your travel
-                            HR</p>
+                            HR.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!--End Details Area-->
+<!--End Blog Area-->
 
 <?php include("footer.php") ?>

@@ -74,7 +74,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/services/our services - Outsourcing- HR outsourcing.png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="what-we-do-image pr-20">
-                            <img src="assets/images/about/about-img-4.jpg" alt="Image">
+                            <img src="assets/images/services/our services - Outsourcing- How can HR outsourcing benefit my business.png" alt="Image">
                         </div>
                     </div>
                 </div>

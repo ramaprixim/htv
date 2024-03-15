@@ -36,7 +36,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/services/our services -POSH Training - Anti-Sexual Harassment POSH Training In India (POSH Act).png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -152,7 +152,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/services/our services -POSH Training - POSH Act Compliance And Training.png" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -231,14 +231,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/services/our services -POSH Training - third image.png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-content pl-15">
                             <div class="about-title">
-                                <!-- <span>About The Company</span> -->
-                                <!-- <h2>We Are The Administration's Best Marketing Team</h2> -->
                                 <p>Our POSH hands-on training sessions provides a detailed overview of the POSH Act, creates awareness on sexual harassment, and educate all employees about the redressal procedures. Thus, helping in maintaining a positive work environment.</p>
                             </div>
 

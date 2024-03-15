@@ -34,7 +34,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="what-we-do-image pr-20">
-                    <img src="assets/images/about/about-img-3.jpg" alt="Image">
+                    <img src="assets/images/services/industries - Information Technology.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -79,7 +79,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/about/about-img-2.png" alt="Image">
+                    <img src="assets/images/services/information technology .png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">

@@ -27,17 +27,17 @@
     </div>
 </div>
 
-<!--Start Details Area-->
-<div class="service-details-area pt-100 pb-70">
+<!--Start Blog Area-->
+<div class="blog-area pt-100 pb-70">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="services-details-content">
-                    <div class="top-img">
-                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+            <div class="col-lg-10 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                <div class="single-blog-card style2">
+                    <div class="blog-img">
+                        <a href="#"><img src="assets/images/services/matel and mining.png" alt="Image"></a>
                     </div>
-                    <div class="analysis-content">
-                        <h2>METALS AND MINING</h2>
+                    <div class="blog-content">
+                        <h3>METALS AND MINING</h3>
                         <p>The key industries named Metals, Minerals, and Mining are an integral part of infrastructure
                             development in India. India ranked fourth among coal producers and third largest steel
                             producer. With this record, the future of the industry looks promising as there are still
@@ -47,8 +47,9 @@
                             services to our clients. We at Humantroop Ventures observe and understand the growth
                             trajectory of this industry and thus provide the best services to clients and maintain
                             client trust.</p>
-
-                        <h2>Metals & Mining Industries</h2>
+                    </div>
+                    <div class="blog-content">
+                        <h3>Metals & Mining Industries</h3>
                         <p>The metals & Mining industry broadly refers to the extraction of metals and minerals (mining)
                             and the primary and secondary processing of those metals and minerals. The industry is very
                             global in structure, with a few manufacturers accounting for the lion's share of production.
@@ -72,6 +73,6 @@
         </div>
     </div>
 </div>
-<!--End Details Area-->
+<!--End Blog Area-->
 
 <?php include("footer.php") ?>
