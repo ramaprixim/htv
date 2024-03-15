@@ -172,8 +172,8 @@ function closeForm() {
                                     </li>
                                 </ul> -->
                                 <h3><a href="payroll.php">Payroll Outsourcing</a></h3>
-                                <p>From accurate calculations to timely payments HumanTroop Simplify your payroll processes with our outsourcing solutions.
-</p>
+                                <p>From accurate calculations to timely payments HumanTroop Simplify your payroll processes with our outsourcing solutions. <br>
+</p> <br>
                                
                             </div>
                         </div>
@@ -285,8 +285,8 @@ function closeForm() {
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">Payroll Outsourcing</a></h3>
-                                <p>Payroll is able to provide accurate and timely payroll processing and tax filing services</p><br>
-                                <br>
+                                <p>HumanTroop has been providing excellent payroll services to many businesses as a payroll service provider.</p>
+                              
                             </div>
                         </div>
                     </div>
@@ -307,9 +307,8 @@ function closeForm() {
                                     </li>
                                 </ul> -->
                                 <h3><a href="blog-details.html">Recruitment</a></h3>
-                                <p>Humantroop Ventures offers clients full-time, temporary and part-time staffing solutions.</p><br>
-                                <br>
-                               
+                                <p>Humantroop Ventures offers clients <br>full-time, temporary and part-time staffing <br>solutions.</p>
+                                 
                             </div>
                         </div>
                     </div>
@@ -513,7 +512,7 @@ function closeForm() {
                         </div>
                         <div class="services-content">
                             <p>business</p>
-                            <h3><a href="automotive.php">Automotive</a></h3>
+                            <h3><a href="automotive.php">Automotive</a></h3><br>
                           
                         </div>
                     </div>    
@@ -523,7 +522,7 @@ function closeForm() {
                         </div>
                         <div class="services-content">
                             <p>business</p>
-                            <h3><a href="aviation-airline.php">Aviation Airline</a></h3>
+                            <h3><a href="aviation-airline.php">Aviation Airline</a></h3><br>
                           
                         </div>
                     </div>
@@ -533,7 +532,7 @@ function closeForm() {
                         </div>
                         <div class="services-content">
                             <p>business</p>
-                            <h3><a href="banking-finance.php">Banking & Finance</a></h3>
+                            <h3><a href="banking-finance.php">Banking & Finance</a></h3><br>
                           
                         </div>
                     </div>
@@ -553,7 +552,7 @@ function closeForm() {
                         </div>
                         <div class="services-content">
                             <p>business</p>
-                            <h3><a href="information-technology.php">Information Technology</a></h3>
+                            <h3><a href="information-technology.php">Information Technology</a></h3><br>
                           
                         </div>
                     </div>
@@ -580,7 +579,8 @@ function closeForm() {
                             </div>
                             <div class="services-content">
                                 <h3>Dedicated Lead HR Consultant</h3><br>
-                                <p>A 1-on-1 Team Leader Advisor is assigned to your unique business needs.</p>
+                                <p>HumanTroop Ventures provides outsourcing services for human resources management for all types of companies & industries.
+</p>
                                 
                             </div>
                             <div class="number">
@@ -596,7 +596,7 @@ function closeForm() {
                             </div>
                             <div class="services-content">
                                 <h3>365 Days Support</h3><br>
-                                <p>HumanTroop offers the highest-quality services around every minute of every day, 365 days throughout the year. We delight businesses and candidates each day by offering the highest quality services.</p>
+                                <p>HumanTroop offers the highest-quality services around every minute of every day, 365 days throughout the year. </p>
                                
                             </div>
                             <div class="number">
@@ -610,8 +610,8 @@ function closeForm() {
                                 <img src="assets/images/services/services-img-4.png" alt="Image">
                             </div>
                             <div class="services-content">
-                                <h3>Value-Based Services</h3>
-                                <p>With the help of our valued human resources services, empower your staff and establish a culture of honesty, growth, and teamwork for a successful future.</p>
+                                <h3>Value-Based Services</h3><br>
+                                <p>With the help of our valued Hr services, empower your staff and establish a culture of honesty, and teamwork for a successful future.</p>
                                 
                             </div>
                             <div class="number">
