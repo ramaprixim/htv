@@ -77,8 +77,9 @@
                 <div class="col-lg-4 col-md-4">
                     <div class="heder-left-content">
                         <div class="content">
-                            <ul class="tg-header__top-info left-side list-wrap">
-                                <li><i class="flaticon-mail"></i><a href="tel:0123456789">support@humantroop.in</a></li>
+                            <ul class="tg-header__top-info left-side list-wrap" style="display:flex;list-style:none;margin-bottom:4px;padding-left:4px;">
+                                <li><i class="flaticon-mail" style="top: 18%;"></i><a href="mailto:support@humantroop.in" style="color: #e1e1e1;padding-left:8px;">support@humantroop.in</a></li>
+                                <li style="padding-left:8px;"><i class="flaticon-call" style="top: 18%;"></i><a href="tel:+919137655589" style="color: #e1e1e1;padding-left:8px;">+919137655589</a></li>
                             </ul>
                         </div>
                     </div>
@@ -86,33 +87,35 @@
                 <div class="col-lg-8 col-md-8">
                     <div class="heder-right-content">
                         <div class="row align-items-center">
-                            <div class="col-lg-9 col-md-7">
-                                <div class="time-content">
-                                    <i class="ri-time-line"></i>
-                                    <p>Sun-Thu: 10am to 7pm - Sat-Fri: Closed</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-5">
+                            <div class="col-lg-10 col-md-5">
                                 <div class="social-content">
                                     <ul>
                                         <li>
-                                            <a href="https://www.facebook.com/" target="_blank"><i
+                                            <a href="https://www.facebook.com/Humantroop" target="_blank"><i
                                                     class="ri-facebook-line"></i></a>
                                         </li>
                                         <li>
-                                            <a href="https://www.twitter.com/" target="_blank"><i
+                                            <a href="https://twitter.com/humantroop_v" target="_blank"><i
                                                     class="ri-twitter-line"></i></a>
                                         </li>
                                         <li>
-                                            <a href="https://instagram.com/?lang=en" target="_blank"><i
+                                            <a href="https://www.instagram.com/humantroop_v" target="_blank"><i
                                                     class="ri-instagram-line"></i></a>
                                         </li>
                                         <li>
-                                            <a href="https://linkedin.com/?lang=en" target="_blank"><i
+                                            <a href="https://www.linkedin.com/company/humantroop" target="_blank"><i
                                                     class="ri-linkedin-line"></i></a>
                                         </li>
+                                      
+                                    
                                     </ul>
                                 </div>
+                            </div>
+                            <div class="col-lg-2 col-md-7">
+                            <a href="https://calendly.com/humantroop-ventures" class="default-btn btn active mr-20" style="height: 35px;
+    display: grid;
+    align-items: center;">Schedule a Call</a>
+
                             </div>
                         </div>
                     </div>
