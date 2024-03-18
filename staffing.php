@@ -29,19 +29,6 @@
         </div>
 
 
-
-  <!--Start Services Area-->
-  
-       
-        
-        <!--End Services Area-->
-<br>
-        <div class="section-title">
-           
-                    <h2> Our Expertise in Staffing </h2>
-                   
-            </div>
-
      <!--Start What We Do Area-->
      <div class="what-we-do-area ptb-100">
   

@@ -72,7 +72,8 @@
             <div class="col-lg-8">
                 <div class="services-details-content">
                     <div class="top-img">
-                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+                       
+                    <img src="assets/images/services/our approach last image.png" alt="Image">
                     </div>
                     <div class="analysis-content">
                         <p>Our style centers around an unrelenting drive to act with integrity and honesty, along with

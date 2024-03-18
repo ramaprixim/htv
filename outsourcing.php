@@ -39,27 +39,13 @@
                 </div>
                 <div class="project-slider2 owl-carousel owl-theme">
                     <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
+                        <img src="assets/images/project/os.jpg" alt="Image">
                         <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
                         </div>
                     </div>
                     <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
+                        <img src="assets/images/project/os1.jpg" alt="Image">
                         <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
                         </div>
                     </div>
                 </div>

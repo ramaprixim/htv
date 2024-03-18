@@ -42,24 +42,8 @@
         <div class="organiaLoader">
             <div class="loaderO">
                 <span>H</span>
-                <span>U</span>
-                <span>M</span>
-                <span>A</span>
-                <span>N</span>
                 <span>T</span>
-                <span>R</span>
-                <span>O</span>
-                <span>O</span>
-                <span>P</span>
-                <span> </span>
                 <span>V</span>
-                <span>E</span>
-                <span>N</span>
-                <span>T</span>
-                <span>U</span>
-                <span>R</span>
-                <span>E</span>
-                <span>S</span>
             </div>
         </div>
     </div>
@@ -300,7 +284,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="work-with-us.php" class="nav-link">Work With Us</a>
+                                <a href="" class="nav-link">Work With Us</a>
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">

@@ -38,17 +38,12 @@
                 </div>
                 <div class="project-slider2 owl-carousel owl-theme">
                     <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
+                        <img src="assets/images/project/compliace (1).jpg" alt="Image">
                         <div class="project-content">
                         </div>
                     </div>
                     <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
-                        <div class="project-content">
-                        </div>
-                    </div>
-                    <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
+                        <img src="assets/images/project/compliace (2).jpg" alt="Image">
                         <div class="project-content">
                         </div>
                     </div>
