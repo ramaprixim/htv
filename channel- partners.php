@@ -80,10 +80,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/PAPERWORK.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">PAPERWORK</a></h3>
+                        <h3>PAPERWORK</h3>
                         <p>We will take care of invoicing, concluding contracts, monitoring payments.</p>
                     </div>
                 </div>
@@ -91,10 +91,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/SALES.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">SALES</a></h3>
+                        <h3>SALES</h3>
                         <p>We have the right group of traders who can offer and close deals with clients.</p>
                     </div>
                 </div>
@@ -102,10 +102,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/SOW.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">SOW</a></h3>
+                        <h3>SOW</h3>
                         <p>A well-defined scope of work before signing the contract.</p>
                     </div>
                 </div>
@@ -113,10 +113,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-7.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/CLIENT COORDINATION.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">CLIENT COORDINATION</a></h3>
+                        <h3>CLIENT COORDINATION</h3>
                         <p>Forget about account management and delivery hassles and save bandwidth so you can focus on your core expertise.</p>
                     </div>
                 </div>
@@ -124,10 +124,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-8.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/TRANSPARENCY.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">TRANSPARENCY</a></h3>
+                        <h3>TRANSPARENCY</h3>
                        <p>Utilizing a technology platform to coordinate and manage the candidate lifecycle to ensure transparency and speed.
 
                        </p>

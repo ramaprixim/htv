@@ -67,10 +67,10 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                                <a href="bgv-screening.php"><img src="assets/images/blog/Employee Verification.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="blog-details.html">Employee Verification</a></h3>
+                                <h3>Employee Verification</h3>
                                 <p>Employers who hire a small or large number of employees.</p>
                             </div>
                         </div>
@@ -78,10 +78,10 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="bgv-screening.php"><img src="assets/images/blog/Domestic Help Screening.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="blog-details.html">Domestic Help Screening</a></h3>
+                                <h3>Domestic Help Screening</h3>
                                 <p>Households that want to have drivers, maids, babysitters, etc. verified.</p>
                             </div>
                         </div>
@@ -89,10 +89,10 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                                <a href="bgv-screening.php"><img src="assets/images/blog/Tenant Screening.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="blog-details.html">Tenant Screening</a></h3>
+                                <h3>Tenant Screening</h3>
                                 <p>Landlords who want to pre-screen their tenants</p><br>
                             </div>
                         </div>
@@ -100,10 +100,10 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="bgv-screening.php"><img src="assets/images/blog/Fraud Control Unit (FCU).jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="blog-details.html">Fraud Control Unit (FCU)</a></h3>
+                                <h3>Fraud Control Unit (FCU)</h3>
                                 <p>Banks, NBFCs, MFIs and HFCs requiring FCU, FI and background services.</p><br>
                             </div>
                         </div>
@@ -111,10 +111,10 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="bgv-screening.php"><img src="assets/images/blog/Candidate Self Verification.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <h3><a href="blog-details.html">Candidate Self Verification</a></h3>
+                                <h3>Candidate Self Verification</h3>
                                 <p>A candidate who wants to verify their resume/resume to have an edge and more credibility when applying for a job.</p>
                             </div>
                         </div>

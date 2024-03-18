@@ -42,66 +42,33 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/DEDICATED PAYROLL SPECIALIST.jpg" alt="Image"></a>
+                                <a href="payroll.php"><img src="assets/images/blog/DEDICATED PAYROLL SPECIALIST.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">DEDICATED PAYROLL SPECIALIST</a></h3>
+                                <h3>DEDICATED PAYROLL SPECIALIST</h3>
                                 <p>We are here to assist you with all your payroll and tax needs through our highly trained, dedicated payroll specialists.</p>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/TRANSPARENT PRICING.jpg" alt="Image"></a>
+                                <a href="payroll.php"><img src="assets/images/blog/TRANSPARENT PRICING.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">TRANSPARENT PRICING</a></h3>
+                                <h3>TRANSPARENT PRICING</h3>
                                 <p>Our team of specialists is ready to assist you.</p><br><br><br>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/247 SUPPORT.jpg" alt="Image"></a>
+                                <a href="payroll.php"><img src="assets/images/blog/247 SUPPORT.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">24/7 SUPPORT</a></h3>
+                                <h3>24/7 SUPPORT</h3>
                                 <p>Need assistance after business hours? No problem. Our team of specialists is ready to assist you.</p>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>

@@ -70,66 +70,33 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/High-Volume Recruiting.jpg" alt="Image"></a>
+                                <a href="staffing.php"><img src="assets/images/blog/High-Volume Recruiting.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">High-Volume Recruiting</a></h3>
+                                <h3>High-Volume Recruiting</h3>
                                 <p>Are you preparing to hire a large number of employees? Recruitment bandwidth and coordination skills are essential when hiring large numbers of people. Through a proven methodology that leverages Strategic Recruiting Centers across the nation, we quickly and consistently meet high-volume staffing needs.</p><br>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="staffing.php"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">Niche Skilled Trades</a></h3>
+                                <h3>Niche Skilled Trades</h3>
                                 <p>It is difficult to find workers with hard-to-find technical skills, so it can drain your company's resources and slow its growth. Our Strategic Recruiting Centers provide access to the in-demand skills that companies are seeking, so they can attract and retain talent from a pool of qualified candidates. Staff one or multiple job sites with vetted skilled tradespeople.</p>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/Network of Offices.jpg" alt="Image"></a>
+                                <a href="staffing.php"><img src="assets/images/blog/Network of Offices.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
-                                <h3><a href="blog-details.html">Network of Offices</a></h3>
+                                <h3>Network of Offices</h3>
                                 <p>Humantroop Ventures operates a unified network of over 250 offices delivering specialized staffing and services. We efficiently locate and deliver talent across industries, markets, and job sites to efficiently provide workforce management solutions.</p><br><br><br>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
