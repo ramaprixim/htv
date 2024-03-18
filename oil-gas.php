@@ -33,7 +33,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/about/about-img-2.png" alt="Image">
+                    <img src="assets/images/services/industries - Oil & Gas.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -60,17 +60,17 @@
 </div>
 <!--End About Area-->
 
-<!--Start Details Area-->
-<div class="service-details-area pt-100 pb-70">
+<!--Start Blog Area-->
+<div class="blog-area pt-100 pb-70">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="services-details-content">
-                    <div class="top-img">
-                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+            <div class="col-lg-10 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                <div class="single-blog-card style2">
+                    <div class="blog-img">
+                        <a href="#"><img src="assets/images/services/oil and gas.png" alt="Image"></a>
                     </div>
-                    <div class="analysis-content">
-                        <h2>Oil & Gas Industries</h2>
+                    <div class="blog-content">
+                        <h3>Oil & Gas Industries</h3>
                         <p>The oil and gas sector is one of the major influencers in the main decision-making process
                             for all other sectors of the economy. As the demand for energy continues to grow globally,
                             the demand for technically competent professionals to run the industry continues to grow
@@ -79,7 +79,6 @@
                             time and may have to face long stays in seas, snowfields, forests, or deserts. Interpersonal
                             communication becomes a major factor when people from different geographical and cultural
                             backgrounds work together.</p>
-
                         <p>We have the ability and global reach to source high-quality candidates worldwide. Our key
                             strength in the oil and gas sector is the ability to find technically qualified
                             professionals at short notice, regardless of location or time. We have been supporting
@@ -87,13 +86,14 @@
                             both offshore and onshore. Wherever you are, our experience and capabilities mean you can
                             rely on Humantroop Ventures. We offer all our clients a distinctive combination of global
                             scale, local focus and expertise. We are successful because of the enormous value we place
-                            on long-term relationships with clients and candidates.</p>
+                            on long-term relationships with clients and candidates.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!--End Details Area-->
+<!--End Blog Area-->
 
 <?php include("footer.php") ?>

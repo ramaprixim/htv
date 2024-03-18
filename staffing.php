@@ -29,19 +29,6 @@
         </div>
 
 
-
-  <!--Start Services Area-->
-  
-       
-        
-        <!--End Services Area-->
-<br>
-        <div class="section-title">
-           
-                    <h2> Our Expertise in Staffing </h2>
-                   
-            </div>
-
      <!--Start What We Do Area-->
      <div class="what-we-do-area ptb-100">
   
@@ -51,7 +38,7 @@
                     
                     <div class="col-lg-6">
                         <div class="what-we-do-image pr-20">
-                            <img src="assets/images/about/about-img-3.jpg" alt="Image">
+                            <img src="assets/images/services/our services - Staffing -  Staffing Services.png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -63,23 +50,6 @@
                                 <p>We are the leading force of industrial recruiters, and with a commitment to service, Humantroop Ventures will help you find top-quality talent when and where you need them. And with an exceptional service rating, you can feel confident in our partnership.</p>
                                 <p>We are a consistent Best of Staffing® leader for client and talent satisfaction – a dual award earned by only 1% of staffing firms. Our experienced professionals will work closely with you to create the best solution for your needs, whether you're looking to manage labor costs, rapidly expand your team, or hire the most qualified talent.With a commitment to quality and an eye for detail, Humantroop Ventures is the leading Staffing company in Navi Mumbai.</p>
                             </div>
-                            <!-- <div class="what-we-do-features">
-                                <ul>
-                                    <li>
-                                        <i class="ri-check-double-line"></i>
-                                        <h3>Simple, visual dashboard with on-point reports</h3>
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-double-line"></i>
-                                        <h3>Build custom reports that make sense for your business</h3>
-                                    </li>
-                                    <li>
-                                        <i class="ri-check-double-line"></i>
-                                        <h3>Navigate through tonnes of data with custom</h3>
-                                    </li>
-                                </ul>
-                            </div> 
-                            <a href="services-style-one.html" class="default-btn btn">Explore More <i class="ri-arrow-right-line"></i></a> -->
                         </div>
                     </div>
                 </div>

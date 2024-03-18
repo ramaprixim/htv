@@ -34,7 +34,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/about/about-img-2.png" alt="Image">
+                    <img src="assets/images/services/who we are - Our Approch - our approach.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -72,7 +72,8 @@
             <div class="col-lg-8">
                 <div class="services-details-content">
                     <div class="top-img">
-                        <img src="assets/images/services/services-img-16.jpg" alt="Image">
+                       
+                    <img src="assets/images/services/our approach last image.png" alt="Image">
                     </div>
                     <div class="analysis-content">
                         <p>Our style centers around an unrelenting drive to act with integrity and honesty, along with

@@ -39,27 +39,13 @@
                 </div>
                 <div class="project-slider2 owl-carousel owl-theme">
                     <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
+                        <img src="assets/images/project/os.jpg" alt="Image">
                         <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
                         </div>
                     </div>
                     <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
+                        <img src="assets/images/project/os1.jpg" alt="Image">
                         <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box">
-                        <img src="assets/images/project/project-img-5.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
-                        </div>
-                    </div>
-                    <div class="single-project-box style-2">
-                        <img src="assets/images/project/project-img-6.jpg" alt="Image">
-                        <div class="project-content">
-                            <span>The Brand Has Already Been Redesigned Focus Products</span>
                         </div>
                     </div>
                 </div>
@@ -74,7 +60,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/services/our services - Outsourcing- HR outsourcing.png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -133,7 +119,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="what-we-do-image pr-20">
-                            <img src="assets/images/about/about-img-4.jpg" alt="Image">
+                            <img src="assets/images/services/our services - Outsourcing- How can HR outsourcing benefit my business.png" alt="Image">
                         </div>
                     </div>
                 </div>

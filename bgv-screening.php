@@ -35,7 +35,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-content pr-15">
-                            <img src="assets/images/about/about-img-2.png" alt="Image">
+                            <img src="assets/images/services/our services - BFV Screening - Background Verification Services.png" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -70,19 +70,8 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Employee Verification</a></h3>
                                 <p>Employers who hire a small or large number of employees.</p>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -92,19 +81,8 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Domestic Help Screening</a></h3>
                                 <p>Households that want to have drivers, maids, babysitters, etc. verified.</p>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -114,19 +92,8 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Tenant Screening</a></h3>
                                 <p>Landlords who want to pre-screen their tenants</p><br>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -136,19 +103,8 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Fraud Control Unit (FCU)</a></h3>
                                 <p>Banks, NBFCs, MFIs and HFCs requiring FCU, FI and background services.</p><br>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -158,19 +114,8 @@
                                 <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Candidate Self Verification</a></h3>
                                 <p>A candidate who wants to verify their resume/resume to have an edge and more credibility when applying for a job.</p>
-                                <!-- <a href="blog-details.html" class="default-btn btn for-card">Explore More <i class="ri-arrow-right-line"></i></a> -->
                             </div>
                         </div>
                     </div>

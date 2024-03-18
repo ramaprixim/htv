@@ -46,7 +46,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="what-we-do-image pr-20">
-                    <img src="assets/images/about/about-img-4.jpg" alt="Image">
+                    <img src="assets/images/services/industries - Construction & Engineering -Manage, track and pay your workers across projects, sites and jobs.png" alt="Image">
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/about/about-img-2.png" alt="Image">
+                    <img src="assets/images/services/industries - Construction & Engineering - Designed with input from.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
