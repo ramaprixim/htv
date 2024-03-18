@@ -65,17 +65,16 @@
 </div>
 <!--End About Area-->
 
-<!--Start Details Area-->
-<div class="service-details-area pt-100 pb-70">
+<!--Start Blog Area-->
+<div class="blog-area pt-100 pb-70">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="services-details-content">
-                    <div class="top-img">
-                       
-                    <img src="assets/images/services/our approach last image.png" alt="Image">
+            <div class="col-lg-10 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                <div class="single-blog-card style2">
+                    <div class="blog-img">
+                        <a href="#"><img src="assets/images/services/our approach last image.png" alt="Image"></a>
                     </div>
-                    <div class="analysis-content">
+                    <div class="blog-content">
                         <p>Our style centers around an unrelenting drive to act with integrity and honesty, along with
                             an unyielding determination to ensure that the people we work with are empowered and trusted
                             to deliver the best for our customers. We enjoy getting people's support for ideas and
@@ -85,7 +84,6 @@
                             responsibility for pressing issues and directly challenge others and make critical decisions
                             in problem areas. It is important to design a delivery style that is engaging, creative, and
                             strategic, but also 'takes charge', decisive and analytical.</p>
-                            
                         <p>With a high level of customer satisfaction and a commitment to excellence, Humantroop
                             Ventures is the go-to Manpower Company in Navi Mumbai. We use an engagement and design
                             thinking approach that builds ownership among employees and key stakeholders. We have deep
@@ -98,7 +96,7 @@
         </div>
     </div>
 </div>
-<!--End Details Area-->
+<!--End Blog Area-->
 
 
 <?php include("footer.php"); ?>

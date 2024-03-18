@@ -33,7 +33,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/services/industries - Automotive - Automotive Human Resources Support & Automotive HR Consulting Service.png" alt="Image">
+                    <img src="assets/images/services/automative .png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
