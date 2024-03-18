@@ -42,7 +42,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/blog/DEDICATED PAYROLL SPECIALIST.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -64,7 +64,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/blog/TRANSPARENT PRICING.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -86,7 +86,7 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                                <a href="blog-details.html"><img src="assets/images/blog/247 SUPPORT.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>

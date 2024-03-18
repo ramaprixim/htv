@@ -145,7 +145,7 @@ function closeForm() {
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/project/section 1 img1.jpg" alt="Image" style="height: 287px;"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/staffing.jpg" alt="Image" style="height: 287px;"></a>
                             </div>
                             <div class="blog-content">
                                 <h3><a href="blog-details.html">Staffing</a></h3>
@@ -158,7 +158,7 @@ function closeForm() {
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/project/section 1 img 2.jpg" alt="Image" style="height: 287px;"></a>
+                                <a href="blog-details.html"><img src="assets/images/project/payroll.jpg" alt="Image" style="height: 287px;"></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
@@ -181,7 +181,7 @@ function closeForm() {
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/project/section 1 img 3.jpg" alt="Image" s></a>
+                                <a href="blog-details.html"><img src="assets/images/project/posh training.jpg" alt="Image" s></a>
                             </div>
                             <div class="blog-content">
                                 <!-- <ul>
