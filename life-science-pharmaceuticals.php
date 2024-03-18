@@ -54,7 +54,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="what-we-do-image pr-20">
-                    <img src="assets/images/services/industries - Life Science Pharmaceuticals.png" alt="Image">
+                    <img src="assets/images/services/Life Science Pharmaceuticals.png" alt="Image">
                 </div>
             </div>
         </div>
