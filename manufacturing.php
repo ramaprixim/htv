@@ -45,7 +45,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="what-we-do-image pr-20">
-                    <img src="assets/images/services/industries - Manufacturing -Spend more time producing — with better payroll and time tracking.png" alt="Image">
+                    <img src="assets/images/services/Manufacturing -Spend more time producing — with better payroll and time tracking.png" alt="Image">
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-image-content pr-15">
-                    <img src="assets/images/services/industries - Manufacturing - Designed with input from.png" alt="Image">
+                    <img src="assets/images/services/Manufacturing - Designed with input from.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">

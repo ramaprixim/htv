@@ -289,31 +289,30 @@
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                                <a href="posh-training.php"><img src="assets/images/blog/POSH Compliance 1.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
                                
-                               <p>There are other non-compliance provisions. Employers will face double punishment and will be re-sentenced if they have previously been convicted of an offense punishable under the POSH Act.</p>
+                               <p>In many Indian states, employers are liable to a fine of fifty thousand rupees (INR 50,000) if they do not form an internal committee or violate any of the conditions specified in the POSH Act.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                                <a href="posh-training.php"><img src="assets/images/blog/POSH Compliance 2.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                        <p>There are other non-compliance provisions. Employers will face double punishment and will be re-sentenced if they have previously been convicted of an offense punishable under the POSH Act.</p>
+                                <p>There are other non-compliance provisions. Employers will face double punishment and will be re-sentenced if they have previously been convicted of an offense punishable under the POSH Act.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
                         <div class="single-blog-card style2">
                             <div class="blog-img">
-                                <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                                <a href="posh-training.php"><img src="assets/images/blog/POSH Compliance 3.jpg" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                              
                                 <p>Employers may face having their license revoked and their business registration withdrawn or not renewed if there are enhanced penalties under the POSH Act.</p>
                             <br>
                             </div>

@@ -27,48 +27,50 @@
     </div>
 </div>
 
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-lg-9">
-            <div class="services-details-content">
-                <div class="top-img">
-                    <img src="assets/images/services/services-img-16.jpg" alt="Image">
-                </div>
-                <div class="analysis-content">
-                    <p>Are you looking for candidates who are most suitable for your organization? Humantroop Ventures
+<!--Start Blog Area-->
+<div class="blog-area pt-100 pb-70">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-sm-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+                <div class="single-blog-card style2">
+                    <div class="blog-img">
+                        <a href="#"><img src="assets/images/services/channel partner.png" alt="Image"></a>
+                    </div>
+                    <div class="blog-content">
+                        <p>Are you looking for candidates who are most suitable for your organization? Humantroop Ventures
                         is the Best Human Resources Consultant in Mumbai. As a recruiter, we source, select, and assess
                         candidates in accordance with client specifications, and we strive hard to ensure the right
                         candidate is hired for your organization. Partner with India's leading talent solutions provider
                         to help top organizations hire the best talent. Let's make it happen, together</p>
-                </div>
-                <div class="service-description">
-                    <h3>Who is it for</h3>
-                    <li>Recruitment consultancy firms, intermediary firms and freelancers in the field of permanent
+                    </div>
+                    <div class="blog-content">
+                        <h3>Who is it for</h3>
+                        <li>Recruitment consultancy firms, intermediary firms and freelancers in the field of permanent
                         and contract employees.</li>
-                    <li>Companies/consultants with experience in the field of technological personnel
+                        <li>Companies/consultants with experience in the field of technological personnel
                         contract/technical recruitment</li>
-                    <li>Recruiting professionals looking for a partner to drive and manage sales initiatives</li>
-                </div>
-                <div class="planing-content">
-                    <h3>Why Humantroop Ventures</h3>
-                    <p>Humantroop Ventures is the best Recruitment agency in Navi Mumbai, having proven an unparalleled
+                        <li>Recruiting professionals looking for a partner to drive and manage sales initiatives</li>
+                    </div>
+                    <div class="blog-content">
+                        <h3>Why Humantroop Ventures</h3>
+                        <p>Humantroop Ventures is the best Recruitment agency in Navi Mumbai, having proven an unparalleled
                         commitment to excellence in the field of staffing services and recruitment solutions. With an
                         experienced team and rigorous recruitment standards, Humantroop Ventures is a leading
                         recruitment agency in Navi Mumbai.</p>
-                    <li>Assurance of business: Guaranteed and ongoing business on an exclusive basis (20 mandates
+                        <li>Assurance of business: Guaranteed and ongoing business on an exclusive basis (20 mandates
                         assured on registration)</li>
-                    <li>Exposure to Big Brands: Help top organizations find talent for their high performing teams</li>
-                    <li>Work with a diverse spectrum of talent: Find talent for different job profiles across levels,
+                        <li>Exposure to Big Brands: Help top organizations find talent for their high performing teams</li>
+                        <li>Work with a diverse spectrum of talent: Find talent for different job profiles across levels,
                         roles and domains</li>
-                    <li>Revenue: Work with us on a revenue sharing model (based on client ads) and get paid upon
+                        <li>Revenue: Work with us on a revenue sharing model (based on client ads) and get paid upon
                         successful completion</li>
+                    </div>
                 </div>
-
             </div>
         </div>
     </div>
 </div>
-
+<!--End Blog Area-->
 <div class="blog-area ptb-100">
     <div class="container">
         <div class="section-title">
@@ -78,10 +80,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-4.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/PAPERWORK.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">PAPERWORK</a></h3>
+                        <h3>PAPERWORK</h3>
                         <p>We will take care of invoicing, concluding contracts, monitoring payments.</p>
                     </div>
                 </div>
@@ -89,10 +91,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-5.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/SALES.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">SALES</a></h3>
+                        <h3>SALES</h3>
                         <p>We have the right group of traders who can offer and close deals with clients.</p>
                     </div>
                 </div>
@@ -100,10 +102,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-6.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/SOW.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">SOW</a></h3>
+                        <h3>SOW</h3>
                         <p>A well-defined scope of work before signing the contract.</p>
                     </div>
                 </div>
@@ -111,10 +113,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-7.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/CLIENT COORDINATION.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">CLIENT COORDINATION</a></h3>
+                        <h3>CLIENT COORDINATION</h3>
                         <p>Forget about account management and delivery hassles and save bandwidth so you can focus on your core expertise.</p>
                     </div>
                 </div>
@@ -122,10 +124,10 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="single-blog-card style2">
                     <div class="blog-img">
-                        <a href="blog-details.html"><img src="assets/images/blog/blog-img-8.jpg" alt="Image"></a>
+                        <a href="channel- partners.php"><img src="assets/images/blog/TRANSPARENCY.jpg" alt="Image"></a>
                     </div>
                     <div class="blog-content">
-                        <h3><a href="blog-details.html">TRANSPARENCY</a></h3>
+                        <h3>TRANSPARENCY</h3>
                        <p>Utilizing a technology platform to coordinate and manage the candidate lifecycle to ensure transparency and speed.
 
                        </p>
