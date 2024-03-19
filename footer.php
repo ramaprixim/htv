@@ -43,13 +43,13 @@ color: #bfbfbf;
 }
 
 .copyright>p>a:hover{
-color: #28AA4A;
+color: #28aa4a;
 }
 .footer-nav>li>a{
     color: #bfbfbf;
 }
 .footer-nav>li>a:hover{
-    color: #28AA4A;
+    color: #28aa4a;
 }
 </style>
 <div class="before-footer-area">
@@ -246,10 +246,10 @@ color: #28AA4A;
             </div>
             <div class="col-lg-6">
                 <ul class="footer-nav pull-right d-flex">
-                    <li><a href="terms-conditions.html">Terms &amp; Conditions</a></li>
-                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="refunds-policy.html">Refunds Policy</a></li>
+                    <li><a href="terms-conditions.php">Terms &amp; Conditions</a></li>
+                    <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="disclaimer.php">Disclaimer</a></li>
+                    <li><a href="refunds-policy.php">Refunds Policy</a></li>
                 </ul>
             </div>
         </div>
