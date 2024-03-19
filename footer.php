@@ -21,6 +21,36 @@
     .footer-reg {
         margin-top: 100px;
     }
+
+    .footer-bottom {
+    position: relative;
+    width: 100%;
+    padding: 42px 0;
+    background: #272727;
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    }
+
+    .footer-bottom .footer-nav li {
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+}
+.copyright>p{
+color: #bfbfbf;
+}
+.copyright>p>a{
+color: #bfbfbf;
+}
+
+.copyright>p>a:hover{
+color: #28AA4A;
+}
+.footer-nav>li>a{
+    color: #bfbfbf;
+}
+.footer-nav>li>a:hover{
+    color: #28AA4A;
+}
 </style>
 <div class="before-footer-area">
     <div class="container-fluid">
@@ -205,9 +235,24 @@
 <!--End Footer Area-->
 
 <!--Start Copy Right Area-->
-<div class="copy-right-area">
+<div class="footer-bottom" style="background-color: #263238;">
     <div class="container">
-        <p>© <span>Irise</span> is Proudly Owned by <a href="https://hibotheme.com/" target="_blank">HiboTheme</a></p>
+        <div class="row inner-box clearfix">
+            <div class="col-lg-6">
+                <div class="copyright pull-left">
+                    <p>© Copyright 2022-2023 by <a href="index.php">HumanTroop Ventures | All Rights
+                        Reserved.</a></p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <ul class="footer-nav pull-right d-flex">
+                    <li><a href="terms-conditions.html">Terms &amp; Conditions</a></li>
+                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                    <li><a href="disclaimer.html">Disclaimer</a></li>
+                    <li><a href="refunds-policy.html">Refunds Policy</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
 <!--End Copy Right Area-->
