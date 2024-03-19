@@ -72,7 +72,7 @@ color: #28AA4A;
         <div class="row d-flex footer-info">
             <div class="col-lg-4 email">
                 <div class="row d-flex justify-content-center align-center">
-                    <div class="col-lg-4 email1">
+                    <div class="col-lg-4 email1 px-4">
                         <img src="assets/images/icon/email (1).png" alt="">
                     </div>
                     <div class="col-lg-8 email2">
@@ -83,7 +83,7 @@ color: #28AA4A;
             </div>
             <div class="col-lg-4 email" style="background-color: #28aa4a;">
                 <div class="row d-flex justify-content-center align-center">
-                    <div class="col-lg-4  email1" >
+                    <div class="col-lg-4  email1 px-4" >
                         <img  src="assets/images/icon/phone-call.png" alt="">
                     </div>
                     <div class="col-lg-8 email2" >
@@ -94,7 +94,7 @@ color: #28AA4A;
             </div>
             <div class="col-lg-4 email" style="background-color: #323232;">
                 <div class="row d-flex justify-content-center align-center">
-                    <div class="col-lg-3 email1">
+                    <div class="col-lg-3 email1 px-4">
                         <img src="assets/images/icon/location.png" alt="">
                     </div>
                     <div class="col-lg-9 email2">
