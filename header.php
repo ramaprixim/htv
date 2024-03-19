@@ -38,7 +38,7 @@
 <body>
 
     <!-- Pre Loader Start -->
-    <div class="preloader clock text-center">
+    <!-- <div class="preloader clock text-center">
         <div class="organiaLoader">
             <div class="loaderO">
                 <span>H</span>
@@ -46,7 +46,7 @@
                 <span>V</span>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Pre Loader End -->
 
     <!--Mouce Cursor-->
