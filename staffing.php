@@ -96,7 +96,7 @@
                             </div>
                             <div class="blog-content">
                                 <h3>Network of Offices</h3>
-                                <p>Humantroop Ventures operates a unified network of over 250 offices delivering specialized staffing and services. We efficiently locate and deliver talent across industries, markets, and job sites to efficiently provide workforce management solutions.</p><br><br><br>
+                                <p>Humantroop Ventures operates a unified network of over 250 offices delivering specialized staffing and services. We efficiently locate and deliver talent across industries, markets, and job sites to efficiently provide workforce management solutions.</p><br><br>
                             </div>
                         </div>
                     </div>

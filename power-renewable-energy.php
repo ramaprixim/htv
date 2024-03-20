@@ -41,7 +41,7 @@
                                 <p>We at Humantroop Ventures are able to hire a wide range of technically skilled engineers and managers at all experience levels, from senior strategic roles, project directors, executive management professionals, discipline managers and engineers, supervisors, and administrative support professionals. This recruitment sector is managed by consultants with extensive experience working and recruiting for client organizations, and Tier 1 and Tier 2 Contractors. And they can mine our extensive global database to find you the talent you need in the energy and renewables industry. During this period we have developed an extensive network of energy professionals covering both conventional energy (coal, CCPP, transmission, and distribution, etc.) and renewable projects (wind, solar, hydro, geothermal, WTE, etc.). We are active throughout the entire project life cycle, including clients; Service companies, owners, developers, investment firms, EPCs, consultants, and OEMs.</p>
                             </div>
                           
-                            <a href="services-style-one.html" class="default-btn btn">Explore More <i class="ri-arrow-right-line"></i></a>
+                            <a href="contact-us.php" class="default-btn btn">Contact Us<i class="ri-arrow-right-line"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6">

@@ -294,6 +294,7 @@
                             <div class="blog-content">
                                
                                <p>In many Indian states, employers are liable to a fine of fifty thousand rupees (INR 50,000) if they do not form an internal committee or violate any of the conditions specified in the POSH Act.</p>
+                               <br>
                             </div>
                         </div>
                     </div>
