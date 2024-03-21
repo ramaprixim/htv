@@ -1,9 +1,9 @@
-
 <?php
-if(isset($_POST['email'])) {    
+if(isset($_POST['submit'])) {
  
     $email_to = "rama.prixim@gmail.com";
-    $email_subject = "Contact Us Form (HumanTroop Ventures)";
+    
+    $email_subject = "Contact Us Form ";
  
     function died($error) {
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
@@ -14,28 +14,23 @@ if(isset($_POST['email'])) {
     }
  
  
-    if( 
-    !isset($_POST['name']) ||
-    
+    if(!isset($_POST['float-name']) ||
+        !isset($_POST['float-company']) ||
+        !isset($_POST['float-city']) ||
+        !isset($_POST['float-contact']) ||
        
-        !isset($_POST['email']) ||
-        !isset($_POST['phone']) ||
-        !isset($_POST['subject']) ||
-        !isset($_POST['message'])) {
+        !isset($_POST['msg'])) {
         died('We are sorry, but there appears to be a problem with the form you submitted.');       
     }
  
 
-     
-    
-    $name = $_POST['name']; 
-   
-    $email_from = $_POST['email']; 
-    $phone = $_POST['phone'];
-    $sub = $_POST['subject']; 
-    $msg = $_POST['message']; 
- 
     $ip = $_SERVER['REMOTE_ADDR']; 
+    $name = $_POST['float-name']; 
+    $company = $_POST['float-company']; 
+    $city = $_POST['float-city']; 
+    $contact = $_POST['float-contact'];
+    $comments = $_POST['msg']; 
+    
  
 
  
@@ -49,13 +44,10 @@ if(isset($_POST['email'])) {
  
     $email_message .= "Senders IP: ".clean_string($ip)."\n\n"; 
     $email_message .= "Name: ".clean_string($name)."\n";
-   
-    $email_message .= "Email: ".clean_string($email_from)."\n";
-    $email_message .= "Phone: ".clean_string($phone)."\n";
-    $email_message .= "Subject: ".clean_string($sub)."\n";
-   
-    $email_message .= "Message: ".clean_string($msg)."\n";
-   
+    $email_message .= "Company Name: ".clean_string($company)."\n";
+    $email_message .= "City: ".clean_string($city)."\n";
+    $email_message .= "Contact Number: ".clean_string($contact)."\n";
+    $email_message .= "Comments: ".clean_string($comments)."\n";
     
       
     
@@ -68,14 +60,14 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
          ?>
     	<script language="javascript" type="text/javascript">
     		alert('Thank you for the message. We will contact you shortly.');
-    		window.location = 'index.php';
+    		window.location = 'index.html';
     	</script>
     <?php
     }
     else { ?>
     	<script language="javascript" type="text/javascript">
-    		alert('Message failed. Please, send an email to support@humantroop.in');
-    		window.location = 'index.php';
+    		alert('Message failed. Please, send an email to sales@humantroop.in');
+    		window.location = 'index.html';
     	</script>
     <?php
     }
