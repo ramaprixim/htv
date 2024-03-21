@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['submit'])) {
  
-    $email_to = "support@humantroop.in";
+    $email_to = "rama.prixim@gmail.com";
     
     $email_subject = "Contact Us Form ";
  

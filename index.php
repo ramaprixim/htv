@@ -1,11 +1,6 @@
 
 <?php include("header.php") ?>
 
-
-
-
-
-
 <style>
     .skill-area::before {
         height: 0px;
@@ -30,19 +25,19 @@ function closeForm() {
 <!-- The form -->
 <div class="form-popup" id="myForm">
 
-  <form action="/action_page.php" class="form-container">
+  <form action="floating.php" class="form-container">
   <h5>Please fill out the form below and we will get back to you as soon as possible.</h5>
    
 
-  <input type="text" name="float-name" placeholder="*Name" class="input_filed">
+  <input type="text" name="float-name" placeholder="Enter Name" class="input_filed" required>
 
-  <input type="text" name="float-company" placeholder="*Company" class="input_filed">
+  <input type="text" name="float-company" placeholder="Company Name" class="input_filed" required>
 
-  <input type="text" name="float-city" placeholder="*City" class="input_filed">
+  <input type="text" name="float-city" placeholder="City Name" class="input_filed" required>
 
-  <input type="text" name="float-contact" placeholder="*Contact" class="input_filed">
+  <input type="text" name="float-contact" placeholder="Contact" class="input_filed" required>
 
-  <textarea placeholder="*Comment" name="msg" required=""></textarea>
+  <textarea placeholder="*Comment" name="msg" required></textarea>
 
     <button type="submit" class="btn">Submit</button>
     <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
@@ -55,18 +50,6 @@ function closeForm() {
             <div class="hero-slider owl-carousel owl-theme owl-loaded owl-drag">
             <div class="owl-stage-outer">
                 <div class="owl-stage" style="transform: translate3d(-7612px, 0px, 0px); transition: all 0s ease 0s; width: 13321px;">
-                    <!-- <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
-                    <div class="container-fluid">
-                        <div class="banner-content">
-                            <h1>Humantroop Ventures fluent in finding leaders</h1>
-                            <p>We offer HR services from qualified HR consultants that can analyze your business
-                                operations and design the people management solution that will work best for you.</p>
-                            <div class="banner-btn">
-                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us<i class="ri-arrow-right-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div></div> -->
                 <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-2">
                     <div class="container-fluid">
                         <div class="banner-content">
@@ -80,18 +63,6 @@ function closeForm() {
                         </div>
                     </div>
                 </div></div>
-                <!-- <div class="owl-item" style="width: 1903px;"><div class="slider-item bg-2">
-                    <div class="container-fluid">
-                        <div class="banner-content">
-                            <h1>Members with NHRDN. Keeping you ahead in HR Race</h1>
-                            <p>We are Happy to announce that we are now proud member of NHRDN- India's Largest Network
-                                for HR Professionals</p>
-                            <div class="banner-btn">
-                                <a href="contact-us.php" class="default-btn btn active mr-20">Contact Us <i class="ri-arrow-right-line"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div></div> -->
                 <div class="owl-item cloned" style="width: 1903px;"><div class="slider-item bg-3">
                     <div class="container-fluid">
                         <div class="banner-content">
@@ -137,7 +108,6 @@ function closeForm() {
         <div class="blog-area pt-100 pb-70">
             <div class="container">
                 <div class="section-title">
-                    <!-- <span>News & Blog</span> -->
                     <h2>Check Out Our Latest Blog Post</h2>
                  
                 </div>
@@ -161,16 +131,6 @@ function closeForm() {
                                 <a href="blog-details.html"><img src="assets/images/project/payroll.jpg" alt="Image" style="height: 287px;"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="payroll.php">Payroll Outsourcing</a></h3>
                                 <p>From accurate calculations to timely payments HumanTroop Simplify your payroll processes with our outsourcing solutions. <br>
 </p> <br>
@@ -184,16 +144,6 @@ function closeForm() {
                                 <a href="blog-details.html"><img src="assets/images/project/posh training.jpg" alt="Image" s></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="posh-training.php">POSH Training</a></h3>
                                 <p>Prioritize a safe and respectful workplace with our POSH training. We provide all-inclusive sessions to educate and empower your team and encourage a culture of respect.
 </p>
@@ -274,16 +224,6 @@ function closeForm() {
                                 <a href="blog-details.html"><img src="assets/images/project/section 4 img 1.png" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Payroll Outsourcing</a></h3>
                                 <p>HumanTroop has been providing excellent payroll services to many businesses as a payroll service provider.</p>
                               
@@ -296,16 +236,6 @@ function closeForm() {
                                 <a href="blog-details.html"><img src="assets/images/project/section 4 img 2.png" alt="Image"></a>
                             </div>
                             <div class="blog-content">
-                                <!-- <ul>
-                                    <li>
-                                        <i class="ri-user-heart-line"></i>
-                                        By <a href="blog-grid.html">Admin</a>
-                                    </li>
-                                    <li>
-                                        <i class="ri-price-tag-3-line"></i>
-                                        <a href="blog-grid.html">Latest News</a>
-                                    </li>
-                                </ul> -->
                                 <h3><a href="blog-details.html">Recruitment</a></h3>
                                 <p>Humantroop Ventures offers clients <br>full-time, temporary and part-time staffing <br>solutions.</p>
                                  

@@ -73,35 +73,35 @@
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="name" placeholder="Enter Name" class="form-control" required="">
+                            <input type="text" name="name" placeholder="Enter Name" class="form-control" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="email" name="email" placeholder="Enter Email" class="form-control" required="">
+                            <input type="email" name="email" placeholder="Enter Email" class="form-control" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="tel" name="phone"  placeholder="Phone Number" required="" class="form-control">
+                            <input type="tel" name="phone"  placeholder="Phone Number"  class="form-control" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-lg-12 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="subject" class="form-control" placeholder="Subject" required="">
+                            <input type="text" name="subject" class="form-control" placeholder="Subject" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-12">
                         <div class="form-group">
-                            <textarea name="message" class="form-control" placeholder="Message" cols="30" rows="6" required=""></textarea>
+                            <textarea name="message" class="form-control" placeholder="Message" cols="30" rows="6" required></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
