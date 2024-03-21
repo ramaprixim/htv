@@ -41,7 +41,7 @@
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
                             <input type="text" name="name" placeholder="Name *" id="name" class="form-control"
-                                required="" data-error="Please enter your name">
+                                required="" >
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -49,15 +49,15 @@
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
                             <input type="email" name="email" id="email" placeholder="Email*" class="form-control"
-                                required="" data-error="Please enter your email">
+                                required="" >
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="phone" id="phone_number" placeholder="Number*" required=""
-                                data-error="Please enter your number" class="form-control">
+                            <input type="tel" name="phone" id="phone_number" placeholder="Number*" required=""
+                               class="form-control">
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -66,15 +66,15 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
                             <input type="text" name="position" placeholder="position Applied For *" id="name"
-                                class="form-control" required="" data-error="Please enter your position">
+                                class="form-control" required="" >
                             <div class="help-block with-errors"></div>
                         </div>
 
                     </div>
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="years" id="email" placeholder="Total Years of Experience*"
-                                class="form-control" required="" data-error="Please enter your email">
+                            <input type="number" name="years" id="email" placeholder="Total Years of Experience*"
+                                class="form-control" required="" >
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -85,16 +85,16 @@
 
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="ectc" placeholder="Expected CTC *" id="name" class="form-control"
-                                required="" data-error="Please enter your position">
+                            <input type="number" name="ectc" placeholder="Expected CTC *" id="name" class="form-control"
+                                required="" >
                             <div class="help-block with-errors"></div>
                         </div>
 
                     </div>
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="cctc" id="email" placeholder="Current CTC*" class="form-control"
-                                required="" data-error="Please enter your email">
+                            <input type="number" name="cctc" id="email" placeholder="Current CTC*" class="form-control"
+                                required="" >
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -104,8 +104,8 @@
 
                     <div class="col-lg-6 col-sm-3">
                         <div class="form-group">
-                            <input type="text" name="msg_subject" id="msg_subject" class="form-control"
-                                placeholder="Subject*" required="" data-error="Please enter your subject">
+                            <input type="text" name="remark" id="msg_subject" class="form-control"
+                                placeholder="Subject*" required="">
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -122,22 +122,12 @@
                     <div class="col-12">
                         <div class="form-group">
                             <textarea name="message" class="form-control" placeholder="Message*" id="message" cols="30"
-                                rows="6" required="" data-error="Write your message"></textarea>
+                                rows="6" required="" ></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
 
-                    <div class="form-group">
-                        <div class="form-check">
-                            <input name="gridCheck" value="I agree to the terms and privacy policy."
-                                class="form-check-input" type="checkbox" id="gridCheck" required="">
-                            <label class="form-check-label" for="gridCheck">
-                                I agree to the <a href="terms-conditions.html">terms</a> and <a
-                                    href="privacy-policy.html">privacy policy</a>
-                            </label>
-                            <div class="help-block with-errors gridCheck-error"></div>
-                        </div>
-                    </div>
+                  
 
                     <div class="col-lg-12 col-md-12">
                         <button type="submit" class="default-btn active disabled"

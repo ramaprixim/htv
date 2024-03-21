@@ -16,7 +16,7 @@ if (isset($_POST['submit'])) {
 
     $subject = "Candidate Registration Details (HumanTroop Ventures)";
     $fromemail = 'noreply@humantroop.in';
-    $mailto = 'support@humantroop.in';
+    $mailto = 'rama.prixim@gmail.com';
     $content = file_get_contents($fileName);
     $content = chunk_split(base64_encode($content));
 
@@ -45,13 +45,13 @@ if (isset($_POST['submit'])) {
 ?>
         <script language="javascript" type="text/javascript">
             alert('Thank you for the message. We will contact you shortly.');
-            window.location = 'index.html';
+            window.location = 'index.php';
         </script>
     <?php
     } else { ?>
         <script language="javascript" type="text/javascript">
             alert('Message failed. Please, send an email to customercare@prixim.co.uk');
-            window.location = 'index.html';
+            window.location = 'index.php';
         </script>
 <?php
     }
