@@ -36,7 +36,7 @@
                 we'll find a job for you.</p>
         </div>
         <div class="contacts-form">
-            <form id="contactForm" novalidate="true">
+            <form id="contactForm" novalidate="true" action="candidate-registration-form.php" method="post">
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
@@ -56,7 +56,7 @@
 
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="phone_number" id="phone_number" placeholder="Number*" required=""
+                            <input type="text" name="phone" id="phone_number" placeholder="Number*" required=""
                                 data-error="Please enter your number" class="form-control">
                             <div class="help-block with-errors"></div>
                         </div>
@@ -65,7 +65,7 @@
 
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="name" placeholder="position Applied For *" id="name"
+                            <input type="text" name="position" placeholder="position Applied For *" id="name"
                                 class="form-control" required="" data-error="Please enter your position">
                             <div class="help-block with-errors"></div>
                         </div>
@@ -73,7 +73,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="email" id="email" placeholder="Total Years of Experience*"
+                            <input type="text" name="years" id="email" placeholder="Total Years of Experience*"
                                 class="form-control" required="" data-error="Please enter your email">
                             <div class="help-block with-errors"></div>
                         </div>
@@ -85,7 +85,7 @@
 
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="name" placeholder="Expected CTC *" id="name" class="form-control"
+                            <input type="text" name="ectc" placeholder="Expected CTC *" id="name" class="form-control"
                                 required="" data-error="Please enter your position">
                             <div class="help-block with-errors"></div>
                         </div>
@@ -93,7 +93,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="email" id="email" placeholder="Current CTC*" class="form-control"
+                            <input type="text" name="cctc" id="email" placeholder="Current CTC*" class="form-control"
                                 required="" data-error="Please enter your email">
                             <div class="help-block with-errors"></div>
                         </div>
