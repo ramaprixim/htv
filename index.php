@@ -25,23 +25,24 @@ function closeForm() {
 <!-- The form -->
 <div class="form-popup" id="myForm">
 
-  <form action="floating.php" class="form-container">
-  <h5>Please fill out the form below and we will get back to you as soon as possible.</h5>
-   
+    <form action="floating.php" method="post" class="form-container">
+        <div class="float-heading">
+            <h2 style="color: #000000;width: 101%;width: 100%;line-height: 2;font-size: 17px;height: 160px;">Please fill out the form below and we will get back to you as soon as possible.</h2>
+        </div>
 
-  <input type="text" name="float-name" placeholder="Enter Name" class="input_filed" required>
+        <div class="textfiled-wrapper">
+            <input type="text" name="float-name" placeholder="*Name" class="input_filed">
+            <input type="text" name="float-company" placeholder="*Company" class="input_filed">
+            <input type="text" name="float-city" placeholder="*City" class="input_filed">
+            <input type="text" name="float-contact" placeholder="*Contact" class="input_filed">
+            <textarea placeholder="*Comment" name="msg" required></textarea>
 
-  <input type="text" name="float-company" placeholder="Company Name" class="input_filed" required>
+            <button type="submit" class="btn submit-btn" name="submit"><b>&#10148;</b> Submit</button>
+            <button type="button" class=" cancel" onclick="closeForm()">&#x2716;</button>
+        </div>
 
-  <input type="text" name="float-city" placeholder="City Name" class="input_filed" required>
 
-  <input type="text" name="float-contact" placeholder="Contact" class="input_filed" required>
-
-  <textarea placeholder="*Comment" name="msg" required></textarea>
-
-    <button type="submit" class="btn">Submit</button>
-    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
-  </form>
+    </form>
 </div>
 
 
