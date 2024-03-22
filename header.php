@@ -33,6 +33,8 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>Irise - Staffing & Consulting Agency HTML Template</title>
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
 </head>
 
 <body>
