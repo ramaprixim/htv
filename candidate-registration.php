@@ -36,66 +36,54 @@
                 we'll find a job for you.</p>
         </div>
         <div class="contacts-form">
-            <form id="contactForm" novalidate="true" action="candidate-registration-form.php" method="post">
+            <form action="candidate-registration-form.php" method="post" novalidate="true" enctype="multipart/form-data" >
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="name" placeholder="Name *" id="name" class="form-control"
-                                required="" >
-                            <div class="help-block with-errors"></div>
+                            <input type="text" name="name" placeholder="Name *" class="form-control"
+                                required >
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="email" name="email" id="email" placeholder="Email*" class="form-control"
-                                required="" >
-                            <div class="help-block with-errors"></div>
+                            <input type="email" name="email" placeholder="Email*" class="form-control"
+                                required >
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="tel" name="phone" id="phone_number" placeholder="Number*" required=""
+                            <input type="tel" name="phone" id="phone_number" placeholder="Number*" required
                                class="form-control">
-                            <div class="help-block with-errors"></div>
                         </div>
                     </div>
 
 
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="position" placeholder="position Applied For *" id="name"
-                                class="form-control" required="" >
-                            <div class="help-block with-errors"></div>
+                            <input type="text" name="position" placeholder="position Applied For *" 
+                                class="form-control" required >
                         </div>
 
                     </div>
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="number" name="years" id="email" placeholder="Total Years of Experience*"
-                                class="form-control" required="" >
-                            <div class="help-block with-errors"></div>
+                            <input type="number" name="years"  placeholder="Total Years of Experience*"
+                                class="form-control" required >
                         </div>
                     </div>
-
-
-
-
-
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="number" name="ectc" placeholder="Expected CTC *" id="name" class="form-control"
-                                required="" >
-                            <div class="help-block with-errors"></div>
+                            <input type="number" name="ectc" placeholder="Expected CTC *" class="form-control"
+                                required >
                         </div>
 
                     </div>
                     <div class="col-lg-6 col-sm-6">
                         <div class="form-group">
-                            <input type="number" name="cctc" id="email" placeholder="Current CTC*" class="form-control"
-                                required="" >
-                            <div class="help-block with-errors"></div>
+                            <input type="number" name="cctc" placeholder="Current CTC*" class="form-control"
+                                required >
                         </div>
                     </div>
 
@@ -104,26 +92,25 @@
 
                     <div class="col-lg-6 col-sm-3">
                         <div class="form-group">
-                            <input type="text" name="remark" id="msg_subject" class="form-control"
-                                placeholder="Subject*" required="">
-                            <div class="help-block with-errors"></div>
+                            <input type="text" name="remark" class="form-control"
+                                placeholder="Subject*" required>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                        <input type="text" placeholder="Resume Upload Here" style="display:none;">
-                        <input type="file" name="file" id="file" style="display:none;">
-                        <label for="file"
-                            style="height: 70px;/* width: 40px; */background-color: #28aa4a;
-                            color: white;display: flex;justify-content: center;align-items: center; cursor:pointer">Upload
-                            Resume</label>
-                    </div>
+                        <input type="file" placeholder="Resume Upload Here" style="display:none;">
+                                        <input type="file" name="file" id="file1" onchange="uploadFile()" style="display:none;">
+                                        <label for="file" style="height: 70px;/* width: 40px; */background-color: #28aa4a;
+                                        color: white;display: flex;justify-content: center;align-items: center; cursor:pointer">Upload Resume</label>
+                   <progress id="progressBar" value="0" max="100" style="width:300px;"></progress>
+                   <h3 id="status"></h3>
+                   <p id="loaded_n_total"></p>
+                </div>
 
 
                     <div class="col-12">
                         <div class="form-group">
-                            <textarea name="message" class="form-control" placeholder="Message*" id="message" cols="30"
-                                rows="6" required="" ></textarea>
-                            <div class="help-block with-errors"></div>
+                            <textarea name="message" class="form-control" placeholder="Message*" cols="30"
+                                rows="6" required ></textarea>
                         </div>
                     </div>
 
@@ -134,8 +121,6 @@
                             style="pointer-events: all; cursor: pointer;">
                             <span>Submit</span>
                         </button>
-                        <div id="msgSubmit" class="h3 text-center hidden"></div>
-                        <div class="clearfix"></div>
                     </div>
 
             </form>
@@ -144,4 +129,45 @@
     </div>
 </div>
 <br>
+
+<script>
+      function _(el) {
+    return document.getElementById(el);
+  }
+
+  function uploadFile() {
+    var file = _("file1").files[0];
+    // alert(file.name+" | "+file.size+" | "+file.type);
+    var formdata = new FormData();
+    formdata.append("file1", file);
+    var ajax = new XMLHttpRequest();
+    ajax.upload.addEventListener("progress", progressHandler, false);
+    ajax.addEventListener("load", completeHandler, false);
+    ajax.addEventListener("error", errorHandler, false);
+    ajax.addEventListener("abort", abortHandler, false);
+    ajax.open("POST", "file_upload_parser.php"); // http://www.developphp.com/video/JavaScript/File-Upload-Progress-Bar-Meter-Tutorial-Ajax-PHP
+    //use file_upload_parser.php from above url
+    ajax.send(formdata);
+  }
+
+  function progressHandler(event) {
+    _("loaded_n_total").innerHTML = "Uploaded " + event.loaded + " bytes of " + event.total;
+    var percent = (event.loaded / event.total) * 100;
+    _("progressBar").value = Math.round(percent);
+    _("status").innerHTML = Math.round(percent) + "% uploaded... please wait";
+  }
+
+  function completeHandler(event) {
+    _("status").innerHTML = event.target.responseText;
+    _("progressBar").value = 0; //wil clear progress bar after successful upload
+  }
+
+  function errorHandler(event) {
+    _("status").innerHTML = "Upload Failed";
+  }
+
+  function abortHandler(event) {
+    _("status").innerHTML = "Upload Aborted";
+  }
+</script>
 <?php include("footer.php") ?>

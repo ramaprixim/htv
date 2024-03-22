@@ -5,6 +5,40 @@
     .skill-area::before {
         height: 0px;
     }
+
+    .input_filed{
+        border-radius: 10px;
+    }
+    .btn-danger{
+        background-color: #ff0000 !important;
+    color: white !important;
+    padding: 16px 20px !important;
+    border: none !important;
+    cursor: pointer !important;
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    opacity: 0.8 !important;
+    }
+    .floating-heading-tag{
+        color: #4d4c4c;
+    width: 101%;
+    width: 100%;
+    line-height: 2;
+    font-size: 17px;
+    height: 96px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 18px;
+    line-height: 24px;
+    font-weight: 500;
+    }
+    .floating-heading{
+        background-color: #eeeeee !important;
+    }
+    .form-popup{
+        border-radius: 12px;
+    }
 </style>
 
 
@@ -27,18 +61,18 @@ function closeForm() {
 
     <form action="floating.php" method="post" class="form-container">
         <div class="float-heading">
-            <h2 style="color: #000000;width: 101%;width: 100%;line-height: 2;font-size: 17px;height: 160px;">Please fill out the form below and we will get back to you as soon as possible.</h2>
+            <h2 class="floating-heading-tag">Please fill out the form below and we will get back to you as soon as possible.</h2>
         </div>
 
         <div class="textfiled-wrapper">
-            <input type="text" name="float-name" placeholder="*Name" class="input_filed">
-            <input type="text" name="float-company" placeholder="*Company" class="input_filed">
-            <input type="text" name="float-city" placeholder="*City" class="input_filed">
-            <input type="text" name="float-contact" placeholder="*Contact" class="input_filed">
+            <input type="text" name="float-name" placeholder="*Name" class="input_filed" required>
+            <input type="text" name="float-company" placeholder="*Company" class="input_filed" required>
+            <input type="text" name="float-city" placeholder="*City" class="input_filed" required>
+            <input type="text" name="float-contact" placeholder="*Contact" class="input_filed" required>
             <textarea placeholder="*Comment" name="msg" required></textarea>
 
             <button type="submit" class="btn submit-btn" name="submit"><b>&#10148;</b> Submit</button>
-            <button type="button" class=" cancel" onclick="closeForm()">&#x2716;</button>
+            <button type="button" class="btn btn-danger" onclick="closeForm()" > Close</button>
         </div>
 
 
