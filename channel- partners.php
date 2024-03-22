@@ -142,56 +142,47 @@
     <div class="container">
         <div class="section-title">
             <span>Contact Us</span>
-            <h2>Sign up to explore partnership</h2>
+            <h2>Sign up to explore partnership</h2> 
             <p>Drop your message in the form. We will get back to you earliest possible.</p>
         </div>
         <div class="contacts-form">
             <form id="contactForm" novalidate="true">
-                <div class="row">
+            <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="name" placeholder="Name *" id="name" class="form-control" required="" data-error="Please enter your name">
+                            <input type="text" name="name" placeholder="Enter Name" class="form-control" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="email" name="email" id="email" placeholder="Email*" class="form-control" required="" data-error="Please enter your email">
+                            <input type="email" name="email" placeholder="Enter Email" class="form-control" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="phone_number" id="phone_number" placeholder="Number*" required="" data-error="Please enter your number" class="form-control">
+                            <input type="tel" name="phone"  placeholder="Phone Number"  class="form-control" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-lg-12 col-sm-6">
                         <div class="form-group">
-                            <input type="text" name="msg_subject" id="msg_subject" class="form-control" placeholder="Subject*" required="" data-error="Please enter your subject">
+                            <input type="text" name="subject" class="form-control" placeholder="Subject" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
     
                     <div class="col-12">
                         <div class="form-group">
-                            <textarea name="message" class="form-control" placeholder="Message*" id="message" cols="30" rows="6" required="" data-error="Write your message"></textarea>
+                            <textarea name="message" class="form-control" placeholder="Message" cols="30" rows="6" required></textarea>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
 
-                    <div class="form-group">
-                        <div class="form-check">
-                            <input name="gridCheck" value="I agree to the terms and privacy policy." class="form-check-input" type="checkbox" id="gridCheck" required="">
-                            <label class="form-check-label" for="gridCheck">
-                                I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-policy.html">privacy policy</a>
-                            </label>
-                            <div class="help-block with-errors gridCheck-error"></div>
-                        </div>
-                    </div>
     
                     <div class="col-lg-12 col-md-12">
                         <button type="submit" class="default-btn active disabled" style="pointer-events: all; cursor: pointer;">
