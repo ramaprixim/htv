@@ -36,7 +36,7 @@
                 we'll find a job for you.</p>
         </div>
         <div class="contacts-form">
-            <form action="candidate-registration-form.php" method="post" novalidate="true" enctype="multipart/form-data" >
+            <form id="upload_form" action="candidate-registration-form.php" method="post" enctype="multipart/form-data" >
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="form-group">
@@ -97,14 +97,11 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 form-group">
-                        <input type="file" placeholder="Resume Upload Here" style="display:none;">
-                                        <input type="file" name="file" id="file1" onchange="uploadFile()" style="display:none;">
-                                        <label for="file" style="height: 70px;/* width: 40px; */background-color: #28aa4a;
-                                        color: white;display: flex;justify-content: center;align-items: center; cursor:pointer">Upload Resume</label>
-                   <progress id="progressBar" value="0" max="100" style="width:300px;"></progress>
-                   <h3 id="status"></h3>
-                   <p id="loaded_n_total"></p>
-                </div>
+                        <input type="file" name="file1" id="file1" onchange="uploadFile()"><br>
+                        <progress id="progressBar" value="0" max="100" style="width:300px;"></progress>
+                        <h3 id="status"></h3>
+                        <p id="loaded_n_total"></p>
+                    </div>
 
 
                     <div class="col-12">
@@ -129,9 +126,8 @@
     </div>
 </div>
 <br>
-
 <script>
-      function _(el) {
+    function _(el) {
     return document.getElementById(el);
   }
 
